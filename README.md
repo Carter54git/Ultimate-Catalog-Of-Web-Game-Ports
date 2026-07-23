@@ -30,8 +30,7 @@ This catalog tracks games playable in the browser, mostly via WebAssembly (WASM)
 | Angband | — | [angband/angband](https://github.com/angband/angband) |
 | Angry Birds 2 | — | [Reeyuki/angry2](https://github.com/Reeyuki/angry2) |
 | Angry Birds Epic v3.0.1 | — | [DarkTerraYT/EpicWeb](https://github.com/DarkTerraYT/EpicWeb) |
-| Animal Crossing | [▶ Play](https://retrogamescenter.ru/ports/ac-webport-main/index.html) | [web-ports/ac-gamecube](https://github.com/web-ports/ac-gamecube) |
-| Animal Crossing (GAMECUBE) | [▶ Play](https://gn-math.dev/?id=828) | — |
+| Animal Crossing (Gamecube) | [▶ Play](https://gn-math.dev/?id=828) | [web-ports/ac-gamecube](https://github.com/web-ports/ac-gamecube) |
 | Anton Blast Demo | — | [burnedpopcorn/Anton-Blast-Demo-Web-Port](https://github.com/burnedpopcorn/Anton-Blast-Demo-Web-Port) |
 | Antonblast | [▶ Play](https://gn-math.dev/?id=711) | [web-ports/antonblast](https://github.com/web-ports/antonblast) |
 | Apes vs Helium | [▶ Play](https://gn-math.dev/?id=783) | [bubbls/UGS-Assets/tree/main/apesvshelium](https://github.com/bubbls/UGS-Assets/tree/main/apesvshelium) |
