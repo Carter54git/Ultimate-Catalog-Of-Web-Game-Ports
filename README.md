@@ -140,28 +140,20 @@ This catalog tracks games playable in the browser, mostly via WebAssembly (WASM)
 | Fallout | [▶ Play](https://gn-math.dev/?id=585) | [midzer/fallout1-ce](https://github.com/midzer/fallout1-ce) |
 | Fallout 2 | — | [roginvs/fallout2-ce](https://github.com/roginvs/fallout2-ce) |
 | Faster Than Light: Demo | [▶ Play](https://retrogamescenter.ru/ports/ftldemo/index.html) | — |
-| Fear & Hunger | [▶ Play](https://gn-math.dev/?id=706) | — |
-| Fear & Hunger 2: Termina | [▶ Play](https://gn-math.dev/?id=794) | — |
-| Fear and Hunger | — | [web-ports/fear-and-hunger](https://github.com/web-ports/fear-and-hunger) |
-| Fear and Hunger 2: Termina | — | [web-ports/fear-and-hunger-2](https://github.com/web-ports/fear-and-hunger-2) |
+| Fear & Hunger | [▶ Play](https://gn-math.dev/?id=706) | [web-ports/fear-and-hunger](https://github.com/web-ports/fear-and-hunger) |
+| Fear & Hunger 2: Termina | [▶ Play](https://gn-math.dev/?id=794) | [web-ports/fear-and-hunger-2](https://github.com/web-ports/fear-and-hunger-2) |
 | Fears To Fathom | [▶ Play](https://gn-math.github.io/web-port/fears-to-fathom/) | [genizy/web-port/tree/main/fears-to-fathom](https://github.com/genizy/web-port/tree/main/fears-to-fathom) |
 | Fears to Fathom: Home Alone | [▶ Play](https://gn-math.dev/?id=460) | [slqntdevss/FTFHAPort](https://github.com/slqntdevss/FTFHAPort) |
 | Fih | [▶ Play](https://gn-math.dev/?id=797) | — |
 | FISH | [▶ Play](https://gn-math.dev/?id=761) | [web-ports/fish](https://github.com/web-ports/fish) |
-| Five Nighs at Epstein's | — | [web-ports/fnae](https://github.com/web-ports/fnae) |
-| Five Nights at Candy's | [▶ Play](https://gn-math.dev/?id=503) | — |
-| Five Nights at Candy's 1 | — | [web-ports/fnac/tree/main/1](https://github.com/web-ports/fnac/tree/main/1) |
-| Five Nights at Candy's 2 | [▶ Play](https://gn-math.dev/?id=504) | [web-ports/fnac/tree/main/2](https://github.com/web-ports/fnac/tree/main/2) |
 | Five Nights at Epstein's | [▶ Play](https://gn-math.dev/?id=710) | [web-ports/fnae](https://github.com/web-ports/fnae) |
-| Five Nights at Freddy's | [▶ Play](https://gn-math.dev/?id=38) | — |
-| Five Nights at Freddy's 1 | — | [irv77/hd_fnaf/tree/main/1](https://github.com/irv77/hd_fnaf/tree/main/1) |
+| Five Nights at Freddy's | [▶ Play](https://gn-math.dev/?id=38) | [irv77/hd_fnaf/tree/main/1](https://github.com/irv77/hd_fnaf/tree/main/1) |
 | Five Nights at Freddy's 2 | [▶ Play](https://gn-math.dev/?id=39) | [irv77/hd_fnaf/tree/main/2](https://github.com/irv77/hd_fnaf/tree/main/2) |
 | Five Nights at Freddy's 3 | [▶ Play](https://gn-math.dev/?id=40) | [irv77/hd_fnaf/tree/main/3](https://github.com/irv77/hd_fnaf/tree/main/3) |
 | Five Nights at Freddy's 4 | [▶ Play](https://gn-math.dev/?id=41) | [irv77/hd_fnaf/tree/main/4](https://github.com/irv77/hd_fnaf/tree/main/4) |
 | Five Nights at Freddy's 4: Halloween | [▶ Play](https://gn-math.dev/?id=428) | — |
 | Five Nights at Freddy's World: Refreshed | [▶ Play](https://gn-math.dev/?id=704) | [web-ports/fnaf-world-refreshed](https://github.com/web-ports/fnaf-world-refreshed) |
-| Five Nights at Freddy's: Pizza Simulator | [▶ Play](https://gn-math.dev/?id=191) | — |
-| Five Nights at Freddy's: Pizzeria Simulator | — | [irv77/hd_fnaf/tree/main/ps](https://github.com/irv77/hd_fnaf/tree/main/ps) |
+| Five Nights at Freddy's: Pizzeria Simulator | [▶ Play](https://gn-math.dev/?id=191) | [irv77/hd_fnaf/tree/main/ps](https://github.com/irv77/hd_fnaf/tree/main/ps) |
 | Five Nights at Freddy's: Sister Location | [▶ Play](https://gn-math.dev/?id=185) | [irv77/hd_fnaf/tree/main/sl](https://github.com/irv77/hd_fnaf/tree/main/sl) |
 | Five Nights at Freddy's: Ultimate Custom Night | [▶ Play](https://gn-math.dev/?id=192) | [irv77/hd_fnaf/tree/main/ucn](https://github.com/irv77/hd_fnaf/tree/main/ucn) |
 | Five Nights at Freddy's: World | [▶ Play](https://gn-math.dev/?id=190) | [irv77/hd_fnaf/tree/main/w](https://github.com/irv77/hd_fnaf/tree/main/w) |
@@ -170,7 +162,6 @@ This catalog tracks games playable in the browser, mostly via WebAssembly (WASM)
 | Five Nights in Anime 3D | — | [Reeyuki/fivenightsanime3dport](https://github.com/Reeyuki/fivenightsanime3dport) |
 | Flare | — | [midzer/flare-engine](https://github.com/midzer/flare-engine) |
 | Flashback | — | [midzer/reminiscence](https://github.com/midzer/reminiscence) |
-| Flying Gorilla | — | [web-ports/flying-gorilla](https://github.com/web-ports/flying-gorilla) |
 | Flying Gorilla 3D | [▶ Play](https://gn-math.dev/?id=763) | [web-ports/flying-gorilla](https://github.com/web-ports/flying-gorilla) |
 | FNAF | [▶ Play](https://gn-math.github.io/web-port/fnaf/) | [genizy/web-port/tree/main/fnaf](https://github.com/genizy/web-port/tree/main/fnaf) |
 | Freegemas | — | [midzer/freegemas](https://github.com/midzer/freegemas) |
@@ -180,8 +171,7 @@ This catalog tracks games playable in the browser, mostly via WebAssembly (WASM)
 | Fundamental Paper Novel | [▶ Play](https://gn-math.dev/?id=746) | — |
 | Fungiman | — | [GrassPorts/Fungiman](https://github.com/GrassPorts/Fungiman) |
 | Fused 240 | [▶ Play](https://gn-math.dev/?id=722) | — |
-| Gabriel's Awesome Schoolhouse | — | [web-ports/gash](https://github.com/web-ports/gash) |
-| Gabriel's Awesome Schoolhouse (GASH) | [▶ Play](https://gn-math.dev/?id=784) | — |
+| Gabriel's Awesome Schoolhouse | [▶ Play](https://gn-math.dev/?id=784) | [web-ports/gash](https://github.com/web-ports/gash) |
 | Genital Jousting | — | [degloved-net/genital-jousting](https://github.com/degloved-net/genital-jousting) |
 | Geometry Dash | [▶ Play](https://gn-math.dev/?id=785) | — |
 | Getting Over It | [▶ Play](https://gn-math.github.io/web-port/getting-over-it/) | [genizy/web-port/tree/main/getting-over-it](https://github.com/genizy/web-port/tree/main/getting-over-it) |
@@ -233,12 +223,10 @@ This catalog tracks games playable in the browser, mostly via WebAssembly (WASM)
 | Kindergarten 1 & 2 | [▶ Play](https://gn-math.github.io/web-port/kindergarten/) | [genizy/web-port/tree/main/kindergarten](https://github.com/genizy/web-port/tree/main/kindergarten) |
 | Kindergarten 2 | [▶ Play](https://gn-math.dev/?id=446) | — |
 | Kindergarten 3 | [▶ Play](https://gn-math.dev/?id=501) | [slqntdevss/Kindergarten3Port](https://github.com/slqntdevss/Kindergarten3Port) |
-| Kirby ~ Soft & Wet | [▶ Play](https://gn-math.dev/?id=692) | — |
-| Kirby ~ Soft and Wet | — | [web-ports/soft-and-wet](https://github.com/web-ports/soft-and-wet) |
+| Kirby ~ Soft and Wet | [▶ Play](https://gn-math.dev/?id=692) | [web-ports/soft-and-wet](https://github.com/web-ports/soft-and-wet) |
 | Klifur | — | [aukak/klifur](https://github.com/aukak/klifur) |
 | koi/_flixel | [▶ Play](https://oldgrounds.xyz/) | — |
-| La Madriguera | — | [web-ports/la-madriguera](https://github.com/web-ports/la-madriguera) |
-| La Madriguera (Lazy Bear Game) | [▶ Play](https://gn-math.dev/?id=843) | — |
+| La Madriguera | [▶ Play](https://gn-math.dev/?id=843) | [web-ports/la-madriguera](https://github.com/web-ports/la-madriguera) |
 | Lacey's Flash Games | [▶ Play](https://gn-math.github.io/web-port/laceys-flash-games/) | [genizy/web-port/tree/main/lacysflashgames](https://github.com/genizy/web-port/tree/main/lacysflashgames) |
 | LBreakoutHD | — | [midzer/lbreakouthd](https://github.com/midzer/lbreakouthd) |
 | Lethal Ape | [▶ Play](https://gn-math.dev/?id=793) | [web-ports/lethal-ape](https://github.com/web-ports/lethal-ape) |
@@ -347,7 +335,6 @@ This catalog tracks games playable in the browser, mostly via WebAssembly (WASM)
 | Shift at Midnight | [▶ Play](https://gn-math.dev/?id=721) | [webporting/Shift-At-Midnight](https://github.com/webporting/Shift-At-Midnight) |
 | Shiromino | — | [midzer/shiromino](https://github.com/midzer/shiromino) |
 | Simutrans | — | [midzer/simutrans](https://github.com/midzer/simutrans) |
-| Slender: The 8 Pages | [▶ Play](https://gn-math.dev/?id=451) | — |
 | Slender: The Eight Pages | [▶ Play](https://gn-math.github.io/web-port/slender/) | [genizy/web-port/tree/main/slender](https://github.com/genizy/web-port/tree/main/slender) |
 | Slenderina The Cellar | — | [Reeyuki/slenderina](https://github.com/Reeyuki/slenderina) |
 | Slendytubbies | — | [web-ports/slendytubbies](https://github.com/web-ports/slendytubbies) |
@@ -458,17 +445,30 @@ This catalog tracks games playable in the browser, mostly via WebAssembly (WASM)
 
 ## Credits
 
-These ports link to creator profiles rather than specific repositories:
-
-| Game | Profile |
-| --- | --- |
-| bog/aukak | [aukak](https://github.com/aukak) |
-| breadbb/genizy | [genizy](https://github.com/genizy) |
-| gays dot' studio | [gays-studio](https://github.com/gays-studio) |
-| GMH-Code | [GMH-Code](https://github.com/GMH-Code) |
-| JS-DOS | [js-dos](https://github.com/js-dos/) |
-| Rec Room | [98corbins](https://github.com/98corbins) |
-| webport.ing | [webporting](https://github.com/webporting) |
+- [breadbb/genizy](https://github.com/genizy)
+- [98Corbins](https://98.c0rbin.fun/)
+- [bog/aukak](https://github.com/aukak)
+- [burnedpopcorn](https://github.com/burnedpopcorn)
+- [irv77](https://github.com/irv77)
+- [koi/_flixel](https://oldgrounds.xyz/)
+- [slqnt](https://github.com/slqntdevss)
+- [sodiboo](https://github.com/sodiboo)
+- [SpanishFreddy](https://github.com/spanishfreddy)
+- [Mercury Workshop](https://github.com/MercuryWorkshop)
+- [national porting association](https://github.com/National-Porting-Association)
+- [webport.ing](https://github.com/webporting)
+- [sky](https://github.com/skysthelimitt) at selenite.cc
+- [GMH-Code](https://github.com/GMH-Code)
+- [MattConn](https://github.com/MattConn)
+- [VinMannie](https://github.com/VinMannie)
+- [chromaticpipe](https://github.com/chromaticpipe)
+- [skyleite](https://github.com/skyleite)
+- [BlueGameMC](https://github.com/BlueGameMC)
+- [gays dot' studio](https://github.com/gays-studio)
+- [Vanilagy](https://github.com/Vanilagy)
+- [TWS2401](https://github.com/TWS2401)
+- [q8j](https://github.com/q8j-dev)
+- [wasm.rip](https://wasm.rip)
 
 ## License
 
