@@ -8,10 +8,10 @@ This catalog tracks games playable in the browser, mostly via WebAssembly (WASM)
 
 | Metric | Count |
 | --- | ---: |
-| Total games | **474** |
-| With demo | 206 |
-| With repository | 372 |
-| Demo + repository | 114 |
+| Total games | **425** |
+| With demo | 202 |
+| With repository | 332 |
+| Demo + repository | 202 |
 
 ## List
 
