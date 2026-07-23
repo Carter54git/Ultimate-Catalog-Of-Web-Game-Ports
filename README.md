@@ -56,9 +56,6 @@ This catalog tracks games playable in the browser, mostly via WebAssembly (WASM)
 | Beat Banger | — | [ajtabjs/bbport](https://github.com/ajtabjs/bbport) |
 | Beatblock | [▶ Play](https://gn-math.dev/?id=787) | — |
 | Bendy and The Ink Machine | [▶ Play](https://gn-math.github.io/web-port/bendy/) | [genizy/web-port/tree/main/bendy](https://github.com/genizy/web-port/tree/main/bendy) |
-| Bendy and The Ink Machine (2) | — | [slqntdevss/BATIMFullPort](https://github.com/slqntdevss/BATIMFullPort) |
-| Bendy and The Ink Machine (3) | [▶ Play](https://gn-math.github.io/web-port/bendy/) | [genizy/web-port/tree/main/bendy](https://github.com/genizy/web-port/tree/main/bendy) |
-| Bendy and The Ink Machine (4) | — | [web-ports/bendy-and-the-ink-machine](https://github.com/web-ports/bendy-and-the-ink-machine) |
 | Bendy and the Ink Machine: ALL CHAPTERS | [▶ Play](https://gn-math.dev/?id=803) | — |
 | BERGENTRUCK 201x | [▶ Play](https://gn-math.github.io/web-port/bergentruck/) | [genizy/web-port/tree/main/bergentruck](https://github.com/genizy/web-port/tree/main/bergentruck) |
 | Biolab Disaster | — | [phoboslab/high_biolab](https://github.com/phoboslab/high_biolab) |
@@ -71,8 +68,6 @@ This catalog tracks games playable in the browser, mostly via WebAssembly (WASM)
 | BreakHack | — | [midzer/breakhack](https://github.com/midzer/breakhack) |
 | Brogue | — | [midzer/BrogueCE](https://github.com/midzer/BrogueCE) |
 | Brotato | [▶ Play](https://gn-math.dev/?id=723) | [BlueGameMC/BrotatoWeb](https://github.com/BlueGameMC/BrotatoWeb) |
-| Brotato (2) | — | [gays-studio/brotato-webport](https://github.com/gays-studio/brotato-webport/) |
-| Brotato (3) | — | [wowdabug/s1/tree/main/brotato](https://github.com/wowdabug/s1/tree/main/brotato) |
 | Buckshot Roulette | [▶ Play](https://gn-math.github.io/web-port/buckshot-roulette/) | [genizy/web-port/tree/main/buckshot-roulette](https://github.com/genizy/web-port/tree/main/buckshot-roulette) |
 | burnedwebsite | — | [burnedpopcorn/burnedwebsite](https://github.com/burnedpopcorn/burnedwebsite) |
 | Buster Jam | [▶ Play](https://gn-math.dev/?id=646) | — |
@@ -85,7 +80,6 @@ This catalog tracks games playable in the browser, mostly via WebAssembly (WASM)
 | Catchaware | — | [barnicalstuff/captchaware](https://github.com/barnicalstuff/captchaware) |
 | Cave Story | [▶ Play](https://retrogamescenter.ru/ports/cavestory/index.html) | [midzer/nxengine-evo](https://github.com/midzer/nxengine-evo) |
 | Celeste | [▶ Play](https://gn-math.dev/?id=623) | [MercuryWorkshop/celeste-wasm](https://github.com/MercuryWorkshop/celeste-wasm) |
-| Celeste (2) | — | [web-ports/celeste](https://github.com/web-ports/celeste) |
 | Celeste 3D | — | [gays-studio/celeste3d](https://github.com/gays-studio/celeste3d) |
 | Chasing Tails ~A Promise in the Snow~ | — | [gays-studio/chasingtails](https://github.com/gays-studio/chasingtails) |
 | Cheese Rollers | — | [SomeRandomFella/portsandrips/tree/master/CheeseRollingWeb](https://github.com/SomeRandomFella/portsandrips/tree/master/CheeseRollingWeb) |
@@ -99,14 +93,10 @@ This catalog tracks games playable in the browser, mostly via WebAssembly (WASM)
 | Command & Conquer | — | [midzer/Vanilla-Conquer](https://github.com/midzer/Vanilla-Conquer) |
 | Commander Keen | — | [jamesfmackenzie/chocolatekeen](https://github.com/jamesfmackenzie/chocolatekeen) |
 | Counter Strike & Half Life | — | [yohimik/webxash3d-fwgs](https://github.com/yohimik/webxash3d-fwgs) |
-| Counter Strike & Half Life (2) | — | [Pixelsuft/hl](https://github.com/Pixelsuft/hl) |
-| Counter Strike & Half Life frontend (2) | — | [Pixelsuft/hl](https://github.com/Pixelsuft/hl) |
 | Crazy Cattle 3D | [▶ Play](https://gn-math.dev/?id=164) | — |
 | Cro-Mag Rally | — | [midzer/CroMagRally](https://github.com/midzer/CroMagRally) |
 | Cruelty Squad | [▶ Play](https://gn-math.dev/?id=825) | [imt00dizzy/cruelty-squad](https://github.com/imt00dizzy/cruelty-squad) |
-| Cruelty Squad (2) | — | [web-ports/cruelty-squad](https://github.com/web-ports/cruelty-squad) |
 | Cuphead | [▶ Play](https://gn-math.github.io/web-port/cuphead/) | [genizy/web-port/tree/main/cuphead](https://github.com/genizy/web-port/tree/main/cuphead) |
-| Cuphead (2) | — | [woahhcrackers/CupheadWeb](https://github.com/woahhcrackers/CupheadWeb) |
 | Cuyo | — | [midzer/cuyo](https://github.com/midzer/cuyo) |
 | Dawnfolk | — | [degloved-net/dawnfolk](https://github.com/degloved-net/dawnfolk) |
 | Dead Plate | [▶ Play](https://gn-math.github.io/web-port/dead-plate/) | [genizy/web-port/tree/main/dead-plate](https://github.com/genizy/web-port/tree/main/dead-plate) |
@@ -132,7 +122,6 @@ This catalog tracks games playable in the browser, mostly via WebAssembly (WASM)
 | Dressing Room | — | — |
 | Duck Life 8 | [▶ Play](https://gn-math.dev/?id=695) | — |
 | Duck Life Adventure | — | [aukak/duck-life-adventure](https://github.com/aukak/duck-life-adventure) |
-| Duck Life Adventure (2) | — | [web-ports/duck-8](https://github.com/web-ports/duck-8) |
 | Dude Simulator | [▶ Play](https://dude-simulator-webgl.netlify.app/) | — |
 | Dude Simulator 2 | [▶ Play](https://dude-sim-2-webgl-ported-by-carteryes.netlify.app/) | — |
 | Duke Nukem 3D | — | [midzer/BelgianChocolateDuke3D](https://github.com/midzer/BelgianChocolateDuke3D) |
@@ -200,10 +189,7 @@ This catalog tracks games playable in the browser, mostly via WebAssembly (WASM)
 | Gilbert and the doors | — | [midzer/gilbert](https://github.com/midzer/gilbert) |
 | GO TO BED | — | — |
 | Gorilla Tag | [▶ Play](https://gn-math.dev/?id=668) | [web-ports/gorilla-tag](https://github.com/web-ports/gorilla-tag) |
-| Gorilla Tag (2) | — | [aukak/gorrila-tag](https://github.com/aukak/gorrila-tag) |
 | Granny | [▶ Play](https://gn-math.dev/?id=90) | [web-ports/granny](https://github.com/web-ports/granny) |
-| Granny (2) | — | [aukak/Granny](https://github.com/aukak/Granny) |
-| Granny (3) | — | [woahhcrackers/GrannyWeb](https://github.com/woahhcrackers/GrannyWeb) |
 | Gravity Circuit | — | [TheChillVideoGameNerd/Gravity-Circuit-Web-Port](https://github.com/TheChillVideoGameNerd/Gravity-Circuit-Web-Port) |
 | GTA 3 | — | [larpinguser/HelloWorldScriptBasicFunctionCSharpIsCool](https://github.com/larpinguser/HelloWorldScriptBasicFunctionCSharpIsCool/) |
 | GTA Vice City | — | [Lolendor/reVCDOS](https://github.com/Lolendor/reVCDOS) |
@@ -222,7 +208,6 @@ This catalog tracks games playable in the browser, mostly via WebAssembly (WASM)
 | Hexen II | [▶ Play](https://dos.zone/hexen-2-fteqw/) | — |
 | Hollow Knight | [▶ Play](https://gn-math.dev/?id=468) | [aukak/hollow-knight](https://github.com/aukak/hollow-knight) |
 | Hollow Knight: Silksong | [▶ Play](https://gn-math.dev/?id=771) | [web-ports/hollow-knight-silksong](https://github.com/web-ports/hollow-knight-silksong) |
-| Hollow Knight: Silksong (2) | — | [webporting/Hollow-Knight-Silksong](https://github.com/webporting/Hollow-Knight-Silksong) |
 | Homeworld | — | [GardensOfKadesh/Homeworld](https://github.com/GardensOfKadesh/Homeworld) |
 | Hotline Miami | [▶ Play](https://gn-math.github.io/web-port/hotline-miami/) | [genizy/web-port/tree/main/hotline-miami](https://github.com/genizy/web-port/tree/main/hotline-miami) |
 | Human Expenditure Program | [▶ Play](https://gn-math.github.io/web-port/human-expenditure-program/) | [genizy/web-port/tree/main/human-expenditure-program](https://github.com/genizy/web-port/tree/main/human-expenditure-program) |
@@ -243,7 +228,6 @@ This catalog tracks games playable in the browser, mostly via WebAssembly (WASM)
 | Jump 'n Bump | — | [midzer/jumpnbump](https://github.com/midzer/jumpnbump) |
 | Just Shapes & Beats | [▶ Play](https://gn-math.dev/?id=826) | [web-ports/jsab](https://github.com/web-ports/jsab) |
 | Karlson | [▶ Play](https://gn-math.github.io/web-port/karlson/) | [genizy/web-port/tree/main/karlson](https://github.com/genizy/web-port/tree/main/karlson) |
-| Karlson (2) | — | [thecheetoman/KarlsonWebPort](https://github.com/thecheetoman/KarlsonWebPort) |
 | Kill the Ice Age Baby Adventure 2 | — | [SomeRandomFella/kill-ice-age-baby-adventure-2-](https://github.com/SomeRandomFella/kill-ice-age-baby-adventure-2-) |
 | Kindergarten | [▶ Play](https://gn-math.dev/?id=445) | — |
 | Kindergarten 1 & 2 | [▶ Play](https://gn-math.github.io/web-port/kindergarten/) | [genizy/web-port/tree/main/kindergarten](https://github.com/genizy/web-port/tree/main/kindergarten) |
@@ -280,12 +264,10 @@ This catalog tracks games playable in the browser, mostly via WebAssembly (WASM)
 | Minesweeper Plus | [▶ Play](https://gn-math.github.io/web-port/minesweeperplus/) | [genizy/web-port/tree/main/minesweeperplus](https://github.com/genizy/web-port/tree/main/minesweeperplus) |
 | MiniSlug | — | [midzer/minislug](https://github.com/midzer/minislug) |
 | MiSide | [▶ Play](https://gn-math.dev/?id=814) | [web-ports/miside](https://github.com/web-ports/miside/) |
-| MiSide (2) | — | [woahhcrackers/MiSideWeb](https://github.com/woahhcrackers/MiSideWeb) |
 | Muddy Heights | — | [gabadagabadgoo/morbidy-obese-chickens](https://github.com/gabadagabadgoo/morbidy-obese-chickens) |
 | My Baby Talking Hippo | — | [web-ports/talking-hippo](https://github.com/web-ports/talking-hippo) |
 | My Dictator Stalin Can't Be This Cute ?! | — | [degloved-net/my-dictator-stalin-cant-be-this-cute](https://github.com/degloved-net/my-dictator-stalin-cant-be-this-cute) |
 | My Femboy Roommate | — | [github.com/gays-studio/mfr-webport](http://github.com/gays-studio/mfr-webport) |
-| My Femboy Roommate (2) | — | [Cute-Orange-Cat/MFR/tree/main](https://github.com/Cute-Orange-Cat/MFR/tree/main) |
 | My Talking Baby Hippo | [▶ Play](https://gn-math.dev/?id=840) | — |
 | NAM / Napalm | [▶ Play](https://retrogamescenter.ru/ports/namweb/run.html) | — |
 | NBlood | [▶ Play](https://retrogamescenter.ru/ports/nbloodweb/run.html) | — |
@@ -295,7 +277,6 @@ This catalog tracks games playable in the browser, mostly via WebAssembly (WASM)
 | Nikwi | — | [midzer/nikwi](https://github.com/midzer/nikwi) |
 | Nodebuster | — | [degloved-net/nodebuster](https://github.com/degloved-net/nodebuster) |
 | Nothing | — | [gays-studio/nothing-wasm-web](https://github.com/gays-studio/nothing-wasm-web) |
-| Nothing (2) | — | [googoogoob/NothingWebPort](https://github.com/googoogoob/NothingWebPort) |
 | Nubby's Number Factory | [▶ Play](https://gn-math.dev/?id=517) | [genizy/biologyexams/tree/main/nubbys-number-factory](https://github.com/genizy/biologyexams/tree/main/nubbys-number-factory) |
 | Numpty Physics | — | [midzer/numptyphysics](https://github.com/midzer/numptyphysics) |
 | OLD CheesedUP | — | [burnedpopcorn/OLD-CheesedUP-Web-Port](https://github.com/burnedpopcorn/OLD-CheesedUP-Web-Port) |
@@ -321,8 +302,6 @@ This catalog tracks games playable in the browser, mostly via WebAssembly (WASM)
 | Plague Inc: Evolved | — | [Reeyuki/PlagueIncEvolved](https://github.com/Reeyuki/PlagueIncEvolved) |
 | Plants vs Zombies: Fusion | — | [gays-studio/pvzfusion](https://github.com/gays-studio/pvzfusion) |
 | Plants vs Zombies: GOTY Edition | [▶ Play](https://gn-math.dev/?id=842) | [wszqkzqk/PvZ-Portable](https://github.com/wszqkzqk/PvZ-Portable) |
-| Plants vs Zombies: GOTY Edition (2) | — | [web-ports/pvz](https://github.com/web-ports/pvz) |
-| Plants vs Zombies: GOTY Edition (3) | — | [ajtabjs/pvzdeploy](https://github.com/ajtabjs/pvzdeploy) |
 | Plants vs. Zombies | [▶ Play](https://retrogamescenter.ru/ports/pvzweb/index.html) | — |
 | Portal | — | [weliveinhell/source-engine](https://github.com/weliveinhell/source-engine) |
 | Power Hover | [▶ Play](https://gn-math.dev/?id=743) | [web-ports/power-hover](https://github.com/web-ports/power-hover) |
@@ -377,17 +356,14 @@ This catalog tracks games playable in the browser, mostly via WebAssembly (WASM)
 | Slendytubbies 2D | [▶ Play](https://gn-math.dev/?id=807) | [web-ports/slendytubbies/tree/main/2d](https://github.com/web-ports/slendytubbies/tree/main/2d) |
 | Slime Rancher | [▶ Play](https://gn-math.dev/?id=591) | — |
 | Slime Ranchers | — | [web-ports/slime-ranchers](https://github.com/web-ports/slime-ranchers) |
-| Slime Ranchers (2) | — | [Reeyuki/SlimeRanch](https://github.com/Reeyuki/SlimeRanch) |
 | SM Kart ZX | — | [burnedpopcorn/SM-Kart-ZX-Web-Port](https://github.com/burnedpopcorn/SM-Kart-ZX-Web-Port) |
 | sm64plus webport PoC | — | [burnedpopcorn/sm64plus-webport-PoC](https://github.com/burnedpopcorn/sm64plus-webport-PoC) |
 | Sokoban | — | [midzer/simple-sokoban](https://github.com/midzer/simple-sokoban) |
 | Something | — | [gays-studio/something-web](https://github.com/gays-studio/something-web) |
-| Something (2) | — | [googoogoob/SomethingWebPort](https://github.com/googoogoob/SomethingWebPort) |
 | Sonic CD | [▶ Play](https://gn-math.dev/?id=589) | [TWS2401/Sonic-CD-WASM](https://github.com/TWS2401/Sonic-CD-WASM) |
 | Sonic GDevelop | — | [burnedpopcorn/Sonic-GDevelop-Web-Port](https://github.com/burnedpopcorn/Sonic-GDevelop-Web-Port) |
 | Sonic Mania | [▶ Play](https://gn-math.dev/?id=590) | [VinMannie/SonicManiaWeb](https://github.com/VinMannie/SonicManiaWeb) |
 | Sonic Robo Blast 2 | — | [chromaticpipe/SRB2-WASM](https://github.com/chromaticpipe/SRB2-WASM) |
-| Sonic Robo Blast 2 (2) | — | [web-ports/srb2](https://github.com/web-ports/srb2) |
 | Sonic the Hedgehog (2013) | — | [VinMannie/Sonic-1-WASM](https://github.com/VinMannie/Sonic-1-WASM) |
 | Sonic the Hedgehog 2 | — | [VinMannie/Sonic-2-WASM](https://github.com/VinMannie/Sonic-2-WASM) |
 | SONIC.EXE | [▶ Play](https://gn-math.github.io/web-port/sonic.exe/) | [genizy/web-port/tree/main/sonic.exe](https://github.com/genizy/web-port/tree/main/sonic.exe) |
@@ -423,7 +399,6 @@ This catalog tracks games playable in the browser, mostly via WebAssembly (WASM)
 | Taiko no Tatsujin | [▶ Play](https://cjdgrevival.com/) | — |
 | Tattletail | [▶ Play](https://gn-math.github.io/web-port/tattletail/) | [genizy/web-port/tree/main/tattletail](https://github.com/genizy/web-port/tree/main/tattletail) |
 | Terraria | [▶ Play](https://gn-math.dev/?id=669) | [github.com/mercuryWorkshop/terraria-wasm](http://github.com/mercuryWorkshop/terraria-wasm) |
-| Terraria (2) | — | [web-ports/terraria](https://github.com/web-ports/terraria) |
 | That's Not My Neighbor | [▶ Play](https://gn-math.github.io/web-port/thats-not-my-neighbor/) | [genizy/web-port/tree/main/thats-not-my-neighbor](https://github.com/genizy/web-port/tree/main/thats-not-my-neighbor) |
 | The Deadseat | [▶ Play](https://gn-math.github.io/web-port/deadseat/) | [genizy/web-port/tree/main/deadseat](https://github.com/genizy/web-port/tree/main/deadseat) |
 | The Legend of Zelda - A Link to the Past | — | [midzer/zelda3](https://github.com/midzer/zelda3) |
@@ -435,7 +410,6 @@ This catalog tracks games playable in the browser, mostly via WebAssembly (WASM)
 | Tomb Raider | — | [XProger/OpenLara](https://github.com/XProger/OpenLara) |
 | Torus Trooper | — | [speps/tt](https://github.com/speps/tt) |
 | Totally Accurate Battle Simulator | — | [web-ports/tabs](https://github.com/web-ports/tabs) |
-| Totally Accurate Battle Simulator (2) | — | [Reeyuki/Tabs](https://github.com/Reeyuki/Tabs) |
 | Totally Accurate Battle Simulator (TABS) | [▶ Play](https://gn-math.dev/?id=827) | — |
 | Touhou Mother | [▶ Play](https://gn-math.dev/?id=523) | [aukak/gameports/tree/main/touhou%20mother](https://github.com/aukak/gameports/tree/main/touhou%20mother) |
 | Tower To Heaven | — | [codeberg.org/midzer/tth](https://codeberg.org/midzer/tth) |
@@ -450,7 +424,6 @@ This catalog tracks games playable in the browser, mostly via WebAssembly (WASM)
 | Undertale Yellow | [▶ Play](https://gn-math.github.io/web-port/undertale-yellow/) | [genizy/web-port/tree/main/undertale-yellow](https://github.com/genizy/web-port/tree/main/undertale-yellow) |
 | Unreal Gold | — | [National-Porting-Association/unrealgold-emscripten](https://github.com/National-Porting-Association/unrealgold-emscripten) |
 | Untitled Goose Game | [▶ Play](https://gn-math.dev/?id=718) | [web-ports/untitled-goose-game](https://github.com/web-ports/untitled-goose-game) |
-| Untitled Goose Game (2) | — | [webporting/Untitled-Goose-Game](https://github.com/webporting/Untitled-Goose-Game) |
 | Upload Labs | — | [googoogoob/UploadLabsWebPort](https://github.com/googoogoob/UploadLabsWebPort) |
 | Upstream | — | [degloved-net/upstream](https://github.com/degloved-net/upstream) |
 | UvuvwevwevweOnyetenvewveUgwemubwemOssas | [▶ Play](https://gn-math.dev/?id=795) | [bubbls/ports/tree/main/UvuvwevwevweOnyetenvewveUgwemubwemOssas](https://github.com/bubbls/ports/tree/main/UvuvwevwevweOnyetenvewveUgwemubwemOssas) |
@@ -464,7 +437,6 @@ This catalog tracks games playable in the browser, mostly via WebAssembly (WASM)
 | Webfishing | [▶ Play](https://gn-math.github.io/web-port/web-fishing/) | [genizy/web-port/tree/main/web-fishing](https://github.com/genizy/web-port/tree/main/web-fishing) |
 | while True: learn() | — | [dashiellbenton/ports/tree/main/while-true-learn](https://github.com/dashiellbenton/ports/tree/main/while-true-learn) |
 | Who's Your Daddy? | [▶ Play](https://gn-math.dev/?id=791) | [Reeyuki/daddygame](https://github.com/Reeyuki/daddygame) |
-| Who's Your Daddy? (2) | — | [web-ports/daddygame](https://github.com/web-ports/daddygame) |
 | WipEout | — | [phoboslab/wipeout-rewrite](https://github.com/phoboslab/wipeout-rewrite) |
 | Witch's Heart | [▶ Play](https://gn-math.github.io/web-port/witch-heart/) | [genizy/web-port/tree/main/witch-heart](https://github.com/genizy/web-port/tree/main/witch-heart) |
 | Wizards in Shorts | — | [Reeyuki/WizardsInShorts](https://github.com/Reeyuki/WizardsInShorts) |
@@ -481,7 +453,6 @@ This catalog tracks games playable in the browser, mostly via WebAssembly (WASM)
 | yomih hustle | — | [web-ports/yomi-hustle](https://github.com/web-ports/yomi-hustle) |
 | You Want Half a Mounds Bar | — | [wasm-rip/You-Want-Half-A-Mounds-Bar-Web](https://github.com/wasm-rip/You-Want-Half-A-Mounds-Bar-Web) |
 | Your Only Move is Hustle | [▶ Play](https://gn-math.dev/?id=776) | [webporting/Your-Only-Move-Is-HUSTLE](https://github.com/webporting/Your-Only-Move-Is-HUSTLE) |
-| Your Only Move is Hustle (2) | — | [web-ports/yomi-hustle](https://github.com/web-ports/yomi-hustle) |
 | Youtubers Life OMG! | — | [Reeyuki/ytlifeomg](https://github.com/Reeyuki/ytlifeomg) |
 | Yume Nikki | [▶ Play](https://gn-math.github.io/web-port/yume-nikki/) | [genizy/web-port/tree/main/yume-nikki](https://github.com/genizy/web-port/tree/main/yume-nikki) |
 
