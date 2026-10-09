@@ -4,7 +4,7 @@ A catalog of browser game ports with demo links and source repositories.
 
 This catalog tracks games playable in the browser, mostly via WebAssembly (WASM) — compiled C/C++ (often through Emscripten and SDL), plus Unity WebGL, Godot HTML5, Flash/Ruffle, and pure JavaScript/WebGL ports.
 
-Updated October 9, 2026. New rows come from [gays-studio/web-port-list](https://github.com/gays-studio/web-port-list) and browser ports published after the previous catalog, including [degloved-net](https://github.com/degloved-net) and [web-ports/kinito-pet](https://github.com/web-ports/kinito-pet).
+Updated October 9, 2026.
 
 ## Stats
 
