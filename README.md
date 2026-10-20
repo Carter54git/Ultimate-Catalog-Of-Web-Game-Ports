@@ -10,9 +10,9 @@ Updated October 20, 2026. Browser ports added from [awesome-decomp-games](https:
 
 | Metric | Count |
 | --- | ---: |
-| Total games | **710** |
+| Total games | **713** |
 | With demo | 381 |
-| With repository | 494 |
+| With repository | 497 |
 | Demo + repository | 174 |
 
 ## List
@@ -476,259 +476,262 @@ Updated October 20, 2026. Browser ports added from [awesome-decomp-games](https:
 | 455 | People Playground (2) | — | [bubbls/ugss/tree/main/people-playground](https://github.com/bubbls/ugss/tree/main/people-playground) |
 | 456 | Pepsiman | [▶ Play](https://pepsiman.ol.mr/) | — |
 | 457 | Perfect Dark | [▶ Play](https://perfectdark.royal-cake-5abc.workers.dev/) | — |
-| 458 | Phantasy Star Online (PSO Reborn) | [▶ Play](https://recompiledgames.com/phantasy-star-online-recompiled) | — |
-| 459 | Phantasy Star Online Episode I & II (PSO Reborn) | [▶ Play](https://psoreborn.com/) | — |
-| 460 | Pizza Tower | [▶ Play](https://gn-math.github.io/web-port/pizza-tower/) | [genizy/web-port/tree/main/pizza-tower](https://github.com/genizy/web-port/tree/main/pizza-tower) |
-| 461 | Pizza Tower 1.1.0 | — | [burnedpopcorn/Pizza-Tower-1.1.0-Web-Port](https://github.com/burnedpopcorn/Pizza-Tower-1.1.0-Web-Port) |
-| 462 | Pizza Tower: Scoutdigo | [▶ Play](https://gn-math.dev/?id=628) | — |
-| 463 | PizzaTower April2021 WebPort | — | [burnedpopcorn/PizzaTower-April2021-WebPort](https://github.com/burnedpopcorn/PizzaTower-April2021-WebPort) |
-| 464 | Plague Inc | [▶ Play](https://gn-math.dev/?id=805) | — |
-| 465 | Plague Inc. | [▶ Play](https://wasm.rip/files/plauge/index.html) | — |
-| 466 | Plague Inc: Evolved | — | [Reeyuki/PlagueIncEvolved](https://github.com/Reeyuki/PlagueIncEvolved) |
-| 467 | Plants vs Zombies: Fusion | — | [gays-studio/pvzfusion](https://github.com/gays-studio/pvzfusion) |
-| 468 | Plants vs Zombies: GOTY Edition | [▶ Play](https://gn-math.dev/?id=842) | [wszqkzqk/PvZ-Portable](https://github.com/wszqkzqk/PvZ-Portable) |
-| 469 | Plants vs Zombies: GOTY Edition (2) | — | [web-ports/pvz](https://github.com/web-ports/pvz) |
-| 470 | Plants vs Zombies: GOTY Edition (3) | — | [ajtabjs/pvzdeploy](https://github.com/ajtabjs/pvzdeploy) |
-| 471 | Plants vs. Zombies | [▶ Play](https://retrogamescenter.ru/ports/pvzweb/index.html) | — |
-| 472 | Pokémon Emerald (pokeemerald-wasm) | — | [tripplyons/pokeemerald-wasm](https://github.com/tripplyons/pokeemerald-wasm) |
-| 473 | Portal | [▶ Play](https://yikes.pw/portal/) | [weliveinhell/source-engine](https://github.com/weliveinhell/source-engine) |
-| 474 | Portal | — | [AlexBoops/portal-1-port](https://github.com/AlexBoops/portal-1-port) |
-| 475 | Potion Craft: Alchemist Simulator | — | [GrassPorts/Potion-Craft-Alchemy-Simulator](https://github.com/GrassPorts/Potion-Craft-Alchemy-Simulator) |
-| 476 | Power Hover | [▶ Play](https://gn-math.dev/?id=743) | [web-ports/power-hover](https://github.com/web-ports/power-hover) |
-| 477 | Powermanga | — | [midzer/Powermanga](https://github.com/midzer/Powermanga) |
-| 478 | Pretend it's not there | — | — |
-| 479 | Prince of Persia | [▶ Play](https://princejs.com/) | [midzer/SDLPoP](https://github.com/midzer/SDLPoP) |
-| 480 | Pro Evolution Soccer 2011 | [▶ Play](https://pes11.optijuegos.net/) | — |
-| 481 | Pro Evolution Soccer 6 | [▶ Play](http://pes6.optijuegos.net) | — |
-| 482 | Project Zomboid | — | — |
-| 483 | Promises to Keep | [▶ Play](https://gitea.mcalec.dev/mcalec/ptk) | — |
-| 484 | Prototype | — | [midzer/prototype](https://github.com/midzer/prototype) |
-| 485 | Proxified Ports | — | [burnedpopcorn/Proxified-Ports](https://github.com/burnedpopcorn/Proxified-Ports) |
-| 486 | Psychopomp | — | [z4laxis/PsychopompWebport](https://github.com/z4laxis/PsychopompWebport) |
-| 487 | PT HTML Launcher | — | [burnedpopcorn/PT-HTML-Launcher](https://github.com/burnedpopcorn/PT-HTML-Launcher) |
-| 488 | PT Scoutdigo | — | [burnedpopcorn/PT-Scoutdigo-Web-Port](https://github.com/burnedpopcorn/PT-Scoutdigo-Web-Port) |
-| 489 | PTWebLauncher | — | [burnedpopcorn/PTWebLauncher](https://github.com/burnedpopcorn/PTWebLauncher) |
-| 490 | Quake | [▶ Play](https://qwasm.m-h.org.uk/) | [GMH-Code/Qwasm](https://github.com/GMH-Code/Qwasm) |
-| 491 | Quake 2 | — | [GMH-Code/Qwasm2](https://github.com/GMH-Code/Qwasm2) |
-| 492 | Quake 3 | — | [lrusso/Quake3](https://github.com/lrusso/Quake3) |
-| 493 | Quake II | [▶ Play](https://retrogamescenter.ru/ports/Q2web/index.html) | — |
-| 494 | Quake II (q2.pieter.com) | [▶ Play](http://q2.pieter.com) | — |
-| 495 | Quake II (Quake WASM2) | [▶ Play](https://qwasm2.m-h.org.uk/) | — |
-| 496 | Quake III Arena | [▶ Play](https://gn-math.dev/?id=263) | — |
-| 497 | Quake III Arena (q3.pieter.com) | [▶ Play](https://q3.pieter.com) | — |
-| 498 | Quake III Arena (q3js) | [▶ Play](https://q3js.com/) | [lklacar/q3js](https://github.com/lklacar/q3js) |
-| 499 | Quake TG | [▶ Play](https://retrogamescenter.ru/ports/quaketg/index.html) | — |
-| 500 | QuakeWorld | [▶ Play](http://q1.pieter.com) | — |
-| 501 | R.E.P.O | [▶ Play](https://gn-math.github.io/web-port/repo/) | [genizy/web-port/tree/main/repo](https://github.com/genizy/web-port/tree/main/repo) |
-| 502 | Rabbids Go Home | — | [teaserlua/rabbids-go-home-web-port](https://github.com/teaserlua/rabbids-go-home-web-port) |
-| 503 | RAFT | [▶ Play](https://gn-math.github.io/web-port/raft/) | [genizy/web-port/tree/main/raft](https://github.com/genizy/web-port/tree/main/raft) |
-| 504 | Raldi's Crackhouse | [▶ Play](https://gn-math.dev/?id=670) | [woahhcrackers/RaldiWeb-LEGACY](https://github.com/woahhcrackers/RaldiWeb-LEGACY) |
-| 505 | Raptor - Call of the Shadows | — | [midzer/raptor](https://github.com/midzer/raptor) |
-| 506 | Ratchet & Clank | [▶ Play](https://re-rac.github.io/) | [re-rac/rerac](https://github.com/re-rac/rerac) |
-| 507 | Ravenfield | — | [degloved-net/Ravenfield](https://github.com/degloved-net/Ravenfield) |
-| 508 | RE:RUN | [▶ Play](https://gn-math.dev/?id=260) | [aukak/RE-RUN](https://github.com/aukak/RE-RUN) |
-| 509 | Rec Room | — | [98corbins](https://github.com/98corbins) |
-| 510 | Redneck Rampage | [▶ Play](https://retrogamescenter.ru/ports/redneckrweb/run.html) | — |
-| 511 | Redneck Rampage: Rides Again | [▶ Play](https://retrogamescenter.ru/ports/rrridesagain/run.html) | — |
-| 512 | Redneck Rampage: Route 66 | [▶ Play](https://retrogamescenter.ru/ports/rrroute66/run.html) | — |
-| 513 | REminiscence | — | [midzer/reminiscence](https://github.com/midzer/reminiscence) |
-| 514 | Return to Castle Wolfenstein | [▶ Play](https://retrogamescenter.ru/ports/castlewolf/index.html) | — |
-| 515 | Return to Castle Wolfenstein | [▶ Play](https://wwasm.m-h.org.uk/) | — |
-| 516 | Return to Castle Wolfenstein (rtcw.pieter.com) | [▶ Play](http://rtcw.pieter.com) | — |
-| 517 | Rimworld | [▶ Play](https://wasm.rip/files/rimworld/index.html) | [SomeRandomFella/portsandrips/tree/master/rimworld](https://github.com/SomeRandomFella/portsandrips/tree/master/rimworld) |
-| 518 | Rise of the Triad | — | [midzer/rottexpr](https://github.com/midzer/rottexpr) |
-| 519 | Rockbot | — | [midzer/rockbot](https://github.com/midzer/rockbot) |
-| 520 | Rocks'n'Diamonds | [▶ Play](https://www.artsoft.org/rocksndiamonds/) | — |
-| 521 | ROUNDS | — | [Nawsif/host/tree/main/ROUNDS](https://github.com/Nawsif/host/tree/main/ROUNDS) |
-| 522 | RuneScape Classic | [▶ Play](https://runescapeclassic.gold/) | — |
-| 523 | Running Fred | — | [aukak/running-fred](https://github.com/aukak/running-fred) |
-| 524 | S.P.L.I.T | [▶ Play](https://gn-math.dev/?id=839) | [degloved-net/s.p.l.i.t](https://github.com/degloved-net/s.p.l.i.t) |
-| 525 | Saihate Station (さいはて駅) | [▶ Play](https://gn-math.dev/?id=737) | [web-ports/saihate-station](https://github.com/web-ports/saihate-station) |
-| 526 | Scampton The Great | [▶ Play](https://gn-math.dev/?id=802) | — |
-| 527 | Schoolboy Runaway | [▶ Play](https://gn-math.github.io/web-port/schoolboy-runaway/) | [genizy/web-port/tree/main/schoolboy-runaway](https://github.com/genizy/web-port/tree/main/schoolboy-runaway) |
-| 528 | Scoutdingo | — | [web-ports/scoutdingo](https://github.com/web-ports/scoutdingo) |
-| 529 | SCP: Containment Breach | [▶ Play](https://wasm.rip/files/scp/index.html) | [larpinguser/q8j](https://github.com/larpinguser/q8j) |
-| 530 | Scritchy Scratchy | — | [c00lkiddtech/scratchy](https://github.com/c00lkiddtech/scratchy) |
-| 531 | SDL Sopwith | — | [fragglet/sdl-sopwith](https://github.com/fragglet/sdl-sopwith) |
-| 532 | SDL-Ball | — | [midzer/sdl-ball](https://github.com/midzer/sdl-ball) |
-| 533 | Sex with Hitler | — | [ajtabjs/swhport](https://github.com/ajtabjs/swhport) |
-| 534 | Shadow Warrior | — | [midzer/jfsw](https://github.com/midzer/jfsw) |
-| 535 | Shift at Midnight | [▶ Play](https://gn-math.dev/?id=721) | [webporting/Shift-At-Midnight](https://github.com/webporting/Shift-At-Midnight) |
-| 536 | Shift at Midnight | — | [slqntdevss/ShiftAtMidnightPort](https://github.com/slqntdevss/ShiftAtMidnightPort) |
-| 537 | Shiromino | — | [midzer/shiromino](https://github.com/midzer/shiromino) |
-| 538 | Shrimpio | — | [goodmeals/shrimpio](https://github.com/goodmeals/shrimpio) |
-| 539 | Side Effects | — | [gn-math/assets/tree/main/318](https://github.com/gn-math/assets/tree/main/318) |
-| 540 | Silent Hill: Origins | [▶ Play](https://silenthillorigins.zeliaopen.space/) | — |
-| 541 | Silkroad Online (OpenSRO) | [▶ Play](https://opensro.online/) | — |
-| 542 | SimGolf | [▶ Play](https://richardatct.github.io/simgolf-web/) | — |
-| 543 | Simutrans | — | [midzer/simutrans](https://github.com/midzer/simutrans) |
-| 544 | Skate 3 | [▶ Play](http://skate.aaddpp.lol) | — |
-| 545 | Slender: The 8 Pages | [▶ Play](https://gn-math.dev/?id=451) | — |
-| 546 | Slender: The Eight Pages | [▶ Play](https://gn-math.github.io/web-port/slender/) | [genizy/web-port/tree/main/slender](https://github.com/genizy/web-port/tree/main/slender) |
-| 547 | Slenderina The Cellar | — | [Reeyuki/slenderina](https://github.com/Reeyuki/slenderina) |
-| 548 | Slendytubbies | — | [web-ports/slendytubbies](https://github.com/web-ports/slendytubbies) |
-| 549 | Slendytubbies 1 | [▶ Play](https://gn-math.dev/?id=796) | — |
-| 550 | Slendytubbies 2 | [▶ Play](https://gn-math.dev/?id=806) | [web-ports/slendytubbies/tree/main/2](https://github.com/web-ports/slendytubbies/tree/main/2) |
-| 551 | Slendytubbies 2D | [▶ Play](https://gn-math.dev/?id=807) | [web-ports/slendytubbies/tree/main/2d](https://github.com/web-ports/slendytubbies/tree/main/2d) |
-| 552 | Slime Rancher | [▶ Play](https://gn-math.dev/?id=591) | — |
-| 553 | Slime Ranchers | — | [web-ports/slime-ranchers](https://github.com/web-ports/slime-ranchers) |
-| 554 | Slime Ranchers (2) | — | [Reeyuki/SlimeRanch](https://github.com/Reeyuki/SlimeRanch) |
-| 555 | SM Kart ZX | — | [burnedpopcorn/SM-Kart-ZX-Web-Port](https://github.com/burnedpopcorn/SM-Kart-ZX-Web-Port) |
-| 556 | sm64plus webport PoC | — | [burnedpopcorn/sm64plus-webport-PoC](https://github.com/burnedpopcorn/sm64plus-webport-PoC) |
-| 557 | SNAPTIC | — | [degloved-net/snaptic-web](https://github.com/degloved-net/snaptic-web) |
-| 558 | Sokoban | — | [midzer/simple-sokoban](https://github.com/midzer/simple-sokoban) |
-| 559 | Something | — | [gays-studio/something-web](https://github.com/gays-studio/something-web) |
-| 560 | Something (2) | — | [googoogoob/SomethingWebPort](https://github.com/googoogoob/SomethingWebPort) |
-| 561 | Something (3) | — | [BestSpark687090/bestspark-web-ports/tree/main/actual-something](https://github.com/BestSpark687090/bestspark-web-ports/tree/main/actual-something) |
-| 562 | Sonic CD | [▶ Play](https://gn-math.dev/?id=589) | [TWS2401/Sonic-CD-WASM](https://github.com/TWS2401/Sonic-CD-WASM) |
-| 563 | Sonic CD (Sonic-CD-WASM) | [▶ Play](https://tws2401.github.io/Sonic-CD-WASM/) | — |
-| 564 | Sonic GDevelop | — | [burnedpopcorn/Sonic-GDevelop-Web-Port](https://github.com/burnedpopcorn/Sonic-GDevelop-Web-Port) |
-| 565 | Sonic Mania | [▶ Play](https://gn-math.dev/?id=590) | [VinMannie/SonicManiaWeb](https://github.com/VinMannie/SonicManiaWeb) |
-| 566 | Sonic Robo Blast 2 | [▶ Play](https://afd2025.srb2.org/) | [chromaticpipe/SRB2-WASM](https://github.com/chromaticpipe/SRB2-WASM) |
-| 567 | Sonic Robo Blast 2 (2) | — | [web-ports/srb2](https://github.com/web-ports/srb2) |
-| 568 | Sonic Robo Blast 2 Kart | [▶ Play](https://skyleite.github.io/Kart-Public-WASM/) | — |
-| 569 | Sonic the Fighters | [▶ Play](https://play.sonicthefighte.rs/) | — |
-| 570 | Sonic the Hedgehog (2013) | [▶ Play](https://vinmannie.github.io/Sonic-1-WASM/) | [VinMannie/Sonic-1-WASM](https://github.com/VinMannie/Sonic-1-WASM) |
-| 571 | Sonic the Hedgehog 2 | — | [VinMannie/Sonic-2-WASM](https://github.com/VinMannie/Sonic-2-WASM) |
-| 572 | Sonic the Hedgehog 4: Episode I | [▶ Play](https://wamwoowam.co.uk/sonic4/) | — |
-| 573 | SONIC.EXE | [▶ Play](https://gn-math.github.io/web-port/sonic.exe/) | [genizy/web-port/tree/main/sonic.exe](https://github.com/genizy/web-port/tree/main/sonic.exe) |
-| 574 | Sonic.EXE (ORIGINAL) | [▶ Play](https://gn-math.dev/?id=606) | — |
-| 575 | Sonic2 Community Cut WebPort | — | [burnedpopcorn/Sonic2-Community-Cut-WebPort](https://github.com/burnedpopcorn/Sonic2-Community-Cut-WebPort) |
-| 576 | sonic3air webport | — | [burnedpopcorn/sonic3air-webport](https://github.com/burnedpopcorn/sonic3air-webport) |
-| 577 | SonicManiaPlusWebPort | — | [burnedpopcorn/SonicManiaPlusWebPort](https://github.com/burnedpopcorn/SonicManiaPlusWebPort) |
-| 578 | Space Cadet | — | [k4zmu2a/SpaceCadetPinball](https://github.com/k4zmu2a/SpaceCadetPinball) |
-| 579 | Space Rangers: Quests | [▶ Play](https://spacerangers.gitlab.io/) | — |
-| 580 | Spaceflight Simulator | [▶ Play](https://gn-math.dev/?id=808) | [web-ports/spaceflight-simulator](https://github.com/web-ports/spaceflight-simulator) |
-| 581 | Speed Stars | [▶ Play](https://gn-math.github.io/web-port/speed-stars/) | [genizy/web-port/tree/main/speed-stars](https://github.com/genizy/web-port/tree/main/speed-stars) |
-| 582 | Spelunky Classic HD | [▶ Play](https://yancharkin.itch.io/spelunky-classic-hd) | — |
-| 583 | SRB2 Kart | — | [skyleite/Kart-Public-WASM](https://github.com/skyleite/Kart-Public-WASM/) |
-| 584 | Star Fox Adventures | [▶ Play](https://foxhollow.dev/) | — |
-| 585 | Star Wars Jedi Knight Dark Forces 2 | [▶ Play](https://retrogamescenter.ru/ports/oswjkdf2/index.html) | — |
-| 586 | Star Wars Jedi Knight: Dark Forces II | — | [shinyquagsire23/OpenJKDF2](https://github.com/shinyquagsire23/OpenJKDF2) |
-| 587 | Star Wars Jedi Knight: Jedi Academy | [▶ Play](https://jk.q3js.com) | — |
-| 588 | Stardew Valley | [▶ Play](https://gn-math.dev/?id=789) | [degloved-net/stardew-wasm](https://github.com/degloved-net/stardew-wasm) |
-| 589 | Stardew Valley | [▶ Play](https://wasm.rip/files/stardewvalley/index.html) | — |
-| 590 | Starfighter | — | [midzer/starfighter](https://github.com/midzer/starfighter) |
-| 591 | Stick with It | [▶ Play](https://gn-math.dev/?id=502) | [slqntdevss/StickWithItPort](https://github.com/slqntdevss/StickWithItPort) |
-| 592 | Stunts (PlayStunts) | [▶ Play](https://playstunts.com/) | — |
-| 593 | Subway Surfers: Las Vegas | — | [Toastiest64/Las-Vegas](https://github.com/Toastiest64/Las-Vegas) |
-| 594 | Sugary Spire | — | [burnedpopcorn/Sugary-Spire-Web-Port](https://github.com/burnedpopcorn/Sugary-Spire-Web-Port) |
-| 595 | Suicide Guy Deluxe | — | [Reeyuki/SuicideGuyDeluxe](https://github.com/Reeyuki/SuicideGuyDeluxe) |
-| 596 | Sunky's Schoolhouse | — | [gays-studio/sunkys-schoolhouse-webport](https://github.com/gays-studio/sunkys-schoolhouse-webport) |
-| 597 | Supaplex | — | [midzer/open-supaplex](https://github.com/midzer/open-supaplex) |
-| 598 | Super Bo Noise | — | [burnedpopcorn/Super-Bo-Noise-Web-Port](https://github.com/burnedpopcorn/Super-Bo-Noise-Web-Port) |
-| 599 | Super Choppy Orc | — | [gays-studio/super-choppy-orc](https://github.com/gays-studio/super-choppy-orc) |
-| 600 | Super Mario 64 | [▶ Play](https://gn-math.dev/?id=588) | — |
-| 601 | Super Mario 64 | [▶ Play](https://recompiledgames.com/super-mario-64-recompiled) | — |
-| 602 | Super Mario 64 (multiplayer, olivers.tools) | [▶ Play](https://olivers.tools/?play) | — |
-| 603 | Super Mario 64 (sm3das) | [▶ Play](https://heyitsheart.github.io/sm3das/64/) | — |
-| 604 | Super Mario 64 FPS | — | [gays-studio/sm64fps-port](https://github.com/gays-studio/sm64fps-port) |
-| 605 | Super Mario 64 Multiplayer | [▶ Play](https://olivers.tools/play/) | — |
-| 606 | Super Mario Bros. Remastered | [▶ Play](https://gn-math.dev/?id=736) | [bubbls/ports/blob/main/smb-remastered](https://github.com/bubbls/ports/blob/main/smb-remastered) |
-| 607 | Super Mario Kart (SM-Kart-ZX Web Port) | [▶ Play](https://burnedpopcorn.github.io/SM-Kart-ZX-Web-Port/index.html) | — |
-| 608 | Super Mario War | — | [mmatyas/supermariowar](https://github.com/mmatyas/supermariowar) |
-| 609 | Super Mario Zombies | [▶ Play](https://smz.fun/) | — |
-| 610 | Super Monkey Ball | [▶ Play](https://monkeyball-online.pages.dev/) | — |
-| 611 | Super Smash Bros. (smash.fun) | [▶ Play](https://smash.fun/) | — |
-| 612 | Superflight | — | [squidward5/superflight-webport](https://github.com/squidward5/superflight-webport) |
-| 613 | SuperTux | — | [SuperTux/supertux](https://github.com/SuperTux/supertux) |
-| 614 | Swabs Expedition | — | [burnedpopcorn/Swabs-Expedition-Web-Port](https://github.com/burnedpopcorn/Swabs-Expedition-Web-Port) |
-| 615 | Syndicate | — | [midzer/freesynd](https://github.com/midzer/freesynd) |
-| 616 | T Cubed | — | [web-ports/baldi-mods/tree/main/t3](https://github.com/web-ports/baldi-mods/tree/main/t3) |
-| 617 | T Cubed (2) | — | [GlaceonFan77/T-Cubed-Web](https://github.com/GlaceonFan77/T-Cubed-Web) |
-| 618 | Taiko no Tatsujin | [▶ Play](https://cjdgrevival.com/) | — |
-| 619 | Tattletail | [▶ Play](https://gn-math.github.io/web-port/tattletail/) | [genizy/web-port/tree/main/tattletail](https://github.com/genizy/web-port/tree/main/tattletail) |
-| 620 | Team Fortress 2 | [▶ Play](https://tf2.riddy.workers.dev/) | — |
-| 621 | Tekken 5: Dark Resurrection (Recomp) | [▶ Play](https://tkdr-recomp.pages.dev/) | — |
-| 622 | Terraria | [▶ Play](https://gn-math.dev/?id=669) | [mercuryWorkshop/terraria-wasm](http://github.com/mercuryWorkshop/terraria-wasm) |
-| 623 | Terraria (2) | [▶ Play](https://terraria.mercurywork.shop/) | [web-ports/terraria](https://github.com/web-ports/terraria) |
-| 624 | That's Not My Neighbor | [▶ Play](https://gn-math.github.io/web-port/thats-not-my-neighbor/) | [genizy/web-port/tree/main/thats-not-my-neighbor](https://github.com/genizy/web-port/tree/main/thats-not-my-neighbor) |
-| 625 | The Binding of Isaac: Repentance | — | [chiikabu/the-browsing-of-isaac](https://github.com/chiikabu/the-browsing-of-isaac) |
-| 626 | The Deadseat | [▶ Play](https://gn-math.github.io/web-port/deadseat/) | [genizy/web-port/tree/main/deadseat](https://github.com/genizy/web-port/tree/main/deadseat) |
-| 627 | The Deadseat | — | [TheBlehLollipop/The-Deadseat-Webport](https://github.com/TheBlehLollipop/The-Deadseat-Webport) |
-| 628 | The Elder Scrolls III: Morrowind (OpenMW) | [▶ Play](https://morrowind.virtastic.app/) | — |
-| 629 | The Legend of Zelda - A Link to the Past | — | [midzer/zelda3](https://github.com/midzer/zelda3) |
-| 630 | The Legend of Zelda: Twilight Princess (Dusklight) | [▶ Play](https://dusklight.pages.dev/) | — |
-| 631 | The Man From the Window | [▶ Play](https://gn-math.github.io/web-port/the-man-in-the-window/) | [genizy/web-port/tree/main/the-man-in-the-window](https://github.com/genizy/web-port/tree/main/the-man-in-the-window) |
-| 632 | The Man From the Window 2 | [▶ Play](https://wasm.rip/files/MFDW2/index.html) | [wasm-rip/the-man-from-the-window-2-web](https://github.com/wasm-rip/the-man-from-the-window-2-web) |
-| 633 | The Man In The Window | [▶ Play](https://gn-math.dev/?id=459) | — |
-| 634 | The Math Is Leaking | — | [reeyuki/themathisleaking](https://github.com/reeyuki/themathisleaking) |
-| 635 | The Message From Deep Space | — | [dashiellbenton/ports/tree/main/tmfds](https://github.com/dashiellbenton/ports/tree/main/tmfds) |
-| 636 | The Simpsons: Hit & Run | [▶ Play](http://shar-wasm.cjoseph.workers.dev/?skipmovie) | — |
-| 637 | The Simpsons: Hit & Run (shar-wasm) | [▶ Play](https://shar-wasm.cjoseph.workers.dev/) | — |
-| 638 | The Simpsons: Hit & Run (Web Port) | [▶ Play](https://vheissu.github.io/hit-and-run-web/) | [Vheissu/hit-and-run-web](https://github.com/Vheissu/hit-and-run-web) |
-| 639 | The Simpsons: Hit & Run (with mod support) | [▶ Play](https://shar.harshvirdhaliwal.com/) | — |
-| 640 | There's a Butcher Around | — | [usheje883-maker/There-s-A-Butcher-Around-Webport](https://github.com/usheje883-maker/There-s-A-Butcher-Around-Webport) |
-| 641 | To The Core | — | — |
-| 642 | Tomb Raider | [▶ Play](http://xproger.info/projects/OpenLara/) | [XProger/OpenLara](https://github.com/XProger/OpenLara) |
-| 643 | Torus Trooper | — | [speps/tt](https://github.com/speps/tt) |
-| 644 | Totally Accurate Battle Simulator | — | [web-ports/tabs](https://github.com/web-ports/tabs) |
-| 645 | Totally Accurate Battle Simulator (2) | — | [Reeyuki/Tabs](https://github.com/Reeyuki/Tabs) |
-| 646 | Totally Accurate Battle Simulator (TABS) | [▶ Play](https://gn-math.dev/?id=827) | — |
-| 647 | Touhou Mother | [▶ Play](https://gn-math.dev/?id=523) | [aukak/gameports/tree/main/touhou%20mother](https://github.com/aukak/gameports/tree/main/touhou%20mother) |
-| 648 | Tower To Heaven | — | [midzer/tth](https://codeberg.org/midzer/tth) |
-| 649 | Traffic Racer | — | [genizy/traffic-racer](https://github.com/genizy/traffic-racer) |
-| 650 | Trees Hate You | — | [thirstygithub/fugglelatougin](https://github.com/thirstygithub/fugglelatougin) |
-| 651 | Tremulous | [▶ Play](https://webnova360.com/play-tremulous/) | — |
-| 652 | TriZon | — | [degloved-net/trizon](https://github.com/degloved-net/trizon) |
-| 653 | Trombone Champ | [▶ Play](https://wasm.rip/files/tchamp/index.html) | [degloved-net/trombone-champ](https://github.com/degloved-net/trombone-champ) |
-| 654 | Tsukihime (TsukiWeb) | [▶ Play](https://tsukiweb.holofield.fr/) | — |
-| 655 | Tyrian (OpenTyrian) | [▶ Play](https://midzer.de/wasm/opentyrian/) | — |
-| 656 | t³ (T cubed) | [▶ Play](https://gn-math.dev/?id=818) | — |
-| 657 | ULTRAKILL | [▶ Play](https://gn-math.dev/?id=196) | — |
-| 658 | ULTRAKILL | [▶ Play](https://monoxide.dev/ultrakill) | — |
-| 659 | Ultrakill Prelude | [▶ Play](https://gn-math.github.io/web-port/ultrakill/) | [genizy/web-port/tree/main/ultrakill](https://github.com/genizy/web-port/tree/main/ultrakill) |
-| 660 | Ultrapool | [▶ Play](https://gn-math.dev/?id=757) | [ParrrotVR/ultrapoolwebport](https://github.com/ParrrotVR/ultrapoolwebport) |
-| 661 | Ultrapool (bread fork) | — | [genizy/ultrapoolwebport-nothreads](https://github.com/genizy/ultrapoolwebport-nothreads) |
-| 662 | Undertale | [▶ Play](https://gn-math.github.io/web-port/undertale/) | [genizy/web-port/tree/main/undertale](https://github.com/genizy/web-port/tree/main/undertale) |
-| 663 | Undertale Yellow | [▶ Play](https://gn-math.github.io/web-port/undertale-yellow/) | [genizy/web-port/tree/main/undertale-yellow](https://github.com/genizy/web-port/tree/main/undertale-yellow) |
-| 664 | Unreal Gold | — | [National-Porting-Association/unrealgold-emscripten](https://github.com/National-Porting-Association/unrealgold-emscripten) |
-| 665 | Unreal Tournament (SurrealEngine Web) | [▶ Play](https://demensdeum.com/demos/SurrealEngine/) | — |
-| 666 | Untitled Goose Game | [▶ Play](https://gn-math.dev/?id=718) | [web-ports/untitled-goose-game](https://github.com/web-ports/untitled-goose-game) |
-| 667 | Untitled Goose Game (2) | — | [webporting/Untitled-Goose-Game](https://github.com/webporting/Untitled-Goose-Game) |
-| 668 | Upload Labs | — | [googoogoob/UploadLabsWebPort](https://github.com/googoogoob/UploadLabsWebPort) |
-| 669 | Upstream | — | [degloved-net/upstream](https://github.com/degloved-net/upstream) |
-| 670 | Urban Terror | [▶ Play](http://ut.pieter.com) | [FrozenSand/ioq3-for-UrbanTerror-4](https://github.com/FrozenSand/ioq3-for-UrbanTerror-4) |
-| 671 | UvuvwevwevweOnyetenvewveUgwemubwemOssas | [▶ Play](https://gn-math.dev/?id=795) | [bubbls/ports/tree/main/UvuvwevwevweOnyetenvewveUgwemubwemOssas](https://github.com/bubbls/ports/tree/main/UvuvwevwevweOnyetenvewveUgwemubwemOssas) |
-| 672 | Vectoroids | — | [midzer/vectoroids](https://github.com/midzer/vectoroids) |
-| 673 | Very Realistic Game Dev Simulator | — | [UMMMM-GUYSSS/Very-Realistic-Game-Dev-Simulator](https://github.com/UMMMM-GUYSSS/Very-Realistic-Game-Dev-Simulator) |
-| 674 | Violetland | — | [midzer/violetland](https://github.com/midzer/violetland) |
-| 675 | Virtua Fighter | [▶ Play](https://vf1-recomp.pages.dev/) | [mr-finster/vf1-recomp](https://github.com/mr-finster/vf1-recomp) |
-| 676 | Virtual On: Cyber Troopers | [▶ Play](https://solid7s.github.io/Virtual-On-Web/) | — |
-| 677 | Void Whispers | — | [degloved-net/void-whispers](https://github.com/degloved-net/void-whispers) |
-| 678 | VVVVVV | — | [midzer/vvvvvv](https://github.com/midzer/vvvvvv) |
-| 679 | WadCMD | [▶ Play](https://wadcmd.com/) | — |
-| 680 | WASM Arcade | [▶ Play](https://wasmarcade.com/) | — |
-| 681 | wasm.rip | [▶ Play](https://wasm.rip) | — |
-| 682 | Water Closet | — | [midzer/waterCloset](https://github.com/midzer/waterCloset) |
-| 683 | Web Port Unblocked | — | [burnedpopcorn/Web-Port-Unblocked](https://github.com/burnedpopcorn/Web-Port-Unblocked) |
-| 684 | Webfishing | [▶ Play](https://gn-math.github.io/web-port/web-fishing/) | [genizy/web-port/tree/main/web-fishing](https://github.com/genizy/web-port/tree/main/web-fishing) |
-| 685 | webport.ing | — | [webporting](https://github.com/webporting) |
-| 686 | Weltendämmerung (weltendaemmerung (spec-driven RE + web port)) | — | [s-macke/weltendaemmerung](https://github.com/s-macke/weltendaemmerung) |
-| 687 | while True: learn() | — | [dashiellbenton/ports/tree/main/while-true-learn](https://github.com/dashiellbenton/ports/tree/main/while-true-learn) |
-| 688 | Who's Your Daddy? | [▶ Play](https://gn-math.dev/?id=791) | [Reeyuki/daddygame](https://github.com/Reeyuki/daddygame) |
-| 689 | Who's Your Daddy? (2) | — | [web-ports/daddygame](https://github.com/web-ports/daddygame) |
-| 690 | WipEout | [▶ Play](https://phoboslab.org/wipegame/) | [phoboslab/wipeout-rewrite](https://github.com/phoboslab/wipeout-rewrite) |
-| 691 | Witch's Heart | [▶ Play](https://gn-math.github.io/web-port/witch-heart/) | [genizy/web-port/tree/main/witch-heart](https://github.com/genizy/web-port/tree/main/witch-heart) |
-| 692 | Wizards in Shorts | — | [Reeyuki/WizardsInShorts](https://github.com/Reeyuki/WizardsInShorts) |
-| 693 | Wolfenstein 3D | — | [midzer/wolf4sdl](https://github.com/midzer/wolf4sdl) |
-| 694 | Wolfenstein 3D TG | [▶ Play](https://retrogamescenter.ru/ports/wolf3dtg/index.html) | — |
-| 695 | Worldbox | — | [Shindo957-Official/worldfox](https://gitlab.com/Shindo957-Official/worldfox) |
-| 696 | WWII GI | [▶ Play](https://retrogamescenter.ru/ports/ww2giweb/run.html) | — |
-| 697 | Xash3D | — | [btarg/Xash3D-Emscripten](https://github.com/btarg/Xash3D-Emscripten) |
-| 698 | XCOM | — | [midzer/OpenXcom](https://github.com/midzer/OpenXcom) |
-| 699 | XGalaga | — | [midzer/xgalaga-sdl](https://github.com/midzer/xgalaga-sdl) |
-| 700 | xrick | [▶ Play](https://www.xrick.net/) | — |
-| 701 | Yandere Simulator | [▶ Play](https://gn-math.github.io/web-port/yandere-simulator/) | [genizy/web-port/tree/main/yandere-simulator](https://github.com/genizy/web-port/tree/main/yandere-simulator) |
-| 702 | Yesterday's Meat | — | [SoupcanUBG/Yesterdays-Meat](https://github.com/SoupcanUBG/Yesterdays-Meat) |
-| 703 | yomih hustle | — | [web-ports/yomi-hustle](https://github.com/web-ports/yomi-hustle) |
-| 704 | You Want Half a Mounds Bar | — | [wasm-rip/You-Want-Half-A-Mounds-Bar-Web](https://github.com/wasm-rip/You-Want-Half-A-Mounds-Bar-Web) |
-| 705 | Your Only Move is Hustle | [▶ Play](https://gn-math.dev/?id=776) | [webporting/Your-Only-Move-Is-HUSTLE](https://github.com/webporting/Your-Only-Move-Is-HUSTLE) |
-| 706 | Your Only Move is Hustle (2) | — | [web-ports/yomi-hustle](https://github.com/web-ports/yomi-hustle) |
-| 707 | Youtubers Life OMG! | — | [Reeyuki/ytlifeomg](https://github.com/Reeyuki/ytlifeomg) |
-| 708 | Yume Nikki | [▶ Play](https://gn-math.github.io/web-port/yume-nikki/) | [genizy/web-port/tree/main/yume-nikki](https://github.com/genizy/web-port/tree/main/yume-nikki) |
-| 709 | Zato | — | [z4laxis/ZatoWebport](https://github.com/z4laxis/ZatoWebport) |
-| 710 | Zelda II: The Adventure of Link (z2rs) | [▶ Play](https://z2rs.com/) | — |
+| 458 | Perimeter | — | [KD-lab-Open-Source/Perimeter](https://github.com/KD-lab-Open-Source/Perimeter) |
+| 459 | Phantasy Star Online (PSO Reborn) | [▶ Play](https://recompiledgames.com/phantasy-star-online-recompiled) | — |
+| 460 | Phantasy Star Online Episode I & II (PSO Reborn) | [▶ Play](https://psoreborn.com/) | — |
+| 461 | Pizza Tower | [▶ Play](https://gn-math.github.io/web-port/pizza-tower/) | [genizy/web-port/tree/main/pizza-tower](https://github.com/genizy/web-port/tree/main/pizza-tower) |
+| 462 | Pizza Tower 1.1.0 | — | [burnedpopcorn/Pizza-Tower-1.1.0-Web-Port](https://github.com/burnedpopcorn/Pizza-Tower-1.1.0-Web-Port) |
+| 463 | Pizza Tower: Scoutdigo | [▶ Play](https://gn-math.dev/?id=628) | — |
+| 464 | PizzaTower April2021 WebPort | — | [burnedpopcorn/PizzaTower-April2021-WebPort](https://github.com/burnedpopcorn/PizzaTower-April2021-WebPort) |
+| 465 | Plague Inc | [▶ Play](https://gn-math.dev/?id=805) | — |
+| 466 | Plague Inc. | [▶ Play](https://wasm.rip/files/plauge/index.html) | — |
+| 467 | Plague Inc: Evolved | — | [Reeyuki/PlagueIncEvolved](https://github.com/Reeyuki/PlagueIncEvolved) |
+| 468 | Plants vs Zombies: Fusion | — | [gays-studio/pvzfusion](https://github.com/gays-studio/pvzfusion) |
+| 469 | Plants vs Zombies: GOTY Edition | [▶ Play](https://gn-math.dev/?id=842) | [wszqkzqk/PvZ-Portable](https://github.com/wszqkzqk/PvZ-Portable) |
+| 470 | Plants vs Zombies: GOTY Edition (2) | — | [web-ports/pvz](https://github.com/web-ports/pvz) |
+| 471 | Plants vs Zombies: GOTY Edition (3) | — | [ajtabjs/pvzdeploy](https://github.com/ajtabjs/pvzdeploy) |
+| 472 | Plants vs. Zombies | [▶ Play](https://retrogamescenter.ru/ports/pvzweb/index.html) | — |
+| 473 | Pokémon Emerald (pokeemerald-wasm) | — | [tripplyons/pokeemerald-wasm](https://github.com/tripplyons/pokeemerald-wasm) |
+| 474 | Portal | [▶ Play](https://yikes.pw/portal/) | [weliveinhell/source-engine](https://github.com/weliveinhell/source-engine) |
+| 475 | Portal | — | [AlexBoops/portal-1-port](https://github.com/AlexBoops/portal-1-port) |
+| 476 | Potion Craft: Alchemist Simulator | — | [GrassPorts/Potion-Craft-Alchemy-Simulator](https://github.com/GrassPorts/Potion-Craft-Alchemy-Simulator) |
+| 477 | Power Hover | [▶ Play](https://gn-math.dev/?id=743) | [web-ports/power-hover](https://github.com/web-ports/power-hover) |
+| 478 | Powermanga | — | [midzer/Powermanga](https://github.com/midzer/Powermanga) |
+| 479 | Pretend it's not there | — | — |
+| 480 | Prince of Persia | [▶ Play](https://princejs.com/) | [midzer/SDLPoP](https://github.com/midzer/SDLPoP) |
+| 481 | Pro Evolution Soccer 2011 | [▶ Play](https://pes11.optijuegos.net/) | — |
+| 482 | Pro Evolution Soccer 6 | [▶ Play](http://pes6.optijuegos.net) | — |
+| 483 | Project Zomboid | — | — |
+| 484 | Promises to Keep | [▶ Play](https://gitea.mcalec.dev/mcalec/ptk) | — |
+| 485 | Prototype | — | [midzer/prototype](https://github.com/midzer/prototype) |
+| 486 | Proxified Ports | — | [burnedpopcorn/Proxified-Ports](https://github.com/burnedpopcorn/Proxified-Ports) |
+| 487 | Psychopomp | — | [z4laxis/PsychopompWebport](https://github.com/z4laxis/PsychopompWebport) |
+| 488 | PT HTML Launcher | — | [burnedpopcorn/PT-HTML-Launcher](https://github.com/burnedpopcorn/PT-HTML-Launcher) |
+| 489 | PT Scoutdigo | — | [burnedpopcorn/PT-Scoutdigo-Web-Port](https://github.com/burnedpopcorn/PT-Scoutdigo-Web-Port) |
+| 490 | PTWebLauncher | — | [burnedpopcorn/PTWebLauncher](https://github.com/burnedpopcorn/PTWebLauncher) |
+| 491 | Quake | [▶ Play](https://qwasm.m-h.org.uk/) | [GMH-Code/Qwasm](https://github.com/GMH-Code/Qwasm) |
+| 492 | Quake 2 | — | [GMH-Code/Qwasm2](https://github.com/GMH-Code/Qwasm2) |
+| 493 | Quake 3 | — | [lrusso/Quake3](https://github.com/lrusso/Quake3) |
+| 494 | Quake II | [▶ Play](https://retrogamescenter.ru/ports/Q2web/index.html) | — |
+| 495 | Quake II (q2.pieter.com) | [▶ Play](http://q2.pieter.com) | — |
+| 496 | Quake II (Quake WASM2) | [▶ Play](https://qwasm2.m-h.org.uk/) | — |
+| 497 | Quake III Arena | [▶ Play](https://gn-math.dev/?id=263) | — |
+| 498 | Quake III Arena (q3.pieter.com) | [▶ Play](https://q3.pieter.com) | — |
+| 499 | Quake III Arena (q3js) | [▶ Play](https://q3js.com/) | [lklacar/q3js](https://github.com/lklacar/q3js) |
+| 500 | Quake TG | [▶ Play](https://retrogamescenter.ru/ports/quaketg/index.html) | — |
+| 501 | QuakeWorld | [▶ Play](http://q1.pieter.com) | — |
+| 502 | R.E.P.O | [▶ Play](https://gn-math.github.io/web-port/repo/) | [genizy/web-port/tree/main/repo](https://github.com/genizy/web-port/tree/main/repo) |
+| 503 | Rabbids Go Home | — | [teaserlua/rabbids-go-home-web-port](https://github.com/teaserlua/rabbids-go-home-web-port) |
+| 504 | RAFT | [▶ Play](https://gn-math.github.io/web-port/raft/) | [genizy/web-port/tree/main/raft](https://github.com/genizy/web-port/tree/main/raft) |
+| 505 | Raldi's Crackhouse | [▶ Play](https://gn-math.dev/?id=670) | [woahhcrackers/RaldiWeb-LEGACY](https://github.com/woahhcrackers/RaldiWeb-LEGACY) |
+| 506 | Raptor - Call of the Shadows | — | [midzer/raptor](https://github.com/midzer/raptor) |
+| 507 | Ratchet & Clank | [▶ Play](https://re-rac.github.io/) | [re-rac/rerac](https://github.com/re-rac/rerac) |
+| 508 | Ravenfield | — | [degloved-net/Ravenfield](https://github.com/degloved-net/Ravenfield) |
+| 509 | RE:RUN | [▶ Play](https://gn-math.dev/?id=260) | [aukak/RE-RUN](https://github.com/aukak/RE-RUN) |
+| 510 | Rec Room | — | [98corbins](https://github.com/98corbins) |
+| 511 | Redneck Rampage | [▶ Play](https://retrogamescenter.ru/ports/redneckrweb/run.html) | — |
+| 512 | Redneck Rampage: Rides Again | [▶ Play](https://retrogamescenter.ru/ports/rrridesagain/run.html) | — |
+| 513 | Redneck Rampage: Route 66 | [▶ Play](https://retrogamescenter.ru/ports/rrroute66/run.html) | — |
+| 514 | REminiscence | — | [midzer/reminiscence](https://github.com/midzer/reminiscence) |
+| 515 | Return to Castle Wolfenstein | [▶ Play](https://retrogamescenter.ru/ports/castlewolf/index.html) | — |
+| 516 | Return to Castle Wolfenstein | [▶ Play](https://wwasm.m-h.org.uk/) | — |
+| 517 | Return to Castle Wolfenstein (rtcw.pieter.com) | [▶ Play](http://rtcw.pieter.com) | — |
+| 518 | Rimworld | [▶ Play](https://wasm.rip/files/rimworld/index.html) | [SomeRandomFella/portsandrips/tree/master/rimworld](https://github.com/SomeRandomFella/portsandrips/tree/master/rimworld) |
+| 519 | Rise of the Triad | — | [midzer/rottexpr](https://github.com/midzer/rottexpr) |
+| 520 | Rockbot | — | [midzer/rockbot](https://github.com/midzer/rockbot) |
+| 521 | Rocks'n'Diamonds | [▶ Play](https://www.artsoft.org/rocksndiamonds/) | — |
+| 522 | ROUNDS | — | [Nawsif/host/tree/main/ROUNDS](https://github.com/Nawsif/host/tree/main/ROUNDS) |
+| 523 | RuneScape Classic | [▶ Play](https://runescapeclassic.gold/) | — |
+| 524 | Running Fred | — | [aukak/running-fred](https://github.com/aukak/running-fred) |
+| 525 | S.P.L.I.T | [▶ Play](https://gn-math.dev/?id=839) | [degloved-net/s.p.l.i.t](https://github.com/degloved-net/s.p.l.i.t) |
+| 526 | Saihate Station (さいはて駅) | [▶ Play](https://gn-math.dev/?id=737) | [web-ports/saihate-station](https://github.com/web-ports/saihate-station) |
+| 527 | Samogonki (Moonshine Racers) | — | [KD-lab-Open-Source/Samogonki](https://github.com/KD-lab-Open-Source/Samogonki) |
+| 528 | Scampton The Great | [▶ Play](https://gn-math.dev/?id=802) | — |
+| 529 | Schoolboy Runaway | [▶ Play](https://gn-math.github.io/web-port/schoolboy-runaway/) | [genizy/web-port/tree/main/schoolboy-runaway](https://github.com/genizy/web-port/tree/main/schoolboy-runaway) |
+| 530 | Scoutdingo | — | [web-ports/scoutdingo](https://github.com/web-ports/scoutdingo) |
+| 531 | SCP: Containment Breach | [▶ Play](https://wasm.rip/files/scp/index.html) | [larpinguser/q8j](https://github.com/larpinguser/q8j) |
+| 532 | Scritchy Scratchy | — | [c00lkiddtech/scratchy](https://github.com/c00lkiddtech/scratchy) |
+| 533 | SDL Sopwith | — | [fragglet/sdl-sopwith](https://github.com/fragglet/sdl-sopwith) |
+| 534 | SDL-Ball | — | [midzer/sdl-ball](https://github.com/midzer/sdl-ball) |
+| 535 | Sex with Hitler | — | [ajtabjs/swhport](https://github.com/ajtabjs/swhport) |
+| 536 | Shadow Warrior | — | [midzer/jfsw](https://github.com/midzer/jfsw) |
+| 537 | Shift at Midnight | [▶ Play](https://gn-math.dev/?id=721) | [webporting/Shift-At-Midnight](https://github.com/webporting/Shift-At-Midnight) |
+| 538 | Shift at Midnight | — | [slqntdevss/ShiftAtMidnightPort](https://github.com/slqntdevss/ShiftAtMidnightPort) |
+| 539 | Shiromino | — | [midzer/shiromino](https://github.com/midzer/shiromino) |
+| 540 | Shrimpio | — | [goodmeals/shrimpio](https://github.com/goodmeals/shrimpio) |
+| 541 | Side Effects | — | [gn-math/assets/tree/main/318](https://github.com/gn-math/assets/tree/main/318) |
+| 542 | Silent Hill: Origins | [▶ Play](https://silenthillorigins.zeliaopen.space/) | — |
+| 543 | Silkroad Online (OpenSRO) | [▶ Play](https://opensro.online/) | — |
+| 544 | SimGolf | [▶ Play](https://richardatct.github.io/simgolf-web/) | — |
+| 545 | Simutrans | — | [midzer/simutrans](https://github.com/midzer/simutrans) |
+| 546 | Skate 3 | [▶ Play](http://skate.aaddpp.lol) | — |
+| 547 | Slender: The 8 Pages | [▶ Play](https://gn-math.dev/?id=451) | — |
+| 548 | Slender: The Eight Pages | [▶ Play](https://gn-math.github.io/web-port/slender/) | [genizy/web-port/tree/main/slender](https://github.com/genizy/web-port/tree/main/slender) |
+| 549 | Slenderina The Cellar | — | [Reeyuki/slenderina](https://github.com/Reeyuki/slenderina) |
+| 550 | Slendytubbies | — | [web-ports/slendytubbies](https://github.com/web-ports/slendytubbies) |
+| 551 | Slendytubbies 1 | [▶ Play](https://gn-math.dev/?id=796) | — |
+| 552 | Slendytubbies 2 | [▶ Play](https://gn-math.dev/?id=806) | [web-ports/slendytubbies/tree/main/2](https://github.com/web-ports/slendytubbies/tree/main/2) |
+| 553 | Slendytubbies 2D | [▶ Play](https://gn-math.dev/?id=807) | [web-ports/slendytubbies/tree/main/2d](https://github.com/web-ports/slendytubbies/tree/main/2d) |
+| 554 | Slime Rancher | [▶ Play](https://gn-math.dev/?id=591) | — |
+| 555 | Slime Ranchers | — | [web-ports/slime-ranchers](https://github.com/web-ports/slime-ranchers) |
+| 556 | Slime Ranchers (2) | — | [Reeyuki/SlimeRanch](https://github.com/Reeyuki/SlimeRanch) |
+| 557 | SM Kart ZX | — | [burnedpopcorn/SM-Kart-ZX-Web-Port](https://github.com/burnedpopcorn/SM-Kart-ZX-Web-Port) |
+| 558 | sm64plus webport PoC | — | [burnedpopcorn/sm64plus-webport-PoC](https://github.com/burnedpopcorn/sm64plus-webport-PoC) |
+| 559 | SNAPTIC | — | [degloved-net/snaptic-web](https://github.com/degloved-net/snaptic-web) |
+| 560 | Sokoban | — | [midzer/simple-sokoban](https://github.com/midzer/simple-sokoban) |
+| 561 | Something | — | [gays-studio/something-web](https://github.com/gays-studio/something-web) |
+| 562 | Something (2) | — | [googoogoob/SomethingWebPort](https://github.com/googoogoob/SomethingWebPort) |
+| 563 | Something (3) | — | [BestSpark687090/bestspark-web-ports/tree/main/actual-something](https://github.com/BestSpark687090/bestspark-web-ports/tree/main/actual-something) |
+| 564 | Sonic CD | [▶ Play](https://gn-math.dev/?id=589) | [TWS2401/Sonic-CD-WASM](https://github.com/TWS2401/Sonic-CD-WASM) |
+| 565 | Sonic CD (Sonic-CD-WASM) | [▶ Play](https://tws2401.github.io/Sonic-CD-WASM/) | — |
+| 566 | Sonic GDevelop | — | [burnedpopcorn/Sonic-GDevelop-Web-Port](https://github.com/burnedpopcorn/Sonic-GDevelop-Web-Port) |
+| 567 | Sonic Mania | [▶ Play](https://gn-math.dev/?id=590) | [VinMannie/SonicManiaWeb](https://github.com/VinMannie/SonicManiaWeb) |
+| 568 | Sonic Robo Blast 2 | [▶ Play](https://afd2025.srb2.org/) | [chromaticpipe/SRB2-WASM](https://github.com/chromaticpipe/SRB2-WASM) |
+| 569 | Sonic Robo Blast 2 (2) | — | [web-ports/srb2](https://github.com/web-ports/srb2) |
+| 570 | Sonic Robo Blast 2 Kart | [▶ Play](https://skyleite.github.io/Kart-Public-WASM/) | — |
+| 571 | Sonic the Fighters | [▶ Play](https://play.sonicthefighte.rs/) | — |
+| 572 | Sonic the Hedgehog (2013) | [▶ Play](https://vinmannie.github.io/Sonic-1-WASM/) | [VinMannie/Sonic-1-WASM](https://github.com/VinMannie/Sonic-1-WASM) |
+| 573 | Sonic the Hedgehog 2 | — | [VinMannie/Sonic-2-WASM](https://github.com/VinMannie/Sonic-2-WASM) |
+| 574 | Sonic the Hedgehog 4: Episode I | [▶ Play](https://wamwoowam.co.uk/sonic4/) | — |
+| 575 | SONIC.EXE | [▶ Play](https://gn-math.github.io/web-port/sonic.exe/) | [genizy/web-port/tree/main/sonic.exe](https://github.com/genizy/web-port/tree/main/sonic.exe) |
+| 576 | Sonic.EXE (ORIGINAL) | [▶ Play](https://gn-math.dev/?id=606) | — |
+| 577 | Sonic2 Community Cut WebPort | — | [burnedpopcorn/Sonic2-Community-Cut-WebPort](https://github.com/burnedpopcorn/Sonic2-Community-Cut-WebPort) |
+| 578 | sonic3air webport | — | [burnedpopcorn/sonic3air-webport](https://github.com/burnedpopcorn/sonic3air-webport) |
+| 579 | SonicManiaPlusWebPort | — | [burnedpopcorn/SonicManiaPlusWebPort](https://github.com/burnedpopcorn/SonicManiaPlusWebPort) |
+| 580 | Space Cadet | — | [k4zmu2a/SpaceCadetPinball](https://github.com/k4zmu2a/SpaceCadetPinball) |
+| 581 | Space Rangers: Quests | [▶ Play](https://spacerangers.gitlab.io/) | — |
+| 582 | Spaceflight Simulator | [▶ Play](https://gn-math.dev/?id=808) | [web-ports/spaceflight-simulator](https://github.com/web-ports/spaceflight-simulator) |
+| 583 | Speed Stars | [▶ Play](https://gn-math.github.io/web-port/speed-stars/) | [genizy/web-port/tree/main/speed-stars](https://github.com/genizy/web-port/tree/main/speed-stars) |
+| 584 | Spelunky Classic HD | [▶ Play](https://yancharkin.itch.io/spelunky-classic-hd) | — |
+| 585 | SRB2 Kart | — | [skyleite/Kart-Public-WASM](https://github.com/skyleite/Kart-Public-WASM/) |
+| 586 | Star Fox Adventures | [▶ Play](https://foxhollow.dev/) | — |
+| 587 | Star Wars Jedi Knight Dark Forces 2 | [▶ Play](https://retrogamescenter.ru/ports/oswjkdf2/index.html) | — |
+| 588 | Star Wars Jedi Knight: Dark Forces II | — | [shinyquagsire23/OpenJKDF2](https://github.com/shinyquagsire23/OpenJKDF2) |
+| 589 | Star Wars Jedi Knight: Jedi Academy | [▶ Play](https://jk.q3js.com) | — |
+| 590 | Stardew Valley | [▶ Play](https://gn-math.dev/?id=789) | [degloved-net/stardew-wasm](https://github.com/degloved-net/stardew-wasm) |
+| 591 | Stardew Valley | [▶ Play](https://wasm.rip/files/stardewvalley/index.html) | — |
+| 592 | Starfighter | — | [midzer/starfighter](https://github.com/midzer/starfighter) |
+| 593 | Stick with It | [▶ Play](https://gn-math.dev/?id=502) | [slqntdevss/StickWithItPort](https://github.com/slqntdevss/StickWithItPort) |
+| 594 | Stunts (PlayStunts) | [▶ Play](https://playstunts.com/) | — |
+| 595 | Subway Surfers: Las Vegas | — | [Toastiest64/Las-Vegas](https://github.com/Toastiest64/Las-Vegas) |
+| 596 | Sugary Spire | — | [burnedpopcorn/Sugary-Spire-Web-Port](https://github.com/burnedpopcorn/Sugary-Spire-Web-Port) |
+| 597 | Suicide Guy Deluxe | — | [Reeyuki/SuicideGuyDeluxe](https://github.com/Reeyuki/SuicideGuyDeluxe) |
+| 598 | Sunky's Schoolhouse | — | [gays-studio/sunkys-schoolhouse-webport](https://github.com/gays-studio/sunkys-schoolhouse-webport) |
+| 599 | Supaplex | — | [midzer/open-supaplex](https://github.com/midzer/open-supaplex) |
+| 600 | Super Bo Noise | — | [burnedpopcorn/Super-Bo-Noise-Web-Port](https://github.com/burnedpopcorn/Super-Bo-Noise-Web-Port) |
+| 601 | Super Choppy Orc | — | [gays-studio/super-choppy-orc](https://github.com/gays-studio/super-choppy-orc) |
+| 602 | Super Mario 64 | [▶ Play](https://gn-math.dev/?id=588) | — |
+| 603 | Super Mario 64 | [▶ Play](https://recompiledgames.com/super-mario-64-recompiled) | — |
+| 604 | Super Mario 64 (multiplayer, olivers.tools) | [▶ Play](https://olivers.tools/?play) | — |
+| 605 | Super Mario 64 (sm3das) | [▶ Play](https://heyitsheart.github.io/sm3das/64/) | — |
+| 606 | Super Mario 64 FPS | — | [gays-studio/sm64fps-port](https://github.com/gays-studio/sm64fps-port) |
+| 607 | Super Mario 64 Multiplayer | [▶ Play](https://olivers.tools/play/) | — |
+| 608 | Super Mario Bros. Remastered | [▶ Play](https://gn-math.dev/?id=736) | [bubbls/ports/blob/main/smb-remastered](https://github.com/bubbls/ports/blob/main/smb-remastered) |
+| 609 | Super Mario Kart (SM-Kart-ZX Web Port) | [▶ Play](https://burnedpopcorn.github.io/SM-Kart-ZX-Web-Port/index.html) | — |
+| 610 | Super Mario War | — | [mmatyas/supermariowar](https://github.com/mmatyas/supermariowar) |
+| 611 | Super Mario Zombies | [▶ Play](https://smz.fun/) | — |
+| 612 | Super Monkey Ball | [▶ Play](https://monkeyball-online.pages.dev/) | — |
+| 613 | Super Smash Bros. (smash.fun) | [▶ Play](https://smash.fun/) | — |
+| 614 | Superflight | — | [squidward5/superflight-webport](https://github.com/squidward5/superflight-webport) |
+| 615 | SuperTux | — | [SuperTux/supertux](https://github.com/SuperTux/supertux) |
+| 616 | Swabs Expedition | — | [burnedpopcorn/Swabs-Expedition-Web-Port](https://github.com/burnedpopcorn/Swabs-Expedition-Web-Port) |
+| 617 | Syndicate | — | [midzer/freesynd](https://github.com/midzer/freesynd) |
+| 618 | T Cubed | — | [web-ports/baldi-mods/tree/main/t3](https://github.com/web-ports/baldi-mods/tree/main/t3) |
+| 619 | T Cubed (2) | — | [GlaceonFan77/T-Cubed-Web](https://github.com/GlaceonFan77/T-Cubed-Web) |
+| 620 | Taiko no Tatsujin | [▶ Play](https://cjdgrevival.com/) | — |
+| 621 | Tattletail | [▶ Play](https://gn-math.github.io/web-port/tattletail/) | [genizy/web-port/tree/main/tattletail](https://github.com/genizy/web-port/tree/main/tattletail) |
+| 622 | Team Fortress 2 | [▶ Play](https://tf2.riddy.workers.dev/) | — |
+| 623 | Tekken 5: Dark Resurrection (Recomp) | [▶ Play](https://tkdr-recomp.pages.dev/) | — |
+| 624 | Terraria | [▶ Play](https://gn-math.dev/?id=669) | [mercuryWorkshop/terraria-wasm](http://github.com/mercuryWorkshop/terraria-wasm) |
+| 625 | Terraria (2) | [▶ Play](https://terraria.mercurywork.shop/) | [web-ports/terraria](https://github.com/web-ports/terraria) |
+| 626 | That's Not My Neighbor | [▶ Play](https://gn-math.github.io/web-port/thats-not-my-neighbor/) | [genizy/web-port/tree/main/thats-not-my-neighbor](https://github.com/genizy/web-port/tree/main/thats-not-my-neighbor) |
+| 627 | The Binding of Isaac: Repentance | — | [chiikabu/the-browsing-of-isaac](https://github.com/chiikabu/the-browsing-of-isaac) |
+| 628 | The Deadseat | [▶ Play](https://gn-math.github.io/web-port/deadseat/) | [genizy/web-port/tree/main/deadseat](https://github.com/genizy/web-port/tree/main/deadseat) |
+| 629 | The Deadseat | — | [TheBlehLollipop/The-Deadseat-Webport](https://github.com/TheBlehLollipop/The-Deadseat-Webport) |
+| 630 | The Elder Scrolls III: Morrowind (OpenMW) | [▶ Play](https://morrowind.virtastic.app/) | — |
+| 631 | The Legend of Zelda - A Link to the Past | — | [midzer/zelda3](https://github.com/midzer/zelda3) |
+| 632 | The Legend of Zelda: Twilight Princess (Dusklight) | [▶ Play](https://dusklight.pages.dev/) | — |
+| 633 | The Man From the Window | [▶ Play](https://gn-math.github.io/web-port/the-man-in-the-window/) | [genizy/web-port/tree/main/the-man-in-the-window](https://github.com/genizy/web-port/tree/main/the-man-in-the-window) |
+| 634 | The Man From the Window 2 | [▶ Play](https://wasm.rip/files/MFDW2/index.html) | [wasm-rip/the-man-from-the-window-2-web](https://github.com/wasm-rip/the-man-from-the-window-2-web) |
+| 635 | The Man In The Window | [▶ Play](https://gn-math.dev/?id=459) | — |
+| 636 | The Math Is Leaking | — | [reeyuki/themathisleaking](https://github.com/reeyuki/themathisleaking) |
+| 637 | The Message From Deep Space | — | [dashiellbenton/ports/tree/main/tmfds](https://github.com/dashiellbenton/ports/tree/main/tmfds) |
+| 638 | The Simpsons: Hit & Run | [▶ Play](http://shar-wasm.cjoseph.workers.dev/?skipmovie) | — |
+| 639 | The Simpsons: Hit & Run (shar-wasm) | [▶ Play](https://shar-wasm.cjoseph.workers.dev/) | — |
+| 640 | The Simpsons: Hit & Run (Web Port) | [▶ Play](https://vheissu.github.io/hit-and-run-web/) | [Vheissu/hit-and-run-web](https://github.com/Vheissu/hit-and-run-web) |
+| 641 | The Simpsons: Hit & Run (with mod support) | [▶ Play](https://shar.harshvirdhaliwal.com/) | — |
+| 642 | There's a Butcher Around | — | [usheje883-maker/There-s-A-Butcher-Around-Webport](https://github.com/usheje883-maker/There-s-A-Butcher-Around-Webport) |
+| 643 | To The Core | — | — |
+| 644 | Tomb Raider | [▶ Play](http://xproger.info/projects/OpenLara/) | [XProger/OpenLara](https://github.com/XProger/OpenLara) |
+| 645 | Torus Trooper | — | [speps/tt](https://github.com/speps/tt) |
+| 646 | Totally Accurate Battle Simulator | — | [web-ports/tabs](https://github.com/web-ports/tabs) |
+| 647 | Totally Accurate Battle Simulator (2) | — | [Reeyuki/Tabs](https://github.com/Reeyuki/Tabs) |
+| 648 | Totally Accurate Battle Simulator (TABS) | [▶ Play](https://gn-math.dev/?id=827) | — |
+| 649 | Touhou Mother | [▶ Play](https://gn-math.dev/?id=523) | [aukak/gameports/tree/main/touhou%20mother](https://github.com/aukak/gameports/tree/main/touhou%20mother) |
+| 650 | Tower To Heaven | — | [midzer/tth](https://codeberg.org/midzer/tth) |
+| 651 | Traffic Racer | — | [genizy/traffic-racer](https://github.com/genizy/traffic-racer) |
+| 652 | Trees Hate You | — | [thirstygithub/fugglelatougin](https://github.com/thirstygithub/fugglelatougin) |
+| 653 | Tremulous | [▶ Play](https://webnova360.com/play-tremulous/) | — |
+| 654 | TriZon | — | [degloved-net/trizon](https://github.com/degloved-net/trizon) |
+| 655 | Trombone Champ | [▶ Play](https://wasm.rip/files/tchamp/index.html) | [degloved-net/trombone-champ](https://github.com/degloved-net/trombone-champ) |
+| 656 | Tsukihime (TsukiWeb) | [▶ Play](https://tsukiweb.holofield.fr/) | — |
+| 657 | Tyrian (OpenTyrian) | [▶ Play](https://midzer.de/wasm/opentyrian/) | — |
+| 658 | t³ (T cubed) | [▶ Play](https://gn-math.dev/?id=818) | — |
+| 659 | ULTRAKILL | [▶ Play](https://gn-math.dev/?id=196) | — |
+| 660 | ULTRAKILL | [▶ Play](https://monoxide.dev/ultrakill) | — |
+| 661 | Ultrakill Prelude | [▶ Play](https://gn-math.github.io/web-port/ultrakill/) | [genizy/web-port/tree/main/ultrakill](https://github.com/genizy/web-port/tree/main/ultrakill) |
+| 662 | Ultrapool | [▶ Play](https://gn-math.dev/?id=757) | [ParrrotVR/ultrapoolwebport](https://github.com/ParrrotVR/ultrapoolwebport) |
+| 663 | Ultrapool (bread fork) | — | [genizy/ultrapoolwebport-nothreads](https://github.com/genizy/ultrapoolwebport-nothreads) |
+| 664 | Undertale | [▶ Play](https://gn-math.github.io/web-port/undertale/) | [genizy/web-port/tree/main/undertale](https://github.com/genizy/web-port/tree/main/undertale) |
+| 665 | Undertale Yellow | [▶ Play](https://gn-math.github.io/web-port/undertale-yellow/) | [genizy/web-port/tree/main/undertale-yellow](https://github.com/genizy/web-port/tree/main/undertale-yellow) |
+| 666 | Unreal Gold | — | [National-Porting-Association/unrealgold-emscripten](https://github.com/National-Porting-Association/unrealgold-emscripten) |
+| 667 | Unreal Tournament (SurrealEngine Web) | [▶ Play](https://demensdeum.com/demos/SurrealEngine/) | — |
+| 668 | Untitled Goose Game | [▶ Play](https://gn-math.dev/?id=718) | [web-ports/untitled-goose-game](https://github.com/web-ports/untitled-goose-game) |
+| 669 | Untitled Goose Game (2) | — | [webporting/Untitled-Goose-Game](https://github.com/webporting/Untitled-Goose-Game) |
+| 670 | Upload Labs | — | [googoogoob/UploadLabsWebPort](https://github.com/googoogoob/UploadLabsWebPort) |
+| 671 | Upstream | — | [degloved-net/upstream](https://github.com/degloved-net/upstream) |
+| 672 | Urban Terror | [▶ Play](http://ut.pieter.com) | [FrozenSand/ioq3-for-UrbanTerror-4](https://github.com/FrozenSand/ioq3-for-UrbanTerror-4) |
+| 673 | UvuvwevwevweOnyetenvewveUgwemubwemOssas | [▶ Play](https://gn-math.dev/?id=795) | [bubbls/ports/tree/main/UvuvwevwevweOnyetenvewveUgwemubwemOssas](https://github.com/bubbls/ports/tree/main/UvuvwevwevweOnyetenvewveUgwemubwemOssas) |
+| 674 | Vangers | — | [KranX/Vangers](https://github.com/KranX/Vangers) |
+| 675 | Vectoroids | — | [midzer/vectoroids](https://github.com/midzer/vectoroids) |
+| 676 | Very Realistic Game Dev Simulator | — | [UMMMM-GUYSSS/Very-Realistic-Game-Dev-Simulator](https://github.com/UMMMM-GUYSSS/Very-Realistic-Game-Dev-Simulator) |
+| 677 | Violetland | — | [midzer/violetland](https://github.com/midzer/violetland) |
+| 678 | Virtua Fighter | [▶ Play](https://vf1-recomp.pages.dev/) | [mr-finster/vf1-recomp](https://github.com/mr-finster/vf1-recomp) |
+| 679 | Virtual On: Cyber Troopers | [▶ Play](https://solid7s.github.io/Virtual-On-Web/) | — |
+| 680 | Void Whispers | — | [degloved-net/void-whispers](https://github.com/degloved-net/void-whispers) |
+| 681 | VVVVVV | — | [midzer/vvvvvv](https://github.com/midzer/vvvvvv) |
+| 682 | WadCMD | [▶ Play](https://wadcmd.com/) | — |
+| 683 | WASM Arcade | [▶ Play](https://wasmarcade.com/) | — |
+| 684 | wasm.rip | [▶ Play](https://wasm.rip) | — |
+| 685 | Water Closet | — | [midzer/waterCloset](https://github.com/midzer/waterCloset) |
+| 686 | Web Port Unblocked | — | [burnedpopcorn/Web-Port-Unblocked](https://github.com/burnedpopcorn/Web-Port-Unblocked) |
+| 687 | Webfishing | [▶ Play](https://gn-math.github.io/web-port/web-fishing/) | [genizy/web-port/tree/main/web-fishing](https://github.com/genizy/web-port/tree/main/web-fishing) |
+| 688 | webport.ing | — | [webporting](https://github.com/webporting) |
+| 689 | Weltendämmerung (weltendaemmerung (spec-driven RE + web port)) | — | [s-macke/weltendaemmerung](https://github.com/s-macke/weltendaemmerung) |
+| 690 | while True: learn() | — | [dashiellbenton/ports/tree/main/while-true-learn](https://github.com/dashiellbenton/ports/tree/main/while-true-learn) |
+| 691 | Who's Your Daddy? | [▶ Play](https://gn-math.dev/?id=791) | [Reeyuki/daddygame](https://github.com/Reeyuki/daddygame) |
+| 692 | Who's Your Daddy? (2) | — | [web-ports/daddygame](https://github.com/web-ports/daddygame) |
+| 693 | WipEout | [▶ Play](https://phoboslab.org/wipegame/) | [phoboslab/wipeout-rewrite](https://github.com/phoboslab/wipeout-rewrite) |
+| 694 | Witch's Heart | [▶ Play](https://gn-math.github.io/web-port/witch-heart/) | [genizy/web-port/tree/main/witch-heart](https://github.com/genizy/web-port/tree/main/witch-heart) |
+| 695 | Wizards in Shorts | — | [Reeyuki/WizardsInShorts](https://github.com/Reeyuki/WizardsInShorts) |
+| 696 | Wolfenstein 3D | — | [midzer/wolf4sdl](https://github.com/midzer/wolf4sdl) |
+| 697 | Wolfenstein 3D TG | [▶ Play](https://retrogamescenter.ru/ports/wolf3dtg/index.html) | — |
+| 698 | Worldbox | — | [Shindo957-Official/worldfox](https://gitlab.com/Shindo957-Official/worldfox) |
+| 699 | WWII GI | [▶ Play](https://retrogamescenter.ru/ports/ww2giweb/run.html) | — |
+| 700 | Xash3D | — | [btarg/Xash3D-Emscripten](https://github.com/btarg/Xash3D-Emscripten) |
+| 701 | XCOM | — | [midzer/OpenXcom](https://github.com/midzer/OpenXcom) |
+| 702 | XGalaga | — | [midzer/xgalaga-sdl](https://github.com/midzer/xgalaga-sdl) |
+| 703 | xrick | [▶ Play](https://www.xrick.net/) | — |
+| 704 | Yandere Simulator | [▶ Play](https://gn-math.github.io/web-port/yandere-simulator/) | [genizy/web-port/tree/main/yandere-simulator](https://github.com/genizy/web-port/tree/main/yandere-simulator) |
+| 705 | Yesterday's Meat | — | [SoupcanUBG/Yesterdays-Meat](https://github.com/SoupcanUBG/Yesterdays-Meat) |
+| 706 | yomih hustle | — | [web-ports/yomi-hustle](https://github.com/web-ports/yomi-hustle) |
+| 707 | You Want Half a Mounds Bar | — | [wasm-rip/You-Want-Half-A-Mounds-Bar-Web](https://github.com/wasm-rip/You-Want-Half-A-Mounds-Bar-Web) |
+| 708 | Your Only Move is Hustle | [▶ Play](https://gn-math.dev/?id=776) | [webporting/Your-Only-Move-Is-HUSTLE](https://github.com/webporting/Your-Only-Move-Is-HUSTLE) |
+| 709 | Your Only Move is Hustle (2) | — | [web-ports/yomi-hustle](https://github.com/web-ports/yomi-hustle) |
+| 710 | Youtubers Life OMG! | — | [Reeyuki/ytlifeomg](https://github.com/Reeyuki/ytlifeomg) |
+| 711 | Yume Nikki | [▶ Play](https://gn-math.github.io/web-port/yume-nikki/) | [genizy/web-port/tree/main/yume-nikki](https://github.com/genizy/web-port/tree/main/yume-nikki) |
+| 712 | Zato | — | [z4laxis/ZatoWebport](https://github.com/z4laxis/ZatoWebport) |
+| 713 | Zelda II: The Adventure of Link (z2rs) | [▶ Play](https://z2rs.com/) | — |
 
 ## License
 
