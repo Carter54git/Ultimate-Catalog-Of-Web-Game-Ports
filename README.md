@@ -4,7 +4,7 @@ A catalog of browser game ports with demo links and source repositories.
 
 This catalog tracks games playable in the browser, mostly via WebAssembly (WASM) — compiled C/C++ (often through Emscripten and SDL), plus Unity WebGL, Godot HTML5, Flash/Ruffle, and pure JavaScript/WebGL ports.
 
-Updated October 20, 2026. Browser ports added from [awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games), [awesome-decomp-games-ru](https://github.com/justxor/awesome-decomp-games-ru), [web-port-list](https://github.com/gays-studio/web-port-list), [Game-Decompilations](https://github.com/SamidyFR/Game-Decompilations), [The Gaming Emporium](https://thegamingemporium.com/categories/browser-based/) and [PlayPorted](https://playported.com/browser/).
+Updated October 20, 2026.
 
 ## Stats
 
