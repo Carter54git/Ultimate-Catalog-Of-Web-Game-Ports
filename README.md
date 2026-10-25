@@ -161,6 +161,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Candy Crisis |  | [📦 midzer/CandyCrisis](https://github.com/midzer/CandyCrisis) |
 | Capuchin |  | [📦 aukak/Capuchin](https://github.com/aukak/Capuchin) |
 | ⭐ Carmageddon | [▶ rgc.zone](https://rgc.zone/ports/carmaweb/index.html) | [📦 Carter54git/dethrace-ported-to-web](https://github.com/Carter54git/dethrace-ported-to-web) |
+| ⭐ Carmageddon 2 | [▶ dos.zone](https://dos.zone/carmageddon-2) | [📦 Carter54git/carmageddon-2-ported-to-web](https://github.com/Carter54git/carmageddon-2-ported-to-web) |
 | CaseOh's Basics in Eating and Fast Food | [▶ gn-math.dev](https://gn-math.dev/?id=758) |  |
 | Castle Crashers | [▶ truffled.lol](https://truffled.lol/games/castle/index.html) |  |
 | Cat Goes Fishing |  | [📦 Reeyuki/CatFish](https://github.com/Reeyuki/CatFish) |
