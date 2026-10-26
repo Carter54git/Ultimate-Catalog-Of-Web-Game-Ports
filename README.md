@@ -6,7 +6,7 @@
 
 **Games you can play right in the browser — WebAssembly, WebGL, Emscripten, Unity, Godot, Flash/Ruffle and pure JavaScript ports.**
 
-![games](https://img.shields.io/badge/games-828-8A2BE2?style=for-the-badge) ![playable demos](https://img.shields.io/badge/playable%20demos-459-2ea44f?style=for-the-badge) ![with source](https://img.shields.io/badge/with%20source-556-1f6feb?style=for-the-badge) ![demo + source](https://img.shields.io/badge/demo%20+%20source-195-f59e0b?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--10--25-555?style=for-the-badge)
+![games](https://img.shields.io/badge/games-888-8A2BE2?style=for-the-badge) ![playable demos](https://img.shields.io/badge/playable%20demos-512-2ea44f?style=for-the-badge) ![with source](https://img.shields.io/badge/with%20source-573-1f6feb?style=for-the-badge) ![demo + source](https://img.shields.io/badge/demo%20+%20source-205-f59e0b?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--10--26-555?style=for-the-badge)
 
 </div>
 
@@ -43,7 +43,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="a"></a>
 
-## A <sub>· 32</sub>
+## A <sub>· 33</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -78,13 +78,14 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Asylum |  | [📦 GMH-Code/Asylum](https://github.com/GMH-Code/Asylum) |
 | ⭐ Atlantis: The Lost Tales | [▶ ripleyxlr8.github.io](https://ripleyxlr8.github.io/atlantis-native/) | [📦 ripleyXLR8/atlantis-native](https://github.com/ripleyXLR8/atlantis-native) |
 | Atomiks |  | [📦 midzer/atomiks](https://github.com/midzer/atomiks) |
+| AXIS (2005) |  | [📦 reikop/axis-web](https://github.com/reikop/axis-web) |
 | Azimuth |  | [📦 midzer/azimuth](https://github.com/midzer/azimuth) |
 
 <p align="right"><a href="#jump-to">↑ back to top</a></p>
 
 <a id="b"></a>
 
-## B <sub>· 55</sub>
+## B <sub>· 57</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -102,6 +103,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Bat to Bed Demo |  | [📦 gays-studio/BatToBed-DEMO-webport](https://github.com/gays-studio/BatToBed-DEMO-webport) |
 | Bat to the Heavens |  | [📦 gays-studio/bat-to-the-heavens](https://github.com/gays-studio/bat-to-the-heavens) |
 | ⭐ Battle City | [▶ battle-city.berrry.app](https://battle-city.berrry.app) | [📦 vgrichina/battlecity](https://github.com/vgrichina/battlecity) |
+| Battle Stadium D.O.N | [▶ battlestadium.online](https://battlestadium.online/) |  |
 | Beat Banger |  | [📦 ajtabjs/bbport](https://github.com/ajtabjs/bbport) |
 | Beatblock | [▶ gn-math.dev](https://gn-math.dev/?id=787) |  |
 | Beatblock | [▶ wasm.rip](https://wasm.rip/files/beatblock/index.html) |  |
@@ -142,13 +144,14 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Buckshot Roulette (3) |  | [📦 degloved-net/buckshot-roulette-web](https://github.com/degloved-net/buckshot-roulette-web) |
 | Bumpy's Arcade Fantasy | [▶ rgc.zone](https://rgc.zone/ports/bumpyweb/openbumpy.html) |  |
 | burnedwebsite |  | [📦 burnedpopcorn/burnedwebsite](https://github.com/burnedpopcorn/burnedwebsite) |
+| Burnout 3: Takedown | [▶ burnout3.online](https://burnout3.online/) |  |
 | Buster Jam | [▶ gn-math.dev](https://gn-math.dev/?id=646) |  |
 
 <p align="right"><a href="#jump-to">↑ back to top</a></p>
 
 <a id="c"></a>
 
-## C <sub>· 74</sub>
+## C <sub>· 77</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -184,6 +187,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Chip's Challenge (chipdx) |  | [📦 CasualX/chipdx](https://github.com/CasualX/chipdx) |
 | ⭐ Christmas Massacre | [▶ gn-math.dev](https://gn-math.dev/?id=734) | [📦 web-ports/christmas-massacre](https://github.com/web-ports/christmas-massacre) |
 | Chromium B.S.U. |  | [📦 midzer/chromium-bsu](https://github.com/midzer/chromium-bsu) |
+| Circus Linux! |  | [📦 ICTylor/circuslinux](https://github.com/ICTylor/circuslinux) |
 | ⭐ Class of '09 | [▶ gn-math.github.io](https://gn-math.github.io/web-port/class-of-09/) | [📦 genizy/web-port/tree/main/class-of-09](https://github.com/genizy/web-port/tree/main/class-of-09) |
 | Class of '09: The Flip Side |  | [📦 AlexBoops/TFS](https://github.com/AlexBoops/TFS) |
 | Class of '09: The Re-Up |  | [📦 AlexBoops/tru](https://github.com/AlexBoops/tru) |
@@ -195,7 +199,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | ⭐ Clustertruck | [▶ wasm.rip](https://wasm.rip/files/ClusterTruck/clustertruck.html) | [📦 wasmdotrip/Clustertruck-Port](https://github.com/wasmdotrip/Clustertruck-Port) |
 | Command & Conquer |  | [📦 midzer/Vanilla-Conquer](https://github.com/midzer/Vanilla-Conquer) |
 | Command & Conquer: Generals (wasm.com.br) | [▶ generals.wasm.com.br](https://generals.wasm.com.br/) |  |
-| Command & Conquer: Generals Zero Hour | [▶ generals.wasm.ltd](https://generals.wasm.ltd) |  |
+| ⭐ Command & Conquer: Generals Zero Hour | [▶ generals.wasm.ltd](https://generals.wasm.ltd) | [📦 origami-ltd/wasm-generals](https://github.com/origami-ltd/wasm-generals) |
 | Command & Conquer: Red Alert 2 | [▶ chronodivide.com](https://chronodivide.com/) |  |
 | ⭐ Command & Conquer: Renegade (Open Commando) | [▶ open-commando.netanelgilad.workers.dev](https://open-commando.netanelgilad.workers.dev) | [📦 netanelgilad/open-commando](https://github.com/netanelgilad/open-commando) |
 | ⭐ Commander Keen | [▶ jamesfmackenzie.com](https://www.jamesfmackenzie.com/chocolatekeen/) | [📦 jamesfmackenzie/chocolatekeen](https://github.com/jamesfmackenzie/chocolatekeen) |
@@ -209,11 +213,13 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Counter-Strike: Source Bunnyhop | [▶ bunnyhop.lol](https://bunnyhop.lol) |  |
 | Counter-Strike: Source Surf | [▶ surfd.net](http://surfd.net) |  |
 | Crash Bash Online | [▶ crashbash.app](https://crashbash.app/) |  |
+| Crash Nitro Kart | [▶ crashnitrokart.online](https://crashnitrokart.online/) |  |
 | Crash Team Racing (High Octane) | [▶ rinnegatamante.github.io](https://rinnegatamante.github.io/Crash-Team-Racing-High-Octane/) |  |
 | Crash Team Racing Turbocharged | [▶ ctr.cmzi.uk](https://ctr.cmzi.uk/) |  |
 | Crashout Crew | [▶ wasm.rip](https://wasm.rip/files/cc/index.html) |  |
 | Crazy Cattle 3D | [▶ gn-math.dev](https://gn-math.dev/?id=164) |  |
 | Createrria | [▶ nomadic-ua.itch.io](https://nomadic-ua.itch.io/createrria) |  |
+| Crisis Core: Final Fantasy VII | [▶ crisiscorefinalfantasy7.online](https://crisiscorefinalfantasy7.online/) |  |
 | ⭐ Cro-Mag Rally | [▶ midzer.de](https://midzer.de/wasm/cromagrally/) | [📦 midzer/CroMagRally](https://github.com/midzer/CroMagRally) |
 | ⭐ Cruelty Squad | [▶ gn-math.dev](https://gn-math.dev/?id=825) | [📦 imt00dizzy/cruelty-squad](https://github.com/imt00dizzy/cruelty-squad) |
 | Cruelty Squad (2) |  | [📦 web-ports/cruelty-squad](https://github.com/web-ports/cruelty-squad) |
@@ -231,7 +237,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="d"></a>
 
-## D <sub>· 62</sub>
+## D <sub>· 67</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -243,6 +249,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | ⭐ Deadseat | [▶ gn-math.github.io](https://gn-math.github.io/web-port/deadseat/) | [📦 genizy/web-port/tree/main/deadseat](https://github.com/genizy/web-port/tree/main/deadseat) |
 | ⭐ The Deadseat | [▶ gn-math.github.io](https://gn-math.github.io/web-port/deadseat/) | [📦 genizy/web-port/tree/main/deadseat](https://github.com/genizy/web-port/tree/main/deadseat) |
 | The Deadseat |  | [📦 TheBlehLollipop/The-Deadseat-Webport](https://github.com/TheBlehLollipop/The-Deadseat-Webport) |
+| Def Jam: Fight for NY | [▶ def-jam.online](https://def-jam.online/) |  |
 | Defblade |  | [📦 midzer/paper-world](https://github.com/midzer/paper-world) |
 | ⭐ Deltarune | [▶ gn-math.github.io](https://gn-math.github.io/web-port/deltatraveler/) | [📦 genizy/web-port/tree/main/deltatraveler](https://github.com/genizy/web-port/tree/main/deltatraveler) |
 | Deltarune |  | [📦 Mollomm1/test](https://github.com/Mollomm1/test) |
@@ -270,6 +277,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Doom (doom-wasm) |  | [📦 cloudflare/doom-wasm](https://github.com/cloudflare/doom-wasm) |
 | Doom (doom.wasm) |  | [📦 jacobenget/doom.wasm](https://github.com/jacobenget/doom.wasm) |
 | Doom (wasm-doom) |  | [📦 lazarv/wasm-doom](https://github.com/lazarv/wasm-doom) |
+| ⭐ Doom (WebDOOM) | [▶ ustymukhman.github.io](https://ustymukhman.github.io/WebDOOM/public/) | [📦 UstymUkhman/WebDOOM](https://github.com/UstymUkhman/WebDOOM) |
 | ⭐ Doom 3 | [▶ gn-math.dev](https://gn-math.dev/?id=626) | [📦 web-ports/doom-3](https://github.com/web-ports/doom-3) |
 | Doom 3 (D3Wasm) | [▶ recompiledgames.com](https://recompiledgames.com/doom-3-recompiled) |  |
 | Doom 3 Demo | [▶ wasm.continuation-labs.com](https://wasm.continuation-labs.com/d3demo/) |  |
@@ -278,6 +286,9 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Doom Multiplayer | [▶ silentspacemarine.com](https://silentspacemarine.com/) |  |
 | DOS demoscene productions (demoscene-recomp) |  | [📦 treylorswift/demoscene-recomp](https://github.com/treylorswift/demoscene-recomp) |
 | Dos.Zone | [▶ dos.zone](https://dos.zone) |  |
+| Downhill Domination | [▶ downhilldomination.online](https://downhilldomination.online/) |  |
+| Dragon Ball Z: Budokai 3 | [▶ dragonballbudokai3.online](https://dragonballbudokai3.online/) |  |
+| Dragon Ball Z: Budokai Tenkaichi 2 | [▶ dragonballbt2.online](https://dragonballbt2.online/) |  |
 | Dragon Ball Z: Budokai Tenkaichi 3 | [▶ dragonballbt3.online](https://dragonballbt3.online/) |  |
 | Drascula: The Vampire Strikes Back (ScummWeb) | [▶ scummweb.tsilva.eu](https://scummweb.tsilva.eu/drascula-the-vampire-strikes-back) |  |
 | Dressing Room |  |  |
@@ -319,10 +330,11 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="f"></a>
 
-## F <sub>· 57</sub>
+## F <sub>· 64</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
+| ⭐ F1 Race (MTK) | [▶ lab.exlmoto.ru](https://lab.exlmoto.ru/f1/) | [📦 EXL/F1-Race](https://github.com/EXL/F1-Race) |
 | Fade To Black |  | [📦 midzer/f2bgl](https://github.com/midzer/f2bgl) |
 | ⭐ Fallout | [▶ gn-math.dev](https://gn-math.dev/?id=585) | [📦 midzer/fallout1-ce](https://github.com/midzer/fallout1-ce) |
 | Fallout 2 |  | [📦 roginvs/fallout2-ce](https://github.com/roginvs/fallout2-ce) |
@@ -338,6 +350,12 @@ Many ports need your own game files (they ask you to upload the original data). 
 | ⭐ Feed & Grow Fish | [▶ reeyukifish.pages.dev](https://reeyukifish.pages.dev/) | [📦 Reeyuki/FeedAndGrowFishPort](https://github.com/Reeyuki/FeedAndGrowFishPort) |
 | Feed the Pit |  | [📦 idkdl/feedthepit-src](https://github.com/idkdl/feedthepit-src) |
 | ⭐ FEZ | [▶ wasm.rip](https://wasm.rip/files/FEZ/fez.html) | [📦 degloved-net/FEZ](https://github.com/degloved-net/FEZ) |
+| FIFA 10 (PSP) | [▶ fifa10.website](https://fifa10.website/) |  |
+| FIFA 11 | [▶ fifa11.online](https://fifa11.online/) |  |
+| FIFA 12 | [▶ fifa12.online](https://fifa12.online/) |  |
+| FIFA 13 | [▶ fifa13.online](https://fifa13.online/) |  |
+| FIFA 14 (PSP) | [▶ fifa14.online](https://fifa14.online/) |  |
+| FIFA Street | [▶ fifastreet.online](https://fifastreet.online/) |  |
 | FIFA Street 2 | [▶ fifastreet2.fun](https://fifastreet2.fun/) |  |
 | ⭐ Fih | [▶ gn-math.dev](https://gn-math.dev/?id=797) | [📦 InsayneBoko/fih-port/tree/main/port](https://github.com/InsayneBoko/fih-port/tree/main/port) |
 | ⭐ FISH | [▶ gn-math.dev](https://gn-math.dev/?id=761) | [📦 web-ports/fish](https://github.com/web-ports/fish) |
@@ -385,7 +403,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="g"></a>
 
-## G <sub>· 42</sub>
+## G <sub>· 45</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -406,18 +424,21 @@ Many ports need your own game files (they ask you to upload the original data). 
 | GMH-Code |  | [📦 GMH-Code](https://github.com/GMH-Code) |
 | GO TO BED |  |  |
 | God of War II / Gran Turismo 4 (PS2 Web Recomp) |  | [📦 snuri00/ps2-web-recomp](https://github.com/snuri00/ps2-web-recomp) |
+| God of War: Chains of Olympus | [▶ godofwarchains.online](https://godofwarchains.online/) |  |
 | God of War: Chains of Olympus / Ghost of Sparta (PSP Web Recomp) |  | [📦 snuri00/psp-web-recomp](https://github.com/snuri00/psp-web-recomp) |
+| God of War: Ghost of Sparta | [▶ godofwarsparta.online](https://godofwarsparta.online/) |  |
 | ⭐ Golden Sun | [▶ shmargus.github.io](https://shmargus.github.io/GSRecomp/) | [📦 shmargus/GSRecomp](https://github.com/shmargus/GSRecomp) |
 | GoldenEye 007 (GoldenWeb64) | [▶ goldenweb64.com](https://goldenweb64.com/) |  |
 | ⭐ Gorilla Tag | [▶ gn-math.dev](https://gn-math.dev/?id=668) | [📦 web-ports/gorilla-tag](https://github.com/web-ports/gorilla-tag) |
 | Gorilla Tag (2) |  | [📦 aukak/gorrila-tag](https://github.com/aukak/gorrila-tag) |
 | Gran Turismo 2 | [▶ ydubr-gt2.surge.sh](https://ydubr-gt2.surge.sh/) |  |
+| Gran Turismo 4 | [▶ granturismo4.online](https://granturismo4.online/) |  |
 | Grand Theft Auto 2 | [▶ m1stermo.github.io](https://m1stermo.github.io/gta2/) |  |
 | Grand Theft Auto III (wasm.rip) | [▶ wasm.rip](https://wasm.rip/files/gta3/index.html) |  |
 | Grand Theft Auto III Online (quenq) | [▶ iii.quenq.com](https://iii.quenq.com/) |  |
 | ⭐ Grand Theft Auto: Chinatown Wars (PPSSPP Web) | [▶ gta-chinatown-wars.pages.dev](https://gta-chinatown-wars.pages.dev/) | [📦 root-hunter/ppsspp-web](https://github.com/root-hunter/ppsspp-web) |
 | Grand Theft Auto: Vice City (quenq) | [▶ vc.quenq.com](https://vc.quenq.com/) |  |
-| Grand Theft Auto: Vice City (revc.wasm.ltd) | [▶ revc.wasm.ltd](https://revc.wasm.ltd/) |  |
+| ⭐ Grand Theft Auto: Vice City (revc.wasm.ltd) | [▶ revc.wasm.ltd](https://revc.wasm.ltd/) | [📦 origami-ltd/wasm-revc](https://github.com/origami-ltd/wasm-revc) |
 | ⭐ Granny | [▶ gn-math.dev](https://gn-math.dev/?id=90) | [📦 web-ports/granny](https://github.com/web-ports/granny) |
 | Granny (2) |  | [📦 aukak/Granny](https://github.com/aukak/Granny) |
 | Granny (3) |  | [📦 woahhcrackers/GrannyWeb](https://github.com/woahhcrackers/GrannyWeb) |
@@ -436,7 +457,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="h"></a>
 
-## H <sub>· 40</sub>
+## H <sub>· 41</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -444,8 +465,9 @@ Many ports need your own game files (they ask you to upload the original data). 
 | ⭐ Half Life 2 | [▶ hl2.slqnt.dev](https://hl2.slqnt.dev/) | [📦 AlexBoops/half-life-2-port](https://github.com/AlexBoops/half-life-2-port) |
 | Half Life: Opposing Force | [▶ gn-math.dev](https://gn-math.dev/?id=693) |  |
 | ⭐ Half-Life and Counter-Strike 1.6 (WebXash) | [▶ x8bitrain.github.io](https://x8bitrain.github.io/webXash/) | [📦 x8bitrain/webXash](https://github.com/x8bitrain/webXash) |
-| Halo: Combat Evolved | [▶ mitchellhynes.com](https://mitchellhynes.com/halo/halo.html) |  |
+| ⭐ Halo: Combat Evolved | [▶ mitchellhynes.com](https://mitchellhynes.com/halo/halo.html) | [📦 ecumene/web-halo](https://github.com/ecumene/web-halo) |
 | Halo: Combat Evolved (Combat Lab) | [▶ mitchellhynes.com](https://mitchellhynes.com/combat-lab/) |  |
+| ⭐ Halo: Combat Evolved (OpenCE) | [▶ opencommunityedition.com](https://opencommunityedition.com/) | [📦 OpenCommunityEdition/OpenCE](https://github.com/OpenCommunityEdition/OpenCE) |
 | Halo: Combat Evolved Mobile | [▶ hcemobile.com](https://hcemobile.com/) |  |
 | ⭐ Happy Room | [▶ wasm.rip](https://wasm.rip/files/happy-room/index.html) | [📦 degloved-net/happy-room](https://github.com/degloved-net/happy-room) |
 | ⭐ Happy Sheepies | [▶ gn-math.github.io](https://gn-math.github.io/web-port/happy-sheepies/) | [📦 genizy/web-port/tree/main/happy-sheepies](https://github.com/genizy/web-port/tree/main/happy-sheepies) |
@@ -485,10 +507,11 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="i"></a>
 
-## I <sub>· 7</sub>
+## I <sub>· 8</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
+| I Can't Believe It's Not Sonic 1 | [▶ jojudge.com](https://jojudge.com/ICBINS1/) |  |
 | I Spoke to God |  | [📦 degloved-net/i-spoke-to-god](https://github.com/degloved-net/i-spoke-to-god) |
 | I Wanna Be The Guy | [▶ gn-math.dev](https://gn-math.dev/?id=834) |  |
 | ⭐ In Stars and Time | [▶ gn-math.dev](https://gn-math.dev/?id=667) | [📦 Reeyuki/InStarsAndTime](https://github.com/Reeyuki/InStarsAndTime) |
@@ -501,11 +524,12 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="j"></a>
 
-## J <sub>· 10</sub>
+## J <sub>· 11</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
 | Jagged Alliance 2 |  | [📦 midzer/ja2-stracciatella](https://github.com/midzer/ja2-stracciatella) |
+| Jak and Daxter: The Lost Frontier | [▶ jakdaxterlostfrontier.online](https://jakdaxterlostfrontier.online/) |  |
 | Jazz Jackrabbit |  | [📦 midzer/openjazz](https://github.com/midzer/openjazz) |
 | Jazz Jackrabbit 2 |  | [📦 deathkiller/jazz2-native](https://github.com/deathkiller/jazz2-native) |
 | ⭐ Jeffrey Epstein Basics In Education And Kidnapping | [▶ gn-math.dev](https://gn-math.dev/?id=751) | [📦 bubbls/ports/tree/main/jeffrey-epsteins-basics-in-education-and-kidnapping](https://github.com/bubbls/ports/tree/main/jeffrey-epsteins-basics-in-education-and-kidnapping) |
@@ -549,7 +573,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="l"></a>
 
-## L <sub>· 24</sub>
+## L <sub>· 25</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -575,6 +599,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Little Big Adventure 2 |  | [📦 LBALab/lba2remake](https://github.com/LBALab/lba2remake) |
 | ⭐ Lobotomy Corporation | [▶ wasm.rip](https://wasm.rip/files/lob-corp/index.html) | [📦 Reeyuki/lobcorp](https://github.com/Reeyuki/lobcorp) |
 | ⭐ Look Outside | [▶ gn-math.dev](https://gn-math.dev/?id=649) | [📦 web-ports/look-outside](https://github.com/web-ports/look-outside) |
+| ⭐ Luanti (Minetest) | [▶ wasmga.me](https://wasmga.me/games/luanti) | [📦 wasmga-me/luanti-wasm](https://github.com/wasmga-me/luanti-wasm) |
 | ⭐ Lugaru | [▶ loganwalkerdev.github.io](https://loganwalkerdev.github.io/lugaru-web/) | [📦 loganwalkerdev/lugaru-web](https://github.com/loganwalkerdev/lugaru-web) |
 | Luigi's Picture Poker | [▶ marcy4000.itch.io](https://marcy4000.itch.io/luigis-picture-poker) |  |
 
@@ -582,10 +607,11 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="m"></a>
 
-## M <sub>· 45</sub>
+## M <sub>· 51</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
+| Madden NFL 08 | [▶ maddennfl08.online](https://maddennfl08.online/) |  |
 | Magic Sushi |  | [📦 EXL/Magic-Sushi](https://github.com/EXL/Magic-Sushi) |
 | ⭐ The Man From the Window | [▶ gn-math.github.io](https://gn-math.github.io/web-port/the-man-in-the-window/) | [📦 genizy/web-port/tree/main/the-man-in-the-window](https://github.com/genizy/web-port/tree/main/the-man-in-the-window) |
 | ⭐ The Man From the Window 2 | [▶ wasm.rip](https://wasm.rip/files/MFDW2/index.html) | [📦 wasm-rip/the-man-from-the-window-2-web](https://github.com/wasm-rip/the-man-from-the-window-2-web) |
@@ -593,6 +619,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Marathon 2 / Infinity (AlephWeb) |  | [📦 TotallyGatsby/AlephWeb](https://github.com/TotallyGatsby/AlephWeb) |
 | Marble Blast Gold & Marble Blast Platinum |  | [📦 Vanilagy/MarbleBlast](https://github.com/Vanilagy/MarbleBlast) |
 | Mario Kart Wii (WebCompiled) |  | [📦 dynamiteswag81/webcompiled](https://github.com/dynamiteswag81/webcompiled) |
+| Marvel vs. Capcom 2 | [▶ marvelvscapcom2.online](https://marvelvscapcom2.online/) |  |
 | Master of Defence | [▶ nomadic-ua.itch.io](https://nomadic-ua.itch.io/master-of-defence) |  |
 | Master of Orion |  | [📦 midzer/1oom](https://github.com/midzer/1oom) |
 | The Math Is Leaking |  | [📦 reeyuki/themathisleaking](https://github.com/reeyuki/themathisleaking) |
@@ -602,6 +629,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | The Message From Deep Space |  | [📦 dashiellbenton/ports/tree/main/tmfds](https://github.com/dashiellbenton/ports/tree/main/tmfds) |
 | Meteor 60 Seconds |  | [📦 ThatWirdGuy/Meteor-60-Seconds-Web](https://github.com/ThatWirdGuy/Meteor-60-Seconds-Web) |
 | Micro Machines (scale-miniatures) |  | [📦 hivvu/scale-miniatures](https://github.com/hivvu/scale-miniatures) |
+| Midnight Club 3: DUB Edition | [▶ midnighhtclub3.online](https://midnighhtclub3.online/) |  |
 | Midnight Shift | [▶ gn-math.dev](https://gn-math.dev/?id=658) |  |
 | ⭐ Milk inside a bag of milk inside a bag of milk | [▶ gn-math.dev](https://gn-math.dev/?id=650) | [📦 web-ports/milk-bag-games/tree/main/inside](https://github.com/web-ports/milk-bag-games/tree/main/inside) |
 | ⭐ Milk outside a bag of milk outside a bag of milk | [▶ gn-math.dev](https://gn-math.dev/?id=651) | [📦 web-ports/milk-bag-games/tree/main/outside](https://github.com/web-ports/milk-bag-games/tree/main/outside) |
@@ -620,8 +648,10 @@ Many ports need your own game files (they ask you to upload the original data). 
 | MiniSlug |  | [📦 midzer/minislug](https://github.com/midzer/minislug) |
 | ⭐ MiSide | [▶ gn-math.dev](https://gn-math.dev/?id=814) | [📦 web-ports/miside](https://github.com/web-ports/miside/) |
 | ⭐ MiSide (2) | [▶ wasm.rip](https://wasm.rip/files/miside/miside.html) | [📦 woahhcrackers/MiSideWeb](https://github.com/woahhcrackers/MiSideWeb) |
+| Monster Hunter Freedom Unite | [▶ mhfu.online](https://mhfu.online/) |  |
 | Moon (Black Ops Zombies, vel.gg) | [▶ vel.gg](https://vel.gg/bo1z/moon) |  |
 | Moon (Zombies) | [▶ moon-zombies.pages.dev](http://moon-zombies.pages.dev) |  |
+| Mortal Kombat: Shaolin Monks | [▶ mortalkombatsm.online](https://mortalkombatsm.online/) |  |
 | Muck (WIP) |  | [📦 gays-studio/muck-webport](https://github.com/gays-studio/muck-webport) |
 | Muddy Heights |  | [📦 gabadagabadgoo/morbidy-obese-chickens](https://github.com/gabadagabadgoo/morbidy-obese-chickens) |
 | MVP Baseball 2005 |  | [📦 ptitty12/mvp2005-decomp](https://github.com/ptitty12/mvp2005-decomp) |
@@ -630,30 +660,36 @@ Many ports need your own game files (they ask you to upload the original data). 
 | My Dictator Stalin Can't Be This Cute ?! |  | [📦 degloved-net/stalin-yuri-web](https://github.com/degloved-net/stalin-yuri-web) |
 | My Femboy Roommate |  | [📦 gays-studio/mfr-webport](http://github.com/gays-studio/mfr-webport) |
 | My Femboy Roommate (2) |  | [📦 Cute-Orange-Cat/MFR/tree/main](https://github.com/Cute-Orange-Cat/MFR/tree/main) |
+| My Furry Protogen |  | [📦 Atreyu802/My-Furry-Protogen-Web-Port](https://github.com/Atreyu802/My-Furry-Protogen-Web-Port) |
 | My Talking Baby Hippo | [▶ gn-math.dev](https://gn-math.dev/?id=840) |  |
 
 <p align="right"><a href="#jump-to">↑ back to top</a></p>
 
 <a id="n"></a>
 
-## N <sub>· 25</sub>
+## N <sub>· 30</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
 | Nacht der Untoten | [▶ zombies.bitcoinsapi.com](https://zombies.bitcoinsapi.com/) |  |
 | Nacht der Untoten (2) | [▶ zombies.concentric.live](https://zombies.concentric.live/) |  |
 | NAM / Napalm | [▶ rgc.zone](https://rgc.zone/ports/namweb/run.html) |  |
+| Naruto Shippuden: Ultimate Ninja 5 | [▶ narutoshippuden5.online](https://narutoshippuden5.online/) |  |
+| Naruto Shippuden: Ultimate Ninja Impact | [▶ narutoimpact.online](https://narutoimpact.online/) |  |
 | NBA 2K12 | [▶ nba2k12.online](https://nba2k12.online/) |  |
+| NBA Street V3 | [▶ nbastreet3.online](https://nbastreet3.online/) |  |
 | NBlood | [▶ rgc.zone](https://rgc.zone/ports/nbloodweb/run.html) |  |
 | ⭐ NCAA Football 10 (PSP Recomp) | [▶ awest813.github.io](https://awest813.github.io/NCAA-10-PSP-Recomp/) | [📦 awest813/NCAA-10-PSP-Recomp](https://github.com/awest813/NCAA-10-PSP-Recomp) |
 | Need for Speed: Most Wanted (2005) (dezm0n web port) | [▶ dezm0n.itch.io](https://dezm0n.itch.io/nfs-most-wanted-web-port) |  |
 | Need for Speed: Most Wanted (2005) (NFSMW Online web) | [▶ web.nfsmwo.com](https://web.nfsmwo.com/) |  |
 | Need for Speed: Most Wanted (2005) (NFSMW Online) | [▶ nfsmwonline.com](https://nfsmwonline.com) |  |
 | Need for Speed: Underground 2 | [▶ nfsu2.xyz](https://nfsu2.xyz/) |  |
+| Need for Speed: Underground 2 (nfsunderground2.site) | [▶ nfsunderground2.site](https://nfsunderground2.site/) |  |
 | ⭐ Needy Streamer Overload | [▶ gn-math.dev](https://gn-math.dev/?id=708) | [📦 web-ports/needy-streamer-overload](https://github.com/web-ports/needy-streamer-overload) |
 | NetQuake.io | [▶ netquake.io](https://www.netquake.io/) |  |
 | Neverball |  | [📦 Neverball/neverball](https://github.com/Neverball/neverball) |
 | New Super Mario Bros. Wii |  | [📦 teaserlua/nsmbw-web-port](https://github.com/teaserlua/nsmbw-web-port) |
+| NFL Street | [▶ nflstreet.online](https://nflstreet.online/) |  |
 | NHL '94 | [▶ kingof94.web.app](https://kingof94.web.app/) |  |
 | Night in the Woods |  | [📦 reeyuki/NightInTheWoods](https://github.com/reeyuki/NightInTheWoods/) |
 | Night of the Consumers |  | [📦 linkawaken1979-alt/night-of-the-consumers-web-port](https://github.com/linkawaken1979-alt/night-of-the-consumers-web-port) |
@@ -670,7 +706,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="o"></a>
 
-## O <sub>· 14</sub>
+## O <sub>· 15</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -683,6 +719,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | ⭐ Oneshot (Legacy) | [▶ gn-math.dev](https://gn-math.dev/?id=622) | [📦 67-Factory/oneshotthing](https://github.com/67-Factory/oneshotthing) |
 | ⭐ Oneshot: World Machine Edition | [▶ wasm.rip](https://wasm.rip/files/oneshot-wme/index.html) | [📦 MercuryWorkshop/webshot](https://github.com/MercuryWorkshop/webshot) |
 | Open Golf |  | [📦 mgerdes/Open-Golf](https://github.com/mgerdes/Open-Golf) |
+| Open Sonic | [▶ clarkeadg.github.io](https://clarkeadg.github.io/opensonic-js/) |  |
 | OpenFodder |  | [📦 OpenFodder/openfodder](https://github.com/OpenFodder/openfodder) |
 | ⭐ OpenTTD | [▶ openttdonline.com](https://openttdonline.com/play/) | [📦 OpenTTD/OpenTTD](https://github.com/OpenTTD/OpenTTD) |
 | OpenTTD (OpenTTD Online) |  | [📦 swords02/openttd-online](https://github.com/swords02/openttd-online) |
@@ -693,7 +730,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="p"></a>
 
-## P <sub>· 51</sub>
+## P <sub>· 55</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -702,6 +739,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Patrick’s Parabox |  | [📦 puffrs/patrickparaboxweb](https://github.com/puffrs/patrickparaboxweb) |
 | ⭐ PEAK (VERY wip) | [▶ wasm.rip](https://wasm.rip/files/peak/PEAK.html) | [📦 wasmdotrip/Peak-Port](https://github.com/wasmdotrip/Peak-Port) |
 | ⭐ Peaks of Yore | [▶ gn-math.dev](https://gn-math.dev/?id=717) | [📦 web-ports/peaks-of-yore](https://github.com/web-ports/peaks-of-yore) |
+| ⭐ Pekka Kana 2 | [▶ gmh-code.github.io](https://gmh-code.github.io/pk2/) | [📦 GMH-Code/PK2](https://github.com/GMH-Code/PK2) |
 | Penthouse Paradise | [▶ rgc.zone](https://rgc.zone/ports/8782-duke-penthouse/run.html) |  |
 | ⭐ People Playground | [▶ gn-math.github.io](https://gn-math.github.io/web-port/people-playground/) | [📦 genizy/web-port/tree/main/people-playground](https://github.com/genizy/web-port/tree/main/people-playground) |
 | People Playground (2) |  | [📦 bubbls/ugss/tree/main/people-playground](https://github.com/bubbls/ugss/tree/main/people-playground) |
@@ -731,6 +769,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Pokémon Yellow (pokemon-yellow-typescript) |  | [📦 gididaf/pokemon-yellow-typescript](https://github.com/gididaf/pokemon-yellow-typescript) |
 | ⭐ Portal | [▶ yikes.pw](https://yikes.pw/portal/) | [📦 weliveinhell/source-engine](https://github.com/weliveinhell/source-engine) |
 | Portal |  | [📦 AlexBoops/portal-1-port](https://github.com/AlexBoops/portal-1-port) |
+| POSTAL |  | [📦 leahanderson1/POSTAL-WASM](https://github.com/leahanderson1/POSTAL-WASM) |
 | Potion Craft: Alchemist Simulator |  | [📦 GrassPorts/Potion-Craft-Alchemy-Simulator](https://github.com/GrassPorts/Potion-Craft-Alchemy-Simulator) |
 | ⭐ Power Hover | [▶ gn-math.dev](https://gn-math.dev/?id=743) | [📦 web-ports/power-hover](https://github.com/web-ports/power-hover) |
 | Powermanga |  | [📦 midzer/Powermanga](https://github.com/midzer/Powermanga) |
@@ -739,6 +778,8 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Pretend it's not there |  |  |
 | ⭐ Prince of Persia | [▶ princejs.com](https://princejs.com/) | [📦 midzer/SDLPoP](https://github.com/midzer/SDLPoP) |
 | Pro Evolution Soccer 2011 | [▶ pes11.optijuegos.net](https://pes11.optijuegos.net/) |  |
+| Pro Evolution Soccer 2012 | [▶ pes12.online](https://pes12.online/) |  |
+| Pro Evolution Soccer 2014 (PSP) | [▶ pes14.online](https://pes14.online/) |  |
 | Pro Evolution Soccer 6 | [▶ pes6.optijuegos.net](http://pes6.optijuegos.net) |  |
 | Project Zomboid |  |  |
 | Promises to Keep | [▶ gitea.mcalec.dev](https://gitea.mcalec.dev/mcalec/ptk) |  |
@@ -775,7 +816,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="r"></a>
 
-## R <sub>· 29</sub>
+## R <sub>· 32</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -787,6 +828,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | ⭐ Raldi's Crackhouse | [▶ gn-math.dev](https://gn-math.dev/?id=670) | [📦 woahhcrackers/RaldiWeb-LEGACY](https://github.com/woahhcrackers/RaldiWeb-LEGACY) |
 | Raptor - Call of the Shadows |  | [📦 midzer/raptor](https://github.com/midzer/raptor) |
 | ⭐ Ratchet & Clank | [▶ re-rac.github.io](https://re-rac.github.io/) | [📦 re-rac/rerac](https://github.com/re-rac/rerac) |
+| Ratchet & Clank: Size Matters | [▶ ratchetclanksizematters.online](https://ratchetclanksizematters.online/) |  |
 | Ravenfield |  | [📦 degloved-net/Ravenfield](https://github.com/degloved-net/Ravenfield) |
 | ⭐ RE:RUN | [▶ gn-math.dev](https://gn-math.dev/?id=260) | [📦 aukak/RE-RUN](https://github.com/aukak/RE-RUN) |
 | Rec Room |  | [📦 98corbins](https://github.com/98corbins) |
@@ -795,6 +837,8 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Redneck Rampage: Rides Again | [▶ rgc.zone](https://rgc.zone/ports/rrridesagain/run.html) |  |
 | Redneck Rampage: Route 66 | [▶ rgc.zone](https://rgc.zone/ports/rrroute66/run.html) |  |
 | REminiscence |  | [📦 midzer/reminiscence](https://github.com/midzer/reminiscence) |
+| ⭐ Reset Generation | [▶ hubert-rybak.github.io](https://hubert-rybak.github.io/Reset-Generation-Wasm-Port/) | [📦 Hubert-Rybak/Reset-Generation-Wasm-Port](https://github.com/Hubert-Rybak/Reset-Generation-Wasm-Port) |
+| Resident Evil 4 | [▶ residentevil4.online](https://residentevil4.online/) |  |
 | Resident Evil Outbreak File #1 & #2 (Outbreak Web) | [▶ outbreakweb.com](https://outbreakweb.com/) |  |
 | Return to Castle Wolfenstein | [▶ rgc.zone](https://rgc.zone/ports/castlewolf/index.html) |  |
 | Return to Castle Wolfenstein | [▶ wwasm.m-h.org.uk](https://wwasm.m-h.org.uk/) |  |
@@ -813,7 +857,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="s"></a>
 
-## S <sub>· 115</sub>
+## S <sub>· 121</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -829,6 +873,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Scritchy Scratchy |  | [📦 c00lkiddtech/scratchy](https://github.com/c00lkiddtech/scratchy) |
 | SDL Sopwith |  | [📦 fragglet/sdl-sopwith](https://github.com/fragglet/sdl-sopwith) |
 | SDL-Ball |  | [📦 midzer/sdl-ball](https://github.com/midzer/sdl-ball) |
+| Serial Experiments Lain (lainTSX) |  | [📦 ad044/lainTSX](https://github.com/ad044/lainTSX) |
 | ⭐ The Seven Games of the Soul | [▶ omnium-games.github.io](https://omnium-games.github.io/faust/) | [📦 Omnium-Games/faust](https://github.com/Omnium-Games/faust) |
 | Sex with Hitler |  | [📦 ajtabjs/swhport](https://github.com/ajtabjs/swhport) |
 | Sex with Hitler |  | [📦 q-29/swhport-fixed](https://github.com/q-29/swhport-fixed) |
@@ -882,6 +927,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | ⭐ Sonic the Hedgehog (2013) | [▶ vinmannie.github.io](https://vinmannie.github.io/Sonic-1-WASM/) | [📦 VinMannie/Sonic-1-WASM](https://github.com/VinMannie/Sonic-1-WASM) |
 | Sonic the Hedgehog 2 |  | [📦 VinMannie/Sonic-2-WASM](https://github.com/VinMannie/Sonic-2-WASM) |
 | Sonic the Hedgehog 4: Episode I | [▶ wamwoowam.co.uk](https://wamwoowam.co.uk/sonic4/) |  |
+| Sonic Worlds Next | [▶ grubbyplaya.github.io](https://grubbyplaya.github.io/Sonic-Worlds-Next-WASM/Sonic%20Worlds%20Next.html) |  |
 | ⭐ SONIC.EXE | [▶ gn-math.github.io](https://gn-math.github.io/web-port/sonic.exe/) | [📦 genizy/web-port/tree/main/sonic.exe](https://github.com/genizy/web-port/tree/main/sonic.exe) |
 | Sonic.EXE (ORIGINAL) | [▶ gn-math.dev](https://gn-math.dev/?id=606) |  |
 | Sonic2 Community Cut WebPort |  | [📦 burnedpopcorn/Sonic2-Community-Cut-WebPort](https://github.com/burnedpopcorn/Sonic2-Community-Cut-WebPort) |
@@ -892,6 +938,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | ⭐ Spaceflight Simulator | [▶ gn-math.dev](https://gn-math.dev/?id=808) | [📦 web-ports/spaceflight-simulator](https://github.com/web-ports/spaceflight-simulator) |
 | ⭐ Speed Stars | [▶ gn-math.github.io](https://gn-math.github.io/web-port/speed-stars/) | [📦 genizy/web-port/tree/main/speed-stars](https://github.com/genizy/web-port/tree/main/speed-stars) |
 | Spelunky Classic HD | [▶ yancharkin.itch.io](https://yancharkin.itch.io/spelunky-classic-hd) |  |
+| Spider-Man 2 | [▶ spiderman2.online](https://spiderman2.online/) |  |
 | SRB2 Kart |  | [📦 skyleite/Kart-Public-WASM](https://github.com/skyleite/Kart-Public-WASM/) |
 | SSX 3 | [▶ ssx3.online](https://ssx3.online/) |  |
 | Star Fox Adventures | [▶ foxhollow.dev](https://foxhollow.dev/) |  |
@@ -903,6 +950,8 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Stardew Valley | [▶ wasm.rip](https://wasm.rip/files/stardewvalley/index.html) |  |
 | Starfighter |  | [📦 midzer/starfighter](https://github.com/midzer/starfighter) |
 | ⭐ Stick with It | [▶ gn-math.dev](https://gn-math.dev/?id=502) | [📦 slqntdevss/StickWithItPort](https://github.com/slqntdevss/StickWithItPort) |
+| Street Fighter Anniversary Collection | [▶ streetfighteranniversary.online](https://streetfighteranniversary.online/) |  |
+| Street Fighter III: 3rd Strike | [▶ streetfighter3.online](https://streetfighter3.online/) |  |
 | Stunts (PlayStunts) | [▶ playstunts.com](https://playstunts.com/) |  |
 | Stunts (stunts-hd) |  | [📦 mr-finster/stunts-hd](https://github.com/mr-finster/stunts-hd) |
 | Subway Surfers: Las Vegas |  | [📦 Toastiest64/Las-Vegas](https://github.com/Toastiest64/Las-Vegas) |
@@ -927,7 +976,8 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Super Mario War |  | [📦 mmatyas/supermariowar](https://github.com/mmatyas/supermariowar) |
 | Super Mario Zombies | [▶ smz.fun](https://smz.fun/) |  |
 | Super Monkey Ball | [▶ monkeyball-online.pages.dev](https://monkeyball-online.pages.dev/) |  |
-| Super Smash Bros. (smash.fun) | [▶ smash.fun](https://smash.fun/) |  |
+| ⭐ Super Smash Bros. (smash.fun) | [▶ smash.fun](https://smash.fun/) | [📦 turtlesoupy/opensmash](https://github.com/turtlesoupy/opensmash) |
+| Super Smash Bros. Ultimate (SSBU-port-web) |  | [📦 longurara/SSBU-port-web](https://github.com/longurara/SSBU-port-web) |
 | Superflight |  | [📦 squidward5/superflight-webport](https://github.com/squidward5/superflight-webport) |
 | SuperTux |  | [📦 SuperTux/supertux](https://github.com/SuperTux/supertux) |
 | Swabs Expedition |  | [📦 burnedpopcorn/Swabs-Expedition-Web-Port](https://github.com/burnedpopcorn/Swabs-Expedition-Web-Port) |
@@ -937,14 +987,17 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="t"></a>
 
-## T <sub>· 31</sub>
+## T <sub>· 34</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
 | T Cubed |  | [📦 web-ports/baldi-mods/tree/main/t3](https://github.com/web-ports/baldi-mods/tree/main/t3) |
 | T Cubed (2) |  | [📦 GlaceonFan77/T-Cubed-Web](https://github.com/GlaceonFan77/T-Cubed-Web) |
+| Tekken 4 | [▶ tekken4.online](https://tekken4.online/) |  |
 | Tekken 5 | [▶ tekken5.online](https://tekken5.online/) |  |
+| Tekken: Dark Resurrection | [▶ tekkendr.live](https://tekkendr.live/) |  |
 | Terraria (3) | [▶ playterraria.lol](https://playterraria.lol/) |  |
+| Tony Hawk's Pro Skater 3 | [▶ tonyhawkpro3.online](https://tonyhawkpro3.online/) |  |
 | Total Annihilation: Kingdoms (OpenKingdoms) |  | [📦 OpenKingdoms/OpenKingdoms](https://github.com/OpenKingdoms/OpenKingdoms) |
 | t³ (T cubed) | [▶ gn-math.dev](https://gn-math.dev/?id=818) |  |
 | Taiko no Tatsujin | [▶ cjdgrevival.com](https://cjdgrevival.com/) |  |
@@ -977,10 +1030,11 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="u"></a>
 
-## U <sub>· 16</sub>
+## U <sub>· 18</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
+| UFC 2009 Undisputed / Throwdown | [▶ ufc2.online](https://ufc2.online/) |  |
 | ULTRAKILL | [▶ gn-math.dev](https://gn-math.dev/?id=196) |  |
 | ULTRAKILL | [▶ monoxide.dev](https://monoxide.dev/ultrakill) |  |
 | ⭐ Ultrakill Prelude | [▶ gn-math.github.io](https://gn-math.github.io/web-port/ultrakill/) | [📦 genizy/web-port/tree/main/ultrakill](https://github.com/genizy/web-port/tree/main/ultrakill) |
@@ -995,6 +1049,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Untitled Goose Game (2) |  | [📦 webporting/Untitled-Goose-Game](https://github.com/webporting/Untitled-Goose-Game) |
 | Upload Labs |  | [📦 googoogoob/UploadLabsWebPort](https://github.com/googoogoob/UploadLabsWebPort) |
 | Upstream |  | [📦 degloved-net/upstream](https://github.com/degloved-net/upstream) |
+| Urban Reign (PS2 recomp) |  | [📦 anmolverma5/urban-reign-wasm](https://github.com/anmolverma5/urban-reign-wasm) |
 | ⭐ Urban Terror | [▶ ut.pieter.com](http://ut.pieter.com) | [📦 FrozenSand/ioq3-for-UrbanTerror-4](https://github.com/FrozenSand/ioq3-for-UrbanTerror-4) |
 | ⭐ UvuvwevwevweOnyetenvewveUgwemubwemOssas | [▶ gn-math.dev](https://gn-math.dev/?id=795) | [📦 bubbls/ports/tree/main/UvuvwevwevweOnyetenvewveUgwemubwemOssas](https://github.com/bubbls/ports/tree/main/UvuvwevwevweOnyetenvewveUgwemubwemOssas) |
 
@@ -1002,7 +1057,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="v"></a>
 
-## V <sub>· 8</sub>
+## V <sub>· 9</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -1011,6 +1066,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Very Realistic Game Dev Simulator |  | [📦 UMMMM-GUYSSS/Very-Realistic-Game-Dev-Simulator](https://github.com/UMMMM-GUYSSS/Very-Realistic-Game-Dev-Simulator) |
 | Violetland |  | [📦 midzer/violetland](https://github.com/midzer/violetland) |
 | ⭐ Virtua Fighter | [▶ vf1-recomp.pages.dev](https://vf1-recomp.pages.dev/) | [📦 mr-finster/vf1-recomp](https://github.com/mr-finster/vf1-recomp) |
+| Virtua Tennis 2 | [▶ virtuatennis2.online](https://virtuatennis2.online/) |  |
 | Virtual On: Cyber Troopers | [▶ solid7s.github.io](https://solid7s.github.io/Virtual-On-Web/) |  |
 | Void Whispers |  | [📦 degloved-net/void-whispers](https://github.com/degloved-net/void-whispers) |
 | ⭐ VVVVVV | [▶ stelight.games](https://stelight.games/play/webports/stellite.games/stellite/vvvvvv/) | [📦 midzer/vvvvvv](https://github.com/midzer/vvvvvv) |
@@ -1019,13 +1075,14 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="w"></a>
 
-## W <sub>· 27</sub>
+## W <sub>· 31</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
 | WadCMD | [▶ wadcmd.com](https://wadcmd.com/) |  |
 | Warcraft II (Wargus) | [▶ rgc.zone](https://rgc.zone/ports/Warcraft2web/index.html) |  |
 | Warcraft III: Reign of Chaos / The Frozen Throne (wc3-wasm) |  | [📦 rgnv/wc3-wasm](https://github.com/rgnv/wc3-wasm) |
+| The Warriors | [▶ thewarriors.online](https://thewarriors.online/) |  |
 | Warzone 2100 (Web Edition) | [▶ wz2100.net](https://wz2100.net/news/warzone-2100-web-edition/) |  |
 | WASM Arcade | [▶ wasmarcade.com](https://wasmarcade.com/) |  |
 | wasm.rip | [▶ wasm.rip](https://wasm.rip) |  |
@@ -1048,6 +1105,9 @@ Many ports need your own game files (they ask you to upload the original data). 
 | World of Warcraft (wowser) |  | [📦 wowserhq/wowser](https://github.com/wowserhq/wowser) |
 | Worldbox |  | [📦 Shindo957-Official/worldfox](https://gitlab.com/Shindo957-Official/worldfox) |
 | WW2 GI: Platoon Leader | [▶ rgc.zone](https://rgc.zone/ports/8791-ww2-platoon/run.html) |  |
+| WWE SmackDown vs. Raw 2010 | [▶ wwe2010.online](https://wwe2010.online/) |  |
+| WWE SmackDown vs. Raw 2011 | [▶ wwe2011.online](https://wwe2011.online/) |  |
+| WWE SmackDown! Here Comes the Pain | [▶ wwepain.online](https://wwepain.online/) |  |
 | WWE SmackDown! vs. RAW | [▶ smackdownvsraw.online](https://smackdownvsraw.online/) |  |
 | WWII GI | [▶ rgc.zone](https://rgc.zone/ports/ww2giweb/run.html) |  |
 
