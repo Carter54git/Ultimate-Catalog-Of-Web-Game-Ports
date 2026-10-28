@@ -6,7 +6,7 @@
 
 **Games you can play right in the browser — WebAssembly, WebGL, Emscripten, Unity, Godot, Flash/Ruffle and pure JavaScript ports.**
 
-![games](https://img.shields.io/badge/games-906-8A2BE2?style=for-the-badge) ![playable demos](https://img.shields.io/badge/playable%20demos-515-2ea44f?style=for-the-badge) ![with source](https://img.shields.io/badge/with%20source-591-1f6feb?style=for-the-badge) ![demo + source](https://img.shields.io/badge/demo%20+%20source-208-f59e0b?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--10--25-555?style=for-the-badge)
+![games](https://img.shields.io/badge/games-916-8A2BE2?style=for-the-badge) ![playable demos](https://img.shields.io/badge/playable%20demos-516-2ea44f?style=for-the-badge) ![with source](https://img.shields.io/badge/with%20source-602-1f6feb?style=for-the-badge) ![demo + source](https://img.shields.io/badge/demo%20+%20source-210-f59e0b?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--10--28-555?style=for-the-badge)
 
 </div>
 
@@ -85,7 +85,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="b"></a>
 
-## B <sub>· 58</sub>
+## B <sub>· 59</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -129,6 +129,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | bog/aukak |  | [📦 aukak](https://github.com/aukak) |
 | ⭐ boil Noodles at Night | [▶ wasm.rip](https://wasm.rip/files/boilnoodles/index.html) | [📦 SomeRandomFella/portsandrips/tree/master/boilnoodles](https://github.com/SomeRandomFella/portsandrips/tree/master/boilnoodles) |
 | Bombermaaan |  | [📦 midzer/Bombermaaan](https://github.com/midzer/Bombermaaan) |
+| BottleShip (NFS Underground 2, XIII, Far Cry, Mafia, The Bard's Tale…) |  | [📦 jenissimo/bottleship](https://github.com/jenissimo/bottleship) |
 | Bowerwhelm |  |  |
 | Brawlhalla | [▶ truffled.lol](https://truffled.lol/games/brawlhalla/index.html) |  |
 | breadbb/genizy |  | [📦 genizy](https://github.com/genizy) |
@@ -152,13 +153,14 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="c"></a>
 
-## C <sub>· 77</sub>
+## C <sub>· 78</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
 | C-Dogs SDL |  | [📦 midzer/cdogs-sdl](https://github.com/midzer/cdogs-sdl) |
 | Caesar II | [▶ second-impressions.github.io](https://second-impressions.github.io/caesar2-port/) |  |
 | Caesar III |  | [📦 bvschaik/julius](https://github.com/bvschaik/julius) |
+| Caesar III (Augustus) |  | [📦 Keriew/augustus](https://github.com/Keriew/augustus) |
 | Call of Duty Web Collection | [▶ cod-webports.pages.dev](https://cod-webports.pages.dev/) |  |
 | Call of Duty: Black Ops Zombies | [▶ vel.gg](http://vel.gg/bo1z) |  |
 | Call of Duty: Black Ops Zombies (2) | [▶ vel.gg](https://vel.gg/bsz) |  |
@@ -238,7 +240,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="d"></a>
 
-## D <sub>· 71</sub>
+## D <sub>· 73</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -282,6 +284,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Doom (wasm-doom) |  | [📦 lazarv/wasm-doom](https://github.com/lazarv/wasm-doom) |
 | Doom (wasmdoom) |  | [📦 theMagicalKarp/wasmdoom](https://github.com/theMagicalKarp/wasmdoom) |
 | ⭐ Doom (WebDOOM) | [▶ ustymukhman.github.io](https://ustymukhman.github.io/WebDOOM/public/) | [📦 UstymUkhman/WebDOOM](https://github.com/UstymUkhman/WebDOOM) |
+| Doom / Doom II / Heretic (EDGE-classic) |  | [📦 edge-classic/EDGE-classic](https://github.com/edge-classic/EDGE-classic) |
 | ⭐ Doom 3 | [▶ gn-math.dev](https://gn-math.dev/?id=626) | [📦 web-ports/doom-3](https://github.com/web-ports/doom-3) |
 | Doom 3 (D3Wasm) | [▶ recompiledgames.com](https://recompiledgames.com/doom-3-recompiled) |  |
 | Doom 3 Demo | [▶ wasm.continuation-labs.com](https://wasm.continuation-labs.com/d3demo/) |  |
@@ -291,6 +294,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | DOS demoscene productions (demoscene-recomp) |  | [📦 treylorswift/demoscene-recomp](https://github.com/treylorswift/demoscene-recomp) |
 | Dos.Zone | [▶ dos.zone](https://dos.zone) |  |
 | Downhill Domination | [▶ downhilldomination.online](https://downhilldomination.online/) |  |
+| Downhill Domination (downhill-revived) |  | [📦 skuza-oss/downhill-revived](https://github.com/skuza-oss/downhill-revived) |
 | Dragon Ball Z: Budokai 3 | [▶ dragonballbudokai3.online](https://dragonballbudokai3.online/) |  |
 | Dragon Ball Z: Budokai Tenkaichi 2 | [▶ dragonballbt2.online](https://dragonballbt2.online/) |  |
 | Dragon Ball Z: Budokai Tenkaichi 3 | [▶ dragonballbt3.online](https://dragonballbt3.online/) |  |
@@ -322,10 +326,10 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 | Game | Play | Source |
 | --- | --- | --- |
-| EA Sports Cricket 07 |  | [📦 Dhaiwat10/cricket07-browser](https://github.com/Dhaiwat10/cricket07-browser) |
+| ⭐ EA Sports Cricket 07 | [▶ cricket07.dhaiwat.com](https://cricket07.dhaiwat.com/) | [📦 Dhaiwat10/cricket07-browser](https://github.com/Dhaiwat10/cricket07-browser) |
 | Eaglercraft | [▶ rgc.zone](https://rgc.zone/ports/eaglecarftg/index.html) |  |
 | Egg Fried Rice |  |  |
-| The Elder Scrolls III: Morrowind (OpenMW) | [▶ morrowind.virtastic.app](https://morrowind.virtastic.app/) |  |
+| ⭐ The Elder Scrolls III: Morrowind (OpenMW) | [▶ morrowind.virtastic.app](https://morrowind.virtastic.app/) | [📦 Virtastic/openmw-web](https://github.com/Virtastic/openmw-web) |
 | Empty Clip |  | [📦 midzer/empty-clip](https://github.com/midzer/empty-clip) |
 | Endacopia |  | [📦 linkawaken1979-alt/endacopia-](https://github.com/linkawaken1979-alt/endacopia-) |
 | Endoparasitic | [▶ gn-math.dev](https://gn-math.dev/?id=286) |  |
@@ -408,7 +412,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="g"></a>
 
-## G <sub>· 45</sub>
+## G <sub>· 46</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -437,6 +441,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | ⭐ Gorilla Tag | [▶ gn-math.dev](https://gn-math.dev/?id=668) | [📦 web-ports/gorilla-tag](https://github.com/web-ports/gorilla-tag) |
 | Gorilla Tag (2) |  | [📦 aukak/gorrila-tag](https://github.com/aukak/gorrila-tag) |
 | Gran Turismo 2 | [▶ ydubr-gt2.surge.sh](https://ydubr-gt2.surge.sh/) |  |
+| Gran Turismo 2 (gt-2-pc) |  | [📦 dubrovskiy-yevhen-stakelogic/gt-2-pc](https://github.com/dubrovskiy-yevhen-stakelogic/gt-2-pc) |
 | Gran Turismo 4 | [▶ granturismo4.online](https://granturismo4.online/) |  |
 | Grand Theft Auto 2 | [▶ m1stermo.github.io](https://m1stermo.github.io/gta2/) |  |
 | Grand Theft Auto III (wasm.rip) | [▶ wasm.rip](https://wasm.rip/files/gta3/index.html) |  |
@@ -549,7 +554,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="k"></a>
 
-## K <sub>· 21</sub>
+## K <sub>· 22</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -563,6 +568,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | ⭐ Kindergarten 1 & 2 | [▶ gn-math.github.io](https://gn-math.github.io/web-port/kindergarten/) | [📦 genizy/web-port/tree/main/kindergarten](https://github.com/genizy/web-port/tree/main/kindergarten) |
 | Kindergarten 2 | [▶ gn-math.dev](https://gn-math.dev/?id=446) |  |
 | ⭐ Kindergarten 3 | [▶ gn-math.dev](https://gn-math.dev/?id=501) | [📦 slqntdevss/Kindergarten3Port](https://github.com/slqntdevss/Kindergarten3Port) |
+| Kingdom Hearts: Chain of Memories (ReKHCoM, web alpha) |  | [📦 MatyMeatBoy/ReKHCom](https://github.com/MatyMeatBoy/ReKHCom) |
 | Kingdom Hearts: Chain of Memories (RepliCoM) | [▶ replicom.dev](https://replicom.dev/) |  |
 | KinitoPET |  | [📦 web-ports/kinito-pet](https://github.com/web-ports/kinito-pet) |
 | ⭐ Kino der Toten | [▶ kino-der-toten.pages.dev](http://kino-der-toten.pages.dev) | [📦 GoofyAhhBro69420/COD-ZOMBIES](https://github.com/GoofyAhhBro69420/COD-ZOMBIES) |
@@ -579,7 +585,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="l"></a>
 
-## L <sub>· 27</sub>
+## L <sub>· 28</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -592,6 +598,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | The Legend of Sword and Fairy (type-pal) |  | [📦 IllegalCreed/type-pal](https://github.com/IllegalCreed/type-pal) |
 | The Legend of Zelda - A Link to the Past |  | [📦 midzer/zelda3](https://github.com/midzer/zelda3) |
 | The Legend of Zelda - A Link to the Past (lttp, WebGL remake) |  | [📦 englercj/lttp](https://github.com/englercj/lttp) |
+| The Legend of Zelda: Link's Awakening DX (linksawakening-portable) |  | [📦 sp00nznet/linksawakening-portable](https://github.com/sp00nznet/linksawakening-portable) |
 | The Legend of Zelda: Link's Awakening DX (linksawakening-portable) |  | [📦 sp00nznet/linksawakening-portable](https://github.com/sp00nznet/linksawakening-portable) |
 | ⭐ The Legend of Zelda: Twilight Princess (Dusklight) | [▶ dusklight.pages.dev](https://dusklight.pages.dev/) | [📦 caribbeansc/dusklight](https://github.com/caribbeansc/dusklight) |
 | ⭐ LEGO Island | [▶ isle.pizza](https://isle.pizza/) | [📦 isledecomp/isle.pizza](https://github.com/isledecomp/isle.pizza) |
@@ -615,7 +622,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="m"></a>
 
-## M <sub>· 51</sub>
+## M <sub>· 52</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -648,6 +655,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Minecraft 0.6.1 | [▶ rgc.zone](https://rgc.zone/ports/minecraft061/index.html) |  |
 | Minecraft 1.8.8 (EaglercraftX) | [▶ wasmarcade.com](https://wasmarcade.com/minecraft) |  |
 | Minecraft 4k |  | [📦 midzer/m4kc](https://github.com/midzer/m4kc) |
+| Minecraft Classic (ClassiCube) |  | [📦 ClassiCube/ClassiCube](https://github.com/ClassiCube/ClassiCube) |
 | Minecraft LCE |  |  |
 | Minecraft Pocket Edition | [▶ gn-math.dev](https://gn-math.dev/?id=754) |  |
 | Minecraft Story Mode | [▶ mcsm-web.pages.dev](https://mcsm-web.pages.dev/) |  |
@@ -868,7 +876,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="s"></a>
 
-## S <sub>· 125</sub>
+## S <sub>· 127</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -928,6 +936,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Something |  | [📦 gays-studio/something-web](https://github.com/gays-studio/something-web) |
 | Something (2) |  | [📦 googoogoob/SomethingWebPort](https://github.com/googoogoob/SomethingWebPort) |
 | Something (3) |  | [📦 BestSpark687090/bestspark-web-ports/tree/main/actual-something](https://github.com/BestSpark687090/bestspark-web-ports/tree/main/actual-something) |
+| Sonic 3 A.I.R. |  | [📦 Eukaryot/sonic3air](https://github.com/Eukaryot/sonic3air) |
 | ⭐ Sonic CD | [▶ gn-math.dev](https://gn-math.dev/?id=589) | [📦 TWS2401/Sonic-CD-WASM](https://github.com/TWS2401/Sonic-CD-WASM) |
 | Sonic CD (Sonic-CD-WASM) | [▶ tws2401.github.io](https://tws2401.github.io/Sonic-CD-WASM/) |  |
 | Sonic GDevelop |  | [📦 burnedpopcorn/Sonic-GDevelop-Web-Port](https://github.com/burnedpopcorn/Sonic-GDevelop-Web-Port) |
@@ -954,6 +963,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Spider-Man 2 | [▶ spiderman2.online](https://spiderman2.online/) |  |
 | SRB2 Kart |  | [📦 skyleite/Kart-Public-WASM](https://github.com/skyleite/Kart-Public-WASM/) |
 | SSX 3 | [▶ ssx3.online](https://ssx3.online/) |  |
+| SSX 3 (ssx3-decomp) |  | [📦 andersfischernielsen/ssx3-decomp](https://github.com/andersfischernielsen/ssx3-decomp) |
 | Star Fox Adventures | [▶ foxhollow.dev](https://foxhollow.dev/) |  |
 | Star Wars Jedi Knight Dark Forces 2 | [▶ rgc.zone](https://rgc.zone/ports/oswjkdf2/index.html) |  |
 | Star Wars Jedi Knight: Dark Forces II |  | [📦 shinyquagsire23/OpenJKDF2](https://github.com/shinyquagsire23/OpenJKDF2) |
