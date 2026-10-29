@@ -6,7 +6,7 @@
 
 **Games you can play right in the browser — WebAssembly, WebGL, Emscripten, Unity, Godot, Flash/Ruffle and pure JavaScript ports.**
 
-![games](https://img.shields.io/badge/games-916-8A2BE2?style=for-the-badge) ![playable demos](https://img.shields.io/badge/playable%20demos-516-2ea44f?style=for-the-badge) ![with source](https://img.shields.io/badge/with%20source-602-1f6feb?style=for-the-badge) ![demo + source](https://img.shields.io/badge/demo%20+%20source-210-f59e0b?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--10--28-555?style=for-the-badge)
+![games](https://img.shields.io/badge/games-930-8A2BE2?style=for-the-badge) ![playable demos](https://img.shields.io/badge/playable%20demos-517-2ea44f?style=for-the-badge) ![with source](https://img.shields.io/badge/with%20source-617-1f6feb?style=for-the-badge) ![demo + source](https://img.shields.io/badge/demo%20+%20source-212-f59e0b?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--10--29-555?style=for-the-badge)
 
 </div>
 
@@ -43,7 +43,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="a"></a>
 
-## A <sub>· 33</sub>
+## A <sub>· 34</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -51,6 +51,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Ages of Conflict | [▶ wasm.rip](https://wasm.rip/files/aoc/index.html) |  |
 | Albion |  | [📦 IS4Code/Albion](https://github.com/IS4Code/Albion) |
 | ⭐ Alley Cat | [▶ petarov.github.io](https://petarov.github.io/alleycat.exe/) | [📦 petarov/alleycat.exe](https://github.com/petarov/alleycat.exe) |
+| Alone in the Dark (aitd) |  | [📦 xesf/aitd](https://github.com/xesf/aitd) |
 | ⭐ Amanda The Adventurer | [▶ gn-math.github.io](https://gn-math.github.io/web-port/amanda-the-adventurer/) | [📦 genizy/web-port/tree/main/amanda-the-adventurer](https://github.com/genizy/web-port/tree/main/amanda-the-adventurer) |
 | Amazing Alex | [▶ nomadic-ua.itch.io](https://nomadic-ua.itch.io/amazing-alex) |  |
 | ⭐ American McGee’s Alice| [▶ https://yselimarslan98-dot.github.io/alice-web/](https://github.com/yselimarslan98-dot/alice-web) |  |
@@ -517,13 +518,14 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="i"></a>
 
-## I <sub>· 8</sub>
+## I <sub>· 9</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
 | I Can't Believe It's Not Sonic 1 | [▶ jojudge.com](https://jojudge.com/ICBINS1/) |  |
 | I Spoke to God |  | [📦 degloved-net/i-spoke-to-god](https://github.com/degloved-net/i-spoke-to-god) |
 | I Wanna Be The Guy | [▶ gn-math.dev](https://gn-math.dev/?id=834) |  |
+| Ignition |  | [📦 xesf/ignition](https://github.com/xesf/ignition) |
 | ⭐ In Stars and Time | [▶ gn-math.dev](https://gn-math.dev/?id=667) | [📦 Reeyuki/InStarsAndTime](https://github.com/Reeyuki/InStarsAndTime) |
 | In Stars and Time (2) |  | [📦 web-ports/in-stars-and-time](https://github.com/web-ports/in-stars-and-time) |
 | ⭐ Inscryption | [▶ wasm.rip](https://wasm.rip/files/inscryption/index.html) | [📦 Reeyuki/InscryptionWebport](https://github.com/Reeyuki/InscryptionWebport) |
@@ -585,7 +587,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="l"></a>
 
-## L <sub>· 28</sub>
+## L <sub>· 29</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -596,6 +598,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | ⭐ Legend of Legaia | [▶ andrewaltimit.github.io](https://andrewaltimit.github.io/legend-of-legaia-re/play.html) | [📦 AndrewAltimit/legend-of-legaia-re](https://github.com/AndrewAltimit/legend-of-legaia-re) |
 | The Legend of Sword and Fairy (SDLPAL) |  | [📦 sdlpal/sdlpal](https://github.com/sdlpal/sdlpal) |
 | The Legend of Sword and Fairy (type-pal) |  | [📦 IllegalCreed/type-pal](https://github.com/IllegalCreed/type-pal) |
+| The Legend of Zelda (ZQuest Classic) |  | [📦 ZQuestClassic/ZQuestClassic](https://github.com/ZQuestClassic/ZQuestClassic) |
 | The Legend of Zelda - A Link to the Past |  | [📦 midzer/zelda3](https://github.com/midzer/zelda3) |
 | The Legend of Zelda - A Link to the Past (lttp, WebGL remake) |  | [📦 englercj/lttp](https://github.com/englercj/lttp) |
 | The Legend of Zelda: Link's Awakening DX (linksawakening-portable) |  | [📦 sp00nznet/linksawakening-portable](https://github.com/sp00nznet/linksawakening-portable) |
@@ -622,7 +625,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="m"></a>
 
-## M <sub>· 52</sub>
+## M <sub>· 55</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -634,6 +637,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Marathon 2 / Infinity (AlephWeb) |  | [📦 TotallyGatsby/AlephWeb](https://github.com/TotallyGatsby/AlephWeb) |
 | Marble Blast Gold & Marble Blast Platinum |  | [📦 Vanilagy/MarbleBlast](https://github.com/Vanilagy/MarbleBlast) |
 | Mario Kart Wii (WebCompiled) |  | [📦 dynamiteswag81/webcompiled](https://github.com/dynamiteswag81/webcompiled) |
+| Mario Party 4 (PC Download Play Edition) |  | [📦 wigwoo1/Mario-Party-4-PC-Download-Play-Edition](https://github.com/wigwoo1/Mario-Party-4-PC-Download-Play-Edition) |
 | Marvel vs. Capcom 2 | [▶ marvelvscapcom2.online](https://marvelvscapcom2.online/) |  |
 | Master of Defence | [▶ nomadic-ua.itch.io](https://nomadic-ua.itch.io/master-of-defence) |  |
 | Master of Orion |  | [📦 midzer/1oom](https://github.com/midzer/1oom) |
@@ -652,6 +656,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Milkman Karlson (2) |  | [📦 aukak/gameports/tree/main/milkman%20karlson](https://github.com/aukak/gameports/tree/main/milkman%20karlson) |
 | Mindustry |  | [📦 khoichon/mindustry-web](https://github.com/khoichon/mindustry-web) |
 | Mindwave | [▶ gn-math.dev](https://gn-math.dev/?id=648) |  |
+| Mine Bombers (minebombers-reloaded) |  | [📦 jeiel85/minebombers-reloaded](https://github.com/jeiel85/minebombers-reloaded) |
 | Minecraft 0.6.1 | [▶ rgc.zone](https://rgc.zone/ports/minecraft061/index.html) |  |
 | Minecraft 1.8.8 (EaglercraftX) | [▶ wasmarcade.com](https://wasmarcade.com/minecraft) |  |
 | Minecraft 4k |  | [📦 midzer/m4kc](https://github.com/midzer/m4kc) |
@@ -664,6 +669,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | MiniSlug |  | [📦 midzer/minislug](https://github.com/midzer/minislug) |
 | ⭐ MiSide | [▶ gn-math.dev](https://gn-math.dev/?id=814) | [📦 web-ports/miside](https://github.com/web-ports/miside/) |
 | ⭐ MiSide (2) | [▶ wasm.rip](https://wasm.rip/files/miside/miside.html) | [📦 woahhcrackers/MiSideWeb](https://github.com/woahhcrackers/MiSideWeb) |
+| Mobile Suit Gundam: Gundam vs. Zeta Gundam (re-gvs-gvzg) |  | [📦 sennett-lau/re-gvs-gvzg](https://github.com/sennett-lau/re-gvs-gvzg) |
 | Monster Hunter Freedom Unite | [▶ mhfu.online](https://mhfu.online/) |  |
 | Moon (Black Ops Zombies, vel.gg) | [▶ vel.gg](https://vel.gg/bo1z/moon) |  |
 | Moon (Zombies) | [▶ moon-zombies.pages.dev](http://moon-zombies.pages.dev) |  |
@@ -693,7 +699,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Naruto Shippuden: Ultimate Ninja 5 | [▶ narutoshippuden5.online](https://narutoshippuden5.online/) |  |
 | Naruto Shippuden: Ultimate Ninja Impact | [▶ narutoimpact.online](https://narutoimpact.online/) |  |
 | NBA 2K12 | [▶ nba2k12.online](https://nba2k12.online/) |  |
-| NBA Street V3 | [▶ nbastreet3.online](https://nbastreet3.online/) |  |
+| ⭐ NBA Street V3 | [▶ nbastreet3.online](https://nbastreet3.online/) | [📦 recomp-code/street-recomp-v3](https://github.com/recomp-code/street-recomp-v3) |
 | NBlood | [▶ rgc.zone](https://rgc.zone/ports/nbloodweb/run.html) |  |
 | ⭐ NCAA Football 10 (PSP Recomp) | [▶ awest813.github.io](https://awest813.github.io/NCAA-10-PSP-Recomp/) | [📦 awest813/NCAA-10-PSP-Recomp](https://github.com/awest813/NCAA-10-PSP-Recomp) |
 | Need for Speed: Most Wanted (2005) (dezm0n web port) | [▶ dezm0n.itch.io](https://dezm0n.itch.io/nfs-most-wanted-web-port) |  |
@@ -876,7 +882,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="s"></a>
 
-## S <sub>· 127</sub>
+## S <sub>· 130</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -990,6 +996,8 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Super Mario 64 (n64hub recomp) |  | [📦 n64hub/super-mario-64-recomp](https://github.com/n64hub/super-mario-64-recomp) |
 | Super Mario 64 (rgc.zone) | [▶ rgc.zone](https://rgc.zone/ports/sm64-main/index.html) |  |
 | Super Mario 64 (sm3das) | [▶ heyitsheart.github.io](https://heyitsheart.github.io/sm3das/64/) |  |
+| Super Mario 64 (sm64js) |  | [📦 sm64js/sm64js](https://github.com/sm64js/sm64js) |
+| Super Mario 64 DS (Enhanced PC Port) |  | [📦 wigwoo1/Super-Mario-64-DS-Enhanced-PC-Port](https://github.com/wigwoo1/Super-Mario-64-DS-Enhanced-PC-Port) |
 | Super Mario 64 FPS |  | [📦 gays-studio/sm64fps-port](https://github.com/gays-studio/sm64fps-port) |
 | Super Mario 64 in Scratch |  | [📦 naegoxdev/sm64-scratch](https://github.com/naegoxdev/sm64-scratch) |
 | Super Mario 64 Multiplayer | [▶ olivers.tools](https://olivers.tools/play/) |  |
@@ -1005,6 +1013,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Super Smash Bros. Ultimate (SSBU-port-web) |  | [📦 longurara/SSBU-port-web](https://github.com/longurara/SSBU-port-web) |
 | Superflight |  | [📦 squidward5/superflight-webport](https://github.com/squidward5/superflight-webport) |
 | SuperTux |  | [📦 SuperTux/supertux](https://github.com/SuperTux/supertux) |
+| SuperTuxKart (browser) |  | [📦 ading2210/stk-code](https://github.com/ading2210/stk-code) |
 | Swabs Expedition |  | [📦 burnedpopcorn/Swabs-Expedition-Web-Port](https://github.com/burnedpopcorn/Swabs-Expedition-Web-Port) |
 | ⭐ Syndicate | [▶ rgc.zone](https://rgc.zone/ports/syndweb/index.html) | [📦 midzer/freesynd](https://github.com/midzer/freesynd) |
 
@@ -1012,7 +1021,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="t"></a>
 
-## T <sub>· 36</sub>
+## T <sub>· 37</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -1022,6 +1031,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Tekken 4 | [▶ tekken4.online](https://tekken4.online/) |  |
 | Tekken 5 | [▶ tekken5.online](https://tekken5.online/) |  |
 | Tekken: Dark Resurrection | [▶ tekkendr.live](https://tekkendr.live/) |  |
+| Tenchu: Shinobi Gaisen |  | [📦 Fuuzetsu/tenchu-shinobi-gaisen-pc](https://github.com/Fuuzetsu/tenchu-shinobi-gaisen-pc) |
 | Terraria (3) | [▶ playterraria.lol](https://playterraria.lol/) |  |
 | Tony Hawk's Pro Skater (thps1-web-port) |  | [📦 nascarfan03/thps1-web-port](https://github.com/nascarfan03/thps1-web-port) |
 | Tony Hawk's Pro Skater 3 | [▶ tonyhawkpro3.online](https://tonyhawkpro3.online/) |  |
@@ -1057,7 +1067,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="u"></a>
 
-## U <sub>· 18</sub>
+## U <sub>· 19</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -1068,6 +1078,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | ⭐ Ultrapool | [▶ gn-math.dev](https://gn-math.dev/?id=757) | [📦 ParrrotVR/ultrapoolwebport](https://github.com/ParrrotVR/ultrapoolwebport) |
 | Ultrapool (bread fork) |  | [📦 genizy/ultrapoolwebport-nothreads](https://github.com/genizy/ultrapoolwebport-nothreads) |
 | Uncharted Waters: New Horizons |  | [📦 JohanLi/uncharted-waters-2](https://github.com/JohanLi/uncharted-waters-2) |
+| Uncle Albert's Magical Album |  | [📦 panlybero/uncle-albert-magical-album-greek](https://github.com/panlybero/uncle-albert-magical-album-greek) |
 | ⭐ Undertale | [▶ gn-math.github.io](https://gn-math.github.io/web-port/undertale/) | [📦 genizy/web-port/tree/main/undertale](https://github.com/genizy/web-port/tree/main/undertale) |
 | ⭐ Undertale Yellow | [▶ gn-math.github.io](https://gn-math.github.io/web-port/undertale-yellow/) | [📦 genizy/web-port/tree/main/undertale-yellow](https://github.com/genizy/web-port/tree/main/undertale-yellow) |
 | Unreal Gold |  | [📦 National-Porting-Association/unrealgold-emscripten](https://github.com/National-Porting-Association/unrealgold-emscripten) |
@@ -1102,7 +1113,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="w"></a>
 
-## W <sub>· 31</sub>
+## W <sub>· 34</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -1122,12 +1133,15 @@ Many ports need your own game files (they ask you to upload the original data). 
 | ⭐ Who's Your Daddy? | [▶ gn-math.dev](https://gn-math.dev/?id=791) | [📦 Reeyuki/daddygame](https://github.com/Reeyuki/daddygame) |
 | Who's Your Daddy? (2) |  | [📦 web-ports/daddygame](https://github.com/web-ports/daddygame) |
 | William Shatner's TekWar | [▶ rgc.zone](https://rgc.zone/ports/8777-tekwar/run.html) |  |
+| Wine Assembly (Windows games in the browser: RollerCoaster Tycoon, Space Cadet…) |  | [📦 Emupedia/wine-assembly](https://github.com/Emupedia/wine-assembly) |
 | ⭐ WipEout | [▶ phoboslab.org](https://phoboslab.org/wipegame/) | [📦 phoboslab/wipeout-rewrite](https://github.com/phoboslab/wipeout-rewrite) |
 | ⭐ Witch's Heart | [▶ gn-math.github.io](https://gn-math.github.io/web-port/witch-heart/) | [📦 genizy/web-port/tree/main/witch-heart](https://github.com/genizy/web-port/tree/main/witch-heart) |
 | Witchaven | [▶ rgc.zone](https://rgc.zone/ports/8783-witchaven/run.html) |  |
 | Witchaven II | [▶ rgc.zone](https://rgc.zone/ports/8784-witchaven2/run.html) |  |
 | Wizards in Shorts |  | [📦 Reeyuki/WizardsInShorts](https://github.com/Reeyuki/WizardsInShorts) |
 | Wolfenstein 3D |  | [📦 midzer/wolf4sdl](https://github.com/midzer/wolf4sdl) |
+| ⭐ Wolfenstein 3D (HTML5, lazarv) | [▶ wolf3d.wadcmd.com](https://wolf3d.wadcmd.com/) | [📦 lazarv/wolf3d](https://github.com/lazarv/wolf3d) |
+| Wolfenstein 3D (Iron Wolf) |  | [📦 Ragnaroek/iron-wolf](https://github.com/Ragnaroek/iron-wolf) |
 | Wolfenstein 3D TG | [▶ rgc.zone](https://rgc.zone/ports/wolf3dtg/index.html) |  |
 | World of Warcraft (wowser) |  | [📦 wowserhq/wowser](https://github.com/wowserhq/wowser) |
 | Worldbox |  | [📦 Shindo957-Official/worldfox](https://gitlab.com/Shindo957-Official/worldfox) |
