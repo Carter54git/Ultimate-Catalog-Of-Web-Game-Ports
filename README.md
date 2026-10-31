@@ -6,7 +6,7 @@
 
 **Games you can play right in the browser — WebAssembly, WebGL, Emscripten, Unity, Godot, Flash/Ruffle and pure JavaScript ports.**
 
-![games](https://img.shields.io/badge/games-930-8A2BE2?style=for-the-badge) ![playable demos](https://img.shields.io/badge/playable%20demos-517-2ea44f?style=for-the-badge) ![with source](https://img.shields.io/badge/with%20source-617-1f6feb?style=for-the-badge) ![demo + source](https://img.shields.io/badge/demo%20+%20source-212-f59e0b?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--10--29-555?style=for-the-badge)
+![games](https://img.shields.io/badge/games-931-8A2BE2?style=for-the-badge) ![playable demos](https://img.shields.io/badge/playable%20demos-517-2ea44f?style=for-the-badge) ![with source](https://img.shields.io/badge/with%20source-619-1f6feb?style=for-the-badge) ![demo + source](https://img.shields.io/badge/demo%20+%20source-213-f59e0b?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--10--31-555?style=for-the-badge)
 
 </div>
 
@@ -340,10 +340,11 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="f"></a>
 
-## F <sub>· 64</sub>
+## F <sub>· 65</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
+| F-Zero X (n64hub recomp) |  | [📦 n64hub/f-zero-x-recomp](https://github.com/n64hub/f-zero-x-recomp) |
 | ⭐ F1 Race (MTK) | [▶ lab.exlmoto.ru](https://lab.exlmoto.ru/f1/) | [📦 EXL/F1-Race](https://github.com/EXL/F1-Race) |
 | Fade To Black |  | [📦 midzer/f2bgl](https://github.com/midzer/f2bgl) |
 | ⭐ Fallout | [▶ gn-math.dev](https://gn-math.dev/?id=585) | [📦 midzer/fallout1-ce](https://github.com/midzer/fallout1-ce) |
@@ -484,7 +485,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | ⭐ Happy Sheepies | [▶ gn-math.github.io](https://gn-math.github.io/web-port/happy-sheepies/) | [📦 genizy/web-port/tree/main/happy-sheepies](https://github.com/genizy/web-port/tree/main/happy-sheepies) |
 | Happy Wheels |  | [📦 Nawsif/host/tree/main/HappyWheels](https://github.com/Nawsif/host/tree/main/HappyWheels) |
 | Hard Truck / Hard Truck 2 (Дальнобойщики 1 и 2) | [▶ rgc.zone](https://rgc.zone/ports/hardtruck/index.html) |  |
-| Harry Potter and the Chamber of Secrets | [▶ hp2.mihaimateias.com](https://hp2.mihaimateias.com/) |  |
+| ⭐ Harry Potter and the Chamber of Secrets | [▶ hp2.mihaimateias.com](https://hp2.mihaimateias.com/) | [📦 cefege/harry-potter-2-chamber-of-secrets-pc](https://github.com/cefege/harry-potter-2-chamber-of-secrets-pc) |
 | Haxima |  | [📦 midzer/nazghul](https://github.com/midzer/nazghul) |
 | HAYAI |  | [📦 degloved-net/HAYAI](https://github.com/degloved-net/HAYAI) |
 | Heart of Darkness |  | [📦 midzer/hode](https://github.com/midzer/hode) |
