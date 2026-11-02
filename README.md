@@ -6,7 +6,7 @@
 
 **Games you can play right in the browser — WebAssembly, WebGL, Emscripten, Unity, Godot, Flash/Ruffle and pure JavaScript ports.**
 
-![games](https://img.shields.io/badge/games-931-8A2BE2?style=for-the-badge) ![playable demos](https://img.shields.io/badge/playable%20demos-517-2ea44f?style=for-the-badge) ![with source](https://img.shields.io/badge/with%20source-619-1f6feb?style=for-the-badge) ![demo + source](https://img.shields.io/badge/demo%20+%20source-213-f59e0b?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--10--31-555?style=for-the-badge)
+![games](https://img.shields.io/badge/games-939-8A2BE2?style=for-the-badge) ![playable demos](https://img.shields.io/badge/playable%20demos-526-2ea44f?style=for-the-badge) ![with source](https://img.shields.io/badge/with%20source-618-1f6feb?style=for-the-badge) ![demo + source](https://img.shields.io/badge/demo%20+%20source-213-f59e0b?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--10--31-555?style=for-the-badge)
 
 </div>
 
@@ -241,7 +241,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="d"></a>
 
-## D <sub>· 73</sub>
+## D <sub>· 74</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -296,6 +296,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Dos.Zone | [▶ dos.zone](https://dos.zone) |  |
 | Downhill Domination | [▶ downhilldomination.online](https://downhilldomination.online/) |  |
 | Downhill Domination (downhill-revived) |  | [📦 skuza-oss/downhill-revived](https://github.com/skuza-oss/downhill-revived) |
+| Dragon Ball Z: Budokai 2 | [▶ budokai2onlline.cc](https://budokai2onlline.cc/) |  |
 | Dragon Ball Z: Budokai 3 | [▶ dragonballbudokai3.online](https://dragonballbudokai3.online/) |  |
 | Dragon Ball Z: Budokai Tenkaichi 2 | [▶ dragonballbt2.online](https://dragonballbt2.online/) |  |
 | Dragon Ball Z: Budokai Tenkaichi 3 | [▶ dragonballbt3.online](https://dragonballbt3.online/) |  |
@@ -340,7 +341,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="f"></a>
 
-## F <sub>· 65</sub>
+## F <sub>· 66</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -393,6 +394,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Five Nights in Anime 3D |  | [📦 Reeyuki/fivenightsanime3dport](https://github.com/Reeyuki/fivenightsanime3dport) |
 | Flare |  | [📦 midzer/flare-engine](https://github.com/midzer/flare-engine) |
 | Flashback |  | [📦 midzer/reminiscence](https://github.com/midzer/reminiscence) |
+| FlatOut 2 (dezm0n web port) | [▶ itch.io](https://itch.io/event/46481004) |  |
 | Flight of the Amazon Queen (ScummWeb) | [▶ scummweb.tsilva.eu](https://scummweb.tsilva.eu/#game-flight-of-the-amazon-queen) |  |
 | Flying Gorilla |  | [📦 web-ports/flying-gorilla](https://github.com/web-ports/flying-gorilla) |
 | ⭐ Flying Gorilla 3D | [▶ gn-math.dev](https://gn-math.dev/?id=763) | [📦 web-ports/flying-gorilla](https://github.com/web-ports/flying-gorilla) |
@@ -414,7 +416,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="g"></a>
 
-## G <sub>· 46</sub>
+## G <sub>· 48</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -462,14 +464,16 @@ Many ports need your own game files (they ask you to upload the original data). 
 | GTA 3 (3) | [▶ wasmarcade.com](https://wasmarcade.com/gta3) |  |
 | GTA V | [▶ web.archive.org](https://web.archive.org/web/20261006055917/https://playgta5.com/) |  |
 | GTA V (Grand-V) |  | [📦 SebasKitten/Grand-V](https://github.com/SebasKitten/Grand-V) |
+| GTA V (GrandV V2) | [▶ v2.fiveplay.lol](https://v2.fiveplay.lol/launcher.html) |  |
 | GTA Vice City |  | [📦 Lolendor/reVCDOS](https://github.com/Lolendor/reVCDOS) |
 | ⭐ GTA Vice City (2) | [▶ joncodeofficial.github.io](https://joncodeofficial.github.io/gta-vice-city-wasm/) | [📦 joncodeofficial/gta-vice-city-wasm](https://github.com/joncodeofficial/gta-vice-city-wasm) |
+| Guitar Hero III (Browser Edition) | [▶ gh3.thediaryofchris.net](https://gh3.thediaryofchris.net/index.html) |  |
 
 <p align="right"><a href="#jump-to">↑ back to top</a></p>
 
 <a id="h"></a>
 
-## H <sub>· 41</sub>
+## H <sub>· 42</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -502,6 +506,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Hill Climb Racing |  | [📦 NotRexed/HillClimbRacingPort](https://github.com/NotRexed/HillClimbRacingPort) |
 | ⭐ Hollow Knight | [▶ gn-math.dev](https://gn-math.dev/?id=468) | [📦 aukak/hollow-knight](https://github.com/aukak/hollow-knight) |
 | Hollow Knight (2) |  | [📦 NOTAHACKER9999/Hollow-Knight-Port](https://github.com/NOTAHACKER9999/Hollow-Knight-Port) |
+| Hollow Knight (dezm0n web port) | [▶ dezm0n.itch.io](https://dezm0n.itch.io/hollow-knight-web-port) |  |
 | ⭐ Hollow Knight: Silksong | [▶ gn-math.dev](https://gn-math.dev/?id=771) | [📦 web-ports/hollow-knight-silksong](https://github.com/web-ports/hollow-knight-silksong) |
 | Hollow Knight: Silksong (2) |  | [📦 webporting/Hollow-Knight-Silksong](https://github.com/webporting/Hollow-Knight-Silksong) |
 | ⭐ Homeworld | [▶ gardens-of-kadesh.gitlab.io](https://gardens-of-kadesh.gitlab.io/gardens-of-kadesh/) | [📦 GardensOfKadesh/Homeworld](https://github.com/GardensOfKadesh/Homeworld) |
@@ -588,7 +593,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="l"></a>
 
-## L <sub>· 29</sub>
+## L <sub>· 28</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -602,7 +607,6 @@ Many ports need your own game files (they ask you to upload the original data). 
 | The Legend of Zelda (ZQuest Classic) |  | [📦 ZQuestClassic/ZQuestClassic](https://github.com/ZQuestClassic/ZQuestClassic) |
 | The Legend of Zelda - A Link to the Past |  | [📦 midzer/zelda3](https://github.com/midzer/zelda3) |
 | The Legend of Zelda - A Link to the Past (lttp, WebGL remake) |  | [📦 englercj/lttp](https://github.com/englercj/lttp) |
-| The Legend of Zelda: Link's Awakening DX (linksawakening-portable) |  | [📦 sp00nznet/linksawakening-portable](https://github.com/sp00nznet/linksawakening-portable) |
 | The Legend of Zelda: Link's Awakening DX (linksawakening-portable) |  | [📦 sp00nznet/linksawakening-portable](https://github.com/sp00nznet/linksawakening-portable) |
 | ⭐ The Legend of Zelda: Twilight Princess (Dusklight) | [▶ dusklight.pages.dev](https://dusklight.pages.dev/) | [📦 caribbeansc/dusklight](https://github.com/caribbeansc/dusklight) |
 | ⭐ LEGO Island | [▶ isle.pizza](https://isle.pizza/) | [📦 isledecomp/isle.pizza](https://github.com/isledecomp/isle.pizza) |
@@ -626,7 +630,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="m"></a>
 
-## M <sub>· 55</sub>
+## M <sub>· 56</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -674,6 +678,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Monster Hunter Freedom Unite | [▶ mhfu.online](https://mhfu.online/) |  |
 | Moon (Black Ops Zombies, vel.gg) | [▶ vel.gg](https://vel.gg/bo1z/moon) |  |
 | Moon (Zombies) | [▶ moon-zombies.pages.dev](http://moon-zombies.pages.dev) |  |
+| Mortal Kombat: Armageddon | [▶ mka.lauta.site](https://mka.lauta.site/) |  |
 | Mortal Kombat: Shaolin Monks | [▶ mortalkombatsm.online](https://mortalkombatsm.online/) |  |
 | Muck (WIP) |  | [📦 gays-studio/muck-webport](https://github.com/gays-studio/muck-webport) |
 | Muddy Heights |  | [📦 gabadagabadgoo/morbidy-obese-chickens](https://github.com/gabadagabadgoo/morbidy-obese-chickens) |
@@ -690,7 +695,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="n"></a>
 
-## N <sub>· 30</sub>
+## N <sub>· 31</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -713,6 +718,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Neverball |  | [📦 Neverball/neverball](https://github.com/Neverball/neverball) |
 | New Super Mario Bros. Wii |  | [📦 teaserlua/nsmbw-web-port](https://github.com/teaserlua/nsmbw-web-port) |
 | NFL Street | [▶ nflstreet.online](https://nflstreet.online/) |  |
+| NFL Street 2 (NIL Street) | [▶ nilstreet.playthecombine.com](https://nilstreet.playthecombine.com/) |  |
 | NHL '94 | [▶ kingof94.web.app](https://kingof94.web.app/) |  |
 | Night in the Woods |  | [📦 reeyuki/NightInTheWoods](https://github.com/reeyuki/NightInTheWoods/) |
 | Night of the Consumers |  | [📦 linkawaken1979-alt/night-of-the-consumers-web-port](https://github.com/linkawaken1979-alt/night-of-the-consumers-web-port) |
@@ -1022,7 +1028,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="t"></a>
 
-## T <sub>· 37</sub>
+## T <sub>· 38</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -1036,6 +1042,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Terraria (3) | [▶ playterraria.lol](https://playterraria.lol/) |  |
 | Tony Hawk's Pro Skater (thps1-web-port) |  | [📦 nascarfan03/thps1-web-port](https://github.com/nascarfan03/thps1-web-port) |
 | Tony Hawk's Pro Skater 3 | [▶ tonyhawkpro3.online](https://tonyhawkpro3.online/) |  |
+| Tony Hawk's Underground 2 | [▶ tonyhawksunderground2.online](https://tonyhawksunderground2.online/) |  |
 | Total Annihilation: Kingdoms (OpenKingdoms) |  | [📦 OpenKingdoms/OpenKingdoms](https://github.com/OpenKingdoms/OpenKingdoms) |
 | t³ (T cubed) | [▶ gn-math.dev](https://gn-math.dev/?id=818) |  |
 | Taiko no Tatsujin | [▶ cjdgrevival.com](https://cjdgrevival.com/) |  |
@@ -1068,11 +1075,12 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="u"></a>
 
-## U <sub>· 19</sub>
+## U <sub>· 20</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
 | UFC 2009 Undisputed / Throwdown | [▶ ufc2.online](https://ufc2.online/) |  |
+| UFC Throwdown | [▶ ufc2.online](https://ufc2.online/) |  |
 | ULTRAKILL | [▶ gn-math.dev](https://gn-math.dev/?id=196) |  |
 | ULTRAKILL | [▶ monoxide.dev](https://monoxide.dev/ultrakill) |  |
 | ⭐ Ultrakill Prelude | [▶ gn-math.github.io](https://gn-math.github.io/web-port/ultrakill/) | [📦 genizy/web-port/tree/main/ultrakill](https://github.com/genizy/web-port/tree/main/ultrakill) |
