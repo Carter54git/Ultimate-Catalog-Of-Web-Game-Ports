@@ -6,7 +6,7 @@
 
 **Games you can play right in the browser — WebAssembly, WebGL, Emscripten, Unity, Godot, Flash/Ruffle and pure JavaScript ports.**
 
-![games](https://img.shields.io/badge/games-939-8A2BE2?style=for-the-badge) ![playable demos](https://img.shields.io/badge/playable%20demos-526-2ea44f?style=for-the-badge) ![with source](https://img.shields.io/badge/with%20source-618-1f6feb?style=for-the-badge) ![demo + source](https://img.shields.io/badge/demo%20+%20source-213-f59e0b?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--10--31-555?style=for-the-badge)
+![games](https://img.shields.io/badge/games-949-8A2BE2?style=for-the-badge) ![playable demos](https://img.shields.io/badge/playable%20demos-527-2ea44f?style=for-the-badge) ![with source](https://img.shields.io/badge/with%20source-627-1f6feb?style=for-the-badge) ![demo + source](https://img.shields.io/badge/demo%20+%20source-213-f59e0b?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--11--02-555?style=for-the-badge)
 
 </div>
 
@@ -43,10 +43,11 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="a"></a>
 
-## A <sub>· 34</sub>
+## A <sub>· 35</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
+| A2 Racer IV: De Politie slaat terug |  | [📦 NostalgiaRealm/A2-Racer-4](https://github.com/NostalgiaRealm/A2-Racer-4) |
 | Abuse |  | [📦 midzer/abuse](https://github.com/midzer/abuse) |
 | Ages of Conflict | [▶ wasm.rip](https://wasm.rip/files/aoc/index.html) |  |
 | Albion |  | [📦 IS4Code/Albion](https://github.com/IS4Code/Albion) |
@@ -473,7 +474,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="h"></a>
 
-## H <sub>· 42</sub>
+## H <sub>· 43</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -492,6 +493,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | ⭐ Harry Potter and the Chamber of Secrets | [▶ hp2.mihaimateias.com](https://hp2.mihaimateias.com/) | [📦 cefege/harry-potter-2-chamber-of-secrets-pc](https://github.com/cefege/harry-potter-2-chamber-of-secrets-pc) |
 | Haxima |  | [📦 midzer/nazghul](https://github.com/midzer/nazghul) |
 | HAYAI |  | [📦 degloved-net/HAYAI](https://github.com/degloved-net/HAYAI) |
+| Haze (haze-recomp) |  | [📦 zdiemer/haze-recomp](https://github.com/zdiemer/haze-recomp) |
 | Heart of Darkness |  | [📦 midzer/hode](https://github.com/midzer/hode) |
 | Hedgewars (WebWars) |  | [📦 apmlabs/webwars](https://github.com/apmlabs/webwars) |
 | ⭐ Helltaker | [▶ gn-math.dev](https://gn-math.dev/?id=790) | [📦 larpinguser/Helltaker-Web/tree/main/helltakerweb](https://github.com/larpinguser/Helltaker-Web/tree/main/helltakerweb) |
@@ -524,7 +526,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="i"></a>
 
-## I <sub>· 9</sub>
+## I <sub>· 10</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -534,6 +536,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Ignition |  | [📦 xesf/ignition](https://github.com/xesf/ignition) |
 | ⭐ In Stars and Time | [▶ gn-math.dev](https://gn-math.dev/?id=667) | [📦 Reeyuki/InStarsAndTime](https://github.com/Reeyuki/InStarsAndTime) |
 | In Stars and Time (2) |  | [📦 web-ports/in-stars-and-time](https://github.com/web-ports/in-stars-and-time) |
+| Incubation: Time Is Running Out (Remake) |  | [📦 n0madic/IncubationRemake](https://github.com/n0madic/IncubationRemake) |
 | ⭐ Inscryption | [▶ wasm.rip](https://wasm.rip/files/inscryption/index.html) | [📦 Reeyuki/InscryptionWebport](https://github.com/Reeyuki/InscryptionWebport) |
 | ⭐ Iron Lung | [▶ gn-math.dev](https://gn-math.dev/?id=705) | [📦 web-ports/iron-lung](https://github.com/web-ports/iron-lung) |
 | IS THAT A GUBBY? |  | [📦 xxskidxx69420-ai/isthatagubbywebportheh](https://github.com/xxskidxx69420-ai/isthatagubbywebportheh) |
@@ -630,7 +633,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="m"></a>
 
-## M <sub>· 56</sub>
+## M <sub>· 60</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -642,6 +645,9 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Marathon 2 / Infinity (AlephWeb) |  | [📦 TotallyGatsby/AlephWeb](https://github.com/TotallyGatsby/AlephWeb) |
 | Marble Blast Gold & Marble Blast Platinum |  | [📦 Vanilagy/MarbleBlast](https://github.com/Vanilagy/MarbleBlast) |
 | Mario Kart Wii (WebCompiled) |  | [📦 dynamiteswag81/webcompiled](https://github.com/dynamiteswag81/webcompiled) |
+| Mario Party (n64hub recomp) |  | [📦 n64hub/mario-party-recomp](https://github.com/n64hub/mario-party-recomp) |
+| Mario Party 2 (n64hub recomp) |  | [📦 n64hub/mario-party-2-recomp](https://github.com/n64hub/mario-party-2-recomp) |
+| Mario Party 3 (n64hub recomp) |  | [📦 n64hub/mario-party-3-recomp](https://github.com/n64hub/mario-party-3-recomp) |
 | Mario Party 4 (PC Download Play Edition) |  | [📦 wigwoo1/Mario-Party-4-PC-Download-Play-Edition](https://github.com/wigwoo1/Mario-Party-4-PC-Download-Play-Edition) |
 | Marvel vs. Capcom 2 | [▶ marvelvscapcom2.online](https://marvelvscapcom2.online/) |  |
 | Master of Defence | [▶ nomadic-ua.itch.io](https://nomadic-ua.itch.io/master-of-defence) |  |
@@ -672,6 +678,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | ⭐ Minesweeper Plus | [▶ gn-math.github.io](https://gn-math.github.io/web-port/minesweeperplus/) | [📦 genizy/web-port/tree/main/minesweeperplus](https://github.com/genizy/web-port/tree/main/minesweeperplus) |
 | Mini DayZ | [▶ rgc.zone](https://rgc.zone/ports/minidayz/index.html) |  |
 | MiniSlug |  | [📦 midzer/minislug](https://github.com/midzer/minislug) |
+| Mirror's Edge (Glassline) |  | [📦 MoonCellar-Team/Glassline](https://github.com/MoonCellar-Team/Glassline) |
 | ⭐ MiSide | [▶ gn-math.dev](https://gn-math.dev/?id=814) | [📦 web-ports/miside](https://github.com/web-ports/miside/) |
 | ⭐ MiSide (2) | [▶ wasm.rip](https://wasm.rip/files/miside/miside.html) | [📦 woahhcrackers/MiSideWeb](https://github.com/woahhcrackers/MiSideWeb) |
 | Mobile Suit Gundam: Gundam vs. Zeta Gundam (re-gvs-gvzg) |  | [📦 sennett-lau/re-gvs-gvzg](https://github.com/sennett-lau/re-gvs-gvzg) |
@@ -759,7 +766,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="p"></a>
 
-## P <sub>· 57</sub>
+## P <sub>· 58</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -812,6 +819,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Pro Evolution Soccer 2012 | [▶ pes12.online](https://pes12.online/) |  |
 | Pro Evolution Soccer 2014 (PSP) | [▶ pes14.online](https://pes14.online/) |  |
 | Pro Evolution Soccer 6 | [▶ pes6.optijuegos.net](http://pes6.optijuegos.net) |  |
+| Project I.G.I.: I'm Going In | [▶ playigi.com](https://playigi.com/game/) |  |
 | Project Zomboid |  |  |
 | Promises to Keep | [▶ gitea.mcalec.dev](https://gitea.mcalec.dev/mcalec/ptk) |  |
 | Prototype |  | [📦 midzer/prototype](https://github.com/midzer/prototype) |
@@ -889,7 +897,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="s"></a>
 
-## S <sub>· 130</sub>
+## S <sub>· 131</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -918,6 +926,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Shrimpio |  | [📦 goodmeals/shrimpio](https://github.com/goodmeals/shrimpio) |
 | Sid Meier's SimGolf (OpenSGolf) |  | [📦 crspytopgn/opensgolf](https://github.com/crspytopgn/opensgolf) |
 | Side Effects |  | [📦 gn-math/assets/tree/main/318](https://github.com/gn-math/assets/tree/main/318) |
+| Silent Hill (silent-hill-decomp PC port) |  | [📦 SlickAmogus/silent-hill-decomp](https://github.com/SlickAmogus/silent-hill-decomp/tree/pc-port) |
 | Silent Hill: Origins | [▶ silenthillorigins.zeliaopen.space](https://silenthillorigins.zeliaopen.space/) |  |
 | Silkroad Online (OpenSRO) | [▶ opensro.online](https://opensro.online/) |  |
 | ⭐ SimCity (micropolisJS) | [▶ graememcc.co.uk](https://www.graememcc.co.uk/micropolisJS/) | [📦 graememcc/micropolisJS](https://github.com/graememcc/micropolisJS) |
@@ -1165,7 +1174,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="x"></a>
 
-## X <sub>· 6</sub>
+## X <sub>· 7</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -1173,6 +1182,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Xash3D |  | [📦 btarg/Xash3D-Emscripten](https://github.com/btarg/Xash3D-Emscripten) |
 | xbattle (xbattle-web) |  | [📦 lab1702/xbattle-web](https://github.com/lab1702/xbattle-web) |
 | XCOM |  | [📦 midzer/OpenXcom](https://github.com/midzer/OpenXcom) |
+| XEvil (xevil-wasm) |  | [📦 CyberspaceVii/xevil-wasm](https://github.com/CyberspaceVii/xevil-wasm) |
 | XGalaga |  | [📦 midzer/xgalaga-sdl](https://github.com/midzer/xgalaga-sdl) |
 | xrick | [▶ xrick.net](https://www.xrick.net/) |  |
 
