@@ -6,7 +6,7 @@
 
 **Games you can play right in the browser — WebAssembly, WebGL, Emscripten, Unity, Godot, Flash/Ruffle and pure JavaScript ports.**
 
-![games](https://img.shields.io/badge/games-949-8A2BE2?style=for-the-badge) ![playable demos](https://img.shields.io/badge/playable%20demos-527-2ea44f?style=for-the-badge) ![with source](https://img.shields.io/badge/with%20source-627-1f6feb?style=for-the-badge) ![demo + source](https://img.shields.io/badge/demo%20+%20source-213-f59e0b?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--11--02-555?style=for-the-badge)
+![games](https://img.shields.io/badge/games-956-8A2BE2?style=for-the-badge) ![playable demos](https://img.shields.io/badge/playable%20demos-533-2ea44f?style=for-the-badge) ![with source](https://img.shields.io/badge/with%20source-628-1f6feb?style=for-the-badge) ![demo + source](https://img.shields.io/badge/demo%20+%20source-213-f59e0b?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--11--03-555?style=for-the-badge)
 
 </div>
 
@@ -417,7 +417,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="g"></a>
 
-## G <sub>· 48</sub>
+## G <sub>· 49</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -441,6 +441,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | God of War: Chains of Olympus | [▶ godofwarchains.online](https://godofwarchains.online/) |  |
 | God of War: Chains of Olympus / Ghost of Sparta (PSP Web Recomp) |  | [📦 snuri00/psp-web-recomp](https://github.com/snuri00/psp-web-recomp) |
 | God of War: Ghost of Sparta | [▶ godofwarsparta.online](https://godofwarsparta.online/) |  |
+| Gold Miner Special Edition | [▶ wasmarcade.app](https://wasmarcade.app/play/gold-miner) |  |
 | ⭐ Golden Sun | [▶ shmargus.github.io](https://shmargus.github.io/GSRecomp/) | [📦 shmargus/GSRecomp](https://github.com/shmargus/GSRecomp) |
 | GoldenEye 007 (GoldenWeb64) | [▶ goldenweb64.com](https://goldenweb64.com/) |  |
 | ⭐ Gorilla Tag | [▶ gn-math.dev](https://gn-math.dev/?id=668) | [📦 web-ports/gorilla-tag](https://github.com/web-ports/gorilla-tag) |
@@ -565,7 +566,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="k"></a>
 
-## K <sub>· 22</sub>
+## K <sub>· 23</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -581,6 +582,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | ⭐ Kindergarten 3 | [▶ gn-math.dev](https://gn-math.dev/?id=501) | [📦 slqntdevss/Kindergarten3Port](https://github.com/slqntdevss/Kindergarten3Port) |
 | Kingdom Hearts: Chain of Memories (ReKHCoM, web alpha) |  | [📦 MatyMeatBoy/ReKHCom](https://github.com/MatyMeatBoy/ReKHCom) |
 | Kingdom Hearts: Chain of Memories (RepliCoM) | [▶ replicom.dev](https://replicom.dev/) |  |
+| Kingdom Rush (Flash Edition) | [▶ wasmarcade.app](https://wasmarcade.app/play/kingdom-rush) |  |
 | KinitoPET |  | [📦 web-ports/kinito-pet](https://github.com/web-ports/kinito-pet) |
 | ⭐ Kino der Toten | [▶ kino-der-toten.pages.dev](http://kino-der-toten.pages.dev) | [📦 GoofyAhhBro69420/COD-ZOMBIES](https://github.com/GoofyAhhBro69420/COD-ZOMBIES) |
 | Kino der Toten (GoofyAhhBro69420 mirror) | [▶ goofyahhbro69420.github.io](https://goofyahhbro69420.github.io/COD-ZOMBIES/) |  |
@@ -633,12 +635,13 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="m"></a>
 
-## M <sub>· 60</sub>
+## M <sub>· 61</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
 | Madden NFL 08 | [▶ maddennfl08.online](https://maddennfl08.online/) |  |
 | Magic Sushi |  | [📦 EXL/Magic-Sushi](https://github.com/EXL/Magic-Sushi) |
+| Magic Tower: 50 Floors | [▶ wasmarcade.app](https://wasmarcade.app/play/magic-tower) |  |
 | ⭐ The Man From the Window | [▶ gn-math.github.io](https://gn-math.github.io/web-port/the-man-in-the-window/) | [📦 genizy/web-port/tree/main/the-man-in-the-window](https://github.com/genizy/web-port/tree/main/the-man-in-the-window) |
 | ⭐ The Man From the Window 2 | [▶ wasm.rip](https://wasm.rip/files/MFDW2/index.html) | [📦 wasm-rip/the-man-from-the-window-2-web](https://github.com/wasm-rip/the-man-from-the-window-2-web) |
 | The Man In The Window | [▶ gn-math.dev](https://gn-math.dev/?id=459) |  |
@@ -742,10 +745,11 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="o"></a>
 
-## O <sub>· 15</sub>
+## O <sub>· 16</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
+| Ogre Battle 64: Person of Lordly Caliber (recomp) |  | [📦 lfarroco/ogre-battle-64-recomp](https://github.com/lfarroco/ogre-battle-64-recomp) |
 | OLD CheesedUP |  | [📦 burnedpopcorn/OLD-CheesedUP-Web-Port](https://github.com/burnedpopcorn/OLD-CheesedUP-Web-Port) |
 | ⭐ OMORI | [▶ gn-math.github.io](https://gn-math.github.io/web-port/omori-fixed/) | [📦 genizy/web-port/tree/main/omori-fixed](https://github.com/genizy/web-port/tree/main/omori-fixed) |
 | OMORI (openomori) |  | [📦 dazacode/openomori](https://github.com/dazacode/openomori) |
@@ -855,13 +859,14 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="r"></a>
 
-## R <sub>· 33</sub>
+## R <sub>· 34</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
 | ⭐ R.E.P.O | [▶ gn-math.github.io](https://gn-math.github.io/web-port/repo/) | [📦 genizy/web-port/tree/main/repo](https://github.com/genizy/web-port/tree/main/repo) |
 | Rabbids Go Home |  | [📦 teaserlua/rabbids-go-home-web-port](https://github.com/teaserlua/rabbids-go-home-web-port) |
 | ⭐ RAFT | [▶ gn-math.github.io](https://gn-math.github.io/web-port/raft/) | [📦 genizy/web-port/tree/main/raft](https://github.com/genizy/web-port/tree/main/raft) |
+| Raft Wars 2 | [▶ wasmarcade.app](https://wasmarcade.app/play/raft-wars-2) |  |
 | Ragnarok Online (roBrowser) |  | [📦 vthibault/roBrowser](https://github.com/vthibault/roBrowser) |
 | Rain World | [▶ stelight.games](https://stelight.games/play/webports/stellite.games/stellite/rain-world/) |  |
 | ⭐ Raldi's Crackhouse | [▶ gn-math.dev](https://gn-math.dev/?id=670) | [📦 woahhcrackers/RaldiWeb-LEGACY](https://github.com/woahhcrackers/RaldiWeb-LEGACY) |
@@ -897,7 +902,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="s"></a>
 
-## S <sub>· 131</sub>
+## S <sub>· 132</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -994,6 +999,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | ⭐ Stardew Valley | [▶ gn-math.dev](https://gn-math.dev/?id=789) | [📦 degloved-net/stardew-wasm](https://github.com/degloved-net/stardew-wasm) |
 | Stardew Valley | [▶ wasm.rip](https://wasm.rip/files/stardewvalley/index.html) |  |
 | Starfighter |  | [📦 midzer/starfighter](https://github.com/midzer/starfighter) |
+| Stick War | [▶ wasmarcade.app](https://wasmarcade.app/play/stick-war) |  |
 | ⭐ Stick with It | [▶ gn-math.dev](https://gn-math.dev/?id=502) | [📦 slqntdevss/StickWithItPort](https://github.com/slqntdevss/StickWithItPort) |
 | Street Fighter Anniversary Collection | [▶ streetfighteranniversary.online](https://streetfighteranniversary.online/) |  |
 | Street Fighter III: 3rd Strike | [▶ streetfighter3.online](https://streetfighter3.online/) |  |
@@ -1174,7 +1180,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="x"></a>
 
-## X <sub>· 7</sub>
+## X <sub>· 8</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -1184,6 +1190,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | XCOM |  | [📦 midzer/OpenXcom](https://github.com/midzer/OpenXcom) |
 | XEvil (xevil-wasm) |  | [📦 CyberspaceVii/xevil-wasm](https://github.com/CyberspaceVii/xevil-wasm) |
 | XGalaga |  | [📦 midzer/xgalaga-sdl](https://github.com/midzer/xgalaga-sdl) |
+| Xiao Xiao 4: Bar Shootout | [▶ wasmarcade.app](https://wasmarcade.app/play/xiao-xiao-4) |  |
 | xrick | [▶ xrick.net](https://www.xrick.net/) |  |
 
 <p align="right"><a href="#jump-to">↑ back to top</a></p>
