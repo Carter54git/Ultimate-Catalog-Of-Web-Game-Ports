@@ -6,7 +6,7 @@
 
 **Games you can play right in the browser — WebAssembly, WebGL, Emscripten, Unity, Godot, Flash/Ruffle and pure JavaScript ports.**
 
-![games](https://img.shields.io/badge/games-956-8A2BE2?style=for-the-badge) ![playable demos](https://img.shields.io/badge/playable%20demos-533-2ea44f?style=for-the-badge) ![with source](https://img.shields.io/badge/with%20source-628-1f6feb?style=for-the-badge) ![demo + source](https://img.shields.io/badge/demo%20+%20source-213-f59e0b?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--11--03-555?style=for-the-badge)
+![games](https://img.shields.io/badge/games-959-8A2BE2?style=for-the-badge) ![playable demos](https://img.shields.io/badge/playable%20demos-535-2ea44f?style=for-the-badge) ![with source](https://img.shields.io/badge/with%20source-629-1f6feb?style=for-the-badge) ![demo + source](https://img.shields.io/badge/demo%20+%20source-213-f59e0b?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--11--04-555?style=for-the-badge)
 
 </div>
 
@@ -705,7 +705,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="n"></a>
 
-## N <sub>· 31</sub>
+## N <sub>· 32</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -718,6 +718,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | ⭐ NBA Street V3 | [▶ nbastreet3.online](https://nbastreet3.online/) | [📦 recomp-code/street-recomp-v3](https://github.com/recomp-code/street-recomp-v3) |
 | NBlood | [▶ rgc.zone](https://rgc.zone/ports/nbloodweb/run.html) |  |
 | ⭐ NCAA Football 10 (PSP Recomp) | [▶ awest813.github.io](https://awest813.github.io/NCAA-10-PSP-Recomp/) | [📦 awest813/NCAA-10-PSP-Recomp](https://github.com/awest813/NCAA-10-PSP-Recomp) |
+| Need for Speed: Carbon (online multiplayer) | [▶ nfscrb.xyz](https://nfscrb.xyz/) |  |
 | Need for Speed: Most Wanted (2005) (dezm0n web port) | [▶ dezm0n.itch.io](https://dezm0n.itch.io/nfs-most-wanted-web-port) |  |
 | Need for Speed: Most Wanted (2005) (NFSMW Online web) | [▶ web.nfsmwo.com](https://web.nfsmwo.com/) |  |
 | Need for Speed: Most Wanted (2005) (NFSMW Online) | [▶ nfsmwonline.com](https://nfsmwonline.com) |  |
@@ -770,13 +771,14 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="p"></a>
 
-## P <sub>· 58</sub>
+## P <sub>· 60</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
 | Pacman |  | [📦 midzer/pacman](https://github.com/midzer/pacman) |
 | Paint the Town Red |  | [📦 Reeyuki/PttrWebport](https://github.com/Reeyuki/PttrWebport) |
 | Pang (pang-web) |  | [📦 ray77/pang-web](https://github.com/ray77/pang-web) |
+| Paper Mario (n64hub recomp) |  | [📦 n64hub/paper-mario-recomp](https://github.com/n64hub/paper-mario-recomp) |
 | Patrick’s Parabox |  | [📦 puffrs/patrickparaboxweb](https://github.com/puffrs/patrickparaboxweb) |
 | ⭐ PEAK (VERY wip) | [▶ wasm.rip](https://wasm.rip/files/peak/PEAK.html) | [📦 wasmdotrip/Peak-Port](https://github.com/wasmdotrip/Peak-Port) |
 | ⭐ Peaks of Yore | [▶ gn-math.dev](https://gn-math.dev/?id=717) | [📦 web-ports/peaks-of-yore](https://github.com/web-ports/peaks-of-yore) |
@@ -812,6 +814,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | ⭐ Portal | [▶ yikes.pw](https://yikes.pw/portal/) | [📦 weliveinhell/source-engine](https://github.com/weliveinhell/source-engine) |
 | Portal |  | [📦 AlexBoops/portal-1-port](https://github.com/AlexBoops/portal-1-port) |
 | POSTAL |  | [📦 leahanderson1/POSTAL-WASM](https://github.com/leahanderson1/POSTAL-WASM) |
+| POSTAL 2 (KahnStation) | [▶ kahn.lol](https://kahn.lol/gopostal) |  |
 | Potion Craft: Alchemist Simulator |  | [📦 GrassPorts/Potion-Craft-Alchemy-Simulator](https://github.com/GrassPorts/Potion-Craft-Alchemy-Simulator) |
 | ⭐ Power Hover | [▶ gn-math.dev](https://gn-math.dev/?id=743) | [📦 web-ports/power-hover](https://github.com/web-ports/power-hover) |
 | Powermanga |  | [📦 midzer/Powermanga](https://github.com/midzer/Powermanga) |
