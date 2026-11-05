@@ -56,7 +56,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | ⭐ Amanda The Adventurer | [▶ gn-math.github.io](https://gn-math.github.io/web-port/amanda-the-adventurer/) | [📦 genizy/web-port/tree/main/amanda-the-adventurer](https://github.com/genizy/web-port/tree/main/amanda-the-adventurer) |
 | Amazing Alex | [▶ nomadic-ua.itch.io](https://nomadic-ua.itch.io/amazing-alex) |  |
 | ⭐ American McGee’s Alice| [▶ https://yselimarslan98-dot.github.io/alice-web/](https://github.com/yselimarslan98-dot/alice-web) |  |
-| Ambidextro |  | [📦 chromecrash/Ambidextro-browser-port](https://github.com/chromecrash/Ambidextro-browser-port) |
+| Ambidextro | ▶ https://ambidextro.surge.sh/ | [📦 chromecrash/Ambidextro-browser-port](https://github.com/chromecrash/Ambidextro-browser-port) |
 | ⭐ Among Us | [▶ wasm.rip](https://wasm.rip/files/amongus/index.html) | [📦 wasmdotrip/AmongUsPort](https://github.com/wasmdotrip/AmongUsPort) |
 | Anarch |  | [📦 drummyfish/anarch](https://gitlab.com/drummyfish/anarch) |
 | ⭐ Andy's Apple Farm | [▶ gn-math.github.io](https://gn-math.github.io/web-port/andys-apple-farm/) | [📦 genizy/web-port/tree/main/andys-apple-farm](https://github.com/genizy/web-port/tree/main/andys-apple-farm) |
