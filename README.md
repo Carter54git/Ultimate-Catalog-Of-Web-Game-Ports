@@ -6,7 +6,7 @@
 
 **Games you can play right in the browser — WebAssembly, WebGL, Emscripten, Unity, Godot, Flash/Ruffle and pure JavaScript ports.**
 
-![games](https://img.shields.io/badge/games-1000-8A2BE2?style=for-the-badge) ![playable demos](https://img.shields.io/badge/playable%20demos-562-2ea44f?style=for-the-badge) ![with source](https://img.shields.io/badge/with%20source-672-1f6feb?style=for-the-badge) ![demo + source](https://img.shields.io/badge/demo%20+%20source-242-f59e0b?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--11--07-555?style=for-the-badge)
+![games](https://img.shields.io/badge/games-1004-8A2BE2?style=for-the-badge) ![playable demos](https://img.shields.io/badge/playable%20demos-564-2ea44f?style=for-the-badge) ![with source](https://img.shields.io/badge/with%20source-676-1f6feb?style=for-the-badge) ![demo + source](https://img.shields.io/badge/demo%20+%20source-244-f59e0b?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--11--08-555?style=for-the-badge)
 
 </div>
 
@@ -654,7 +654,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="m"></a>
 
-## M <sub>· 63</sub>
+## M <sub>· 65</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -675,6 +675,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Master of Defence | [▶ nomadic-ua.itch.io](https://nomadic-ua.itch.io/master-of-defence) |  |
 | Master of Orion |  | [📦 midzer/1oom](https://github.com/midzer/1oom) |
 | The Math Is Leaking |  | [📦 reeyuki/themathisleaking](https://github.com/reeyuki/themathisleaking) |
+| ⭐ MechCommander 2 (mc2-rust) | [▶ justinbukoski.github.io](https://justinbukoski.github.io/mc2-rust/) | [📦 justinbukoski/mc2-rust](https://github.com/justinbukoski/mc2-rust) |
 | Medabots AX | [▶ medabots-ax.meme.ar](https://medabots-ax.meme.ar/) |  |
 | Mega Mario |  | [📦 midzer/megamario](https://github.com/midzer/megamario) |
 | Meowdoku! |  | [📦 c00lkiddtech/md-](https://github.com/c00lkiddtech/md-) |
@@ -683,6 +684,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Meteor 60 Seconds |  | [📦 ThatWirdGuy/Meteor-60-Seconds-Web](https://github.com/ThatWirdGuy/Meteor-60-Seconds-Web) |
 | Micro Machines (scale-miniatures) |  | [📦 hivvu/scale-miniatures](https://github.com/hivvu/scale-miniatures) |
 | Midnight Club 3: DUB Edition | [▶ midnighhtclub3.online](https://midnighhtclub3.online/) |  |
+| Midnight Club 3: DUB Edition (mc3-web) |  | [📦 LeandroDettmer/mc3-web](https://github.com/LeandroDettmer/mc3-web) |
 | Midnight Shift | [▶ gn-math.dev](https://gn-math.dev/?id=658) |  |
 | ⭐ Milk inside a bag of milk inside a bag of milk | [▶ gn-math.dev](https://gn-math.dev/?id=650) | [📦 web-ports/milk-bag-games/tree/main/inside](https://github.com/web-ports/milk-bag-games/tree/main/inside) |
 | ⭐ Milk outside a bag of milk outside a bag of milk | [▶ gn-math.dev](https://gn-math.dev/?id=651) | [📦 web-ports/milk-bag-games/tree/main/outside](https://github.com/web-ports/milk-bag-games/tree/main/outside) |
@@ -726,7 +728,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="n"></a>
 
-## N <sub>· 34</sub>
+## N <sub>· 35</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -739,6 +741,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | ⭐ NBA Street V3 | [▶ nbastreet3.online](https://nbastreet3.online/) | [📦 recomp-code/street-recomp-v3](https://github.com/recomp-code/street-recomp-v3) |
 | NBlood | [▶ rgc.zone](https://rgc.zone/ports/nbloodweb/run.html) |  |
 | ⭐ NCAA Football 10 (PSP Recomp) | [▶ awest813.github.io](https://awest813.github.io/NCAA-10-PSP-Recomp/) | [📦 awest813/NCAA-10-PSP-Recomp](https://github.com/awest813/NCAA-10-PSP-Recomp) |
+| ⭐ Need for Speed III: Hot Pursuit (nfs3-web) | [▶ nfs3.xyz](https://nfs3.xyz/) | [📦 mrz944/nfs3-web](https://github.com/mrz944/nfs3-web) |
 | Need for Speed: Carbon (online multiplayer) | [▶ nfscrb.xyz](https://nfscrb.xyz/) |  |
 | Need for Speed: Most Wanted (2005) (dezm0n web port) | [▶ dezm0n.itch.io](https://dezm0n.itch.io/nfs-most-wanted-web-port) |  |
 | Need for Speed: Most Wanted (2005) (NFSMW Online web) | [▶ web.nfsmwo.com](https://web.nfsmwo.com/) |  |
@@ -1084,7 +1087,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="t"></a>
 
-## T <sub>· 38</sub>
+## T <sub>· 39</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -1099,6 +1102,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Tony Hawk's Pro Skater (thps1-web-port) |  | [📦 nascarfan03/thps1-web-port](https://github.com/nascarfan03/thps1-web-port) |
 | Tony Hawk's Pro Skater 3 | [▶ tonyhawkpro3.online](https://tonyhawkpro3.online/) |  |
 | Tony Hawk's Underground 2 | [▶ tonyhawksunderground2.online](https://tonyhawksunderground2.online/) |  |
+| Tony Hawk's Underground 2 (thug2-web) |  | [📦 Loosemond/thug2-web](https://github.com/Loosemond/thug2-web) |
 | Total Annihilation: Kingdoms (OpenKingdoms) |  | [📦 OpenKingdoms/OpenKingdoms](https://github.com/OpenKingdoms/OpenKingdoms) |
 | t³ (T cubed) | [▶ gn-math.dev](https://gn-math.dev/?id=818) |  |
 | Taiko no Tatsujin | [▶ cjdgrevival.com](https://cjdgrevival.com/) |  |
