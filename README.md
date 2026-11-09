@@ -6,7 +6,7 @@
 
 **Games you can play right in the browser — WebAssembly, WebGL, Emscripten, Unity, Godot, Flash/Ruffle and pure JavaScript ports.**
 
-![games](https://img.shields.io/badge/games-1004-8A2BE2?style=for-the-badge) ![playable demos](https://img.shields.io/badge/playable%20demos-564-2ea44f?style=for-the-badge) ![with source](https://img.shields.io/badge/with%20source-676-1f6feb?style=for-the-badge) ![demo + source](https://img.shields.io/badge/demo%20+%20source-244-f59e0b?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--11--08-555?style=for-the-badge)
+![games](https://img.shields.io/badge/games-1009-8A2BE2?style=for-the-badge) ![playable demos](https://img.shields.io/badge/playable%20demos-566-2ea44f?style=for-the-badge) ![with source](https://img.shields.io/badge/with%20source-681-1f6feb?style=for-the-badge) ![demo + source](https://img.shields.io/badge/demo%20+%20source-246-f59e0b?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--11--09-555?style=for-the-badge)
 
 </div>
 
@@ -353,7 +353,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="f"></a>
 
-## F <sub>· 66</sub>
+## F <sub>· 67</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -363,6 +363,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | ⭐ Fallout | [▶ gn-math.dev](https://gn-math.dev/?id=585) | [📦 midzer/fallout1-ce](https://github.com/midzer/fallout1-ce) |
 | Fallout 2 |  | [📦 roginvs/fallout2-ce](https://github.com/roginvs/fallout2-ce) |
 | Fallout: Nevada / Sonora | [▶ fallout-nevada.ru](https://fallout-nevada.ru/#/en) |  |
+| ⭐ Fallout: New Vegas (fnv-web-recomp) | [▶ falloutnewvegasweb.com](https://falloutnewvegasweb.com/) | [📦 SgtMetz/fnv-web-recomp](https://github.com/SgtMetz/fnv-web-recomp) |
 | Faster Than Light: Demo | [▶ rgc.zone](https://rgc.zone/ports/ftldemo/index.html) |  |
 | Fatal Racing | [▶ play.fatal.racing](https://play.fatal.racing/) |  |
 | Fear & Hunger | [▶ gn-math.dev](https://gn-math.dev/?id=706) |  |
@@ -654,7 +655,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="m"></a>
 
-## M <sub>· 65</sub>
+## M <sub>· 66</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -706,6 +707,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Mirror's Edge (Glassline) |  | [📦 MoonCellar-Team/Glassline](https://github.com/MoonCellar-Team/Glassline) |
 | ⭐ MiSide | [▶ gn-math.dev](https://gn-math.dev/?id=814) | [📦 web-ports/miside](https://github.com/web-ports/miside/) |
 | ⭐ MiSide (2) | [▶ wasm.rip](https://wasm.rip/files/miside/miside.html) | [📦 woahhcrackers/MiSideWeb](https://github.com/woahhcrackers/MiSideWeb) |
+| ⭐ Mobile Suit Gundam: Federation vs. Zeon DX (re-gvs-fvzdx) | [▶ sennett-lau.github.io](https://sennett-lau.github.io/re-gvs-fvzdx/) | [📦 sennett-lau/re-gvs-fvzdx](https://github.com/sennett-lau/re-gvs-fvzdx) |
 | Mobile Suit Gundam: Gundam vs. Zeta Gundam (re-gvs-gvzg) |  | [📦 sennett-lau/re-gvs-gvzg](https://github.com/sennett-lau/re-gvs-gvzg) |
 | Monster Hunter Freedom Unite | [▶ mhfu.online](https://mhfu.online/) |  |
 | Moon (Black Ops Zombies, vel.gg) | [▶ vel.gg](https://vel.gg/bo1z/moon) |  |
@@ -797,7 +799,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="p"></a>
 
-## P <sub>· 61</sub>
+## P <sub>· 62</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -836,6 +838,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Pokémon Emerald (pokeemerald-wasm) |  | [📦 tripplyons/pokeemerald-wasm](https://github.com/tripplyons/pokeemerald-wasm) |
 | Pokémon Emerald 3D (pokeemerald-3d) |  | [📦 tripplyons/pokeemerald-3d](https://github.com/tripplyons/pokeemerald-3d) |
 | Pokémon Mystery Dungeon (Web Mystery Dungeon) | [▶ frequentgamer.itch.io](https://frequentgamer.itch.io/pmdweb) |  |
+| Pokémon Snap (pokemonsnap-web) |  | [📦 Sorikairox/pokemonsnap-web](https://github.com/Sorikairox/pokemonsnap-web) |
 | Pokémon Yellow (pokemon-yellow-typescript) |  | [📦 gididaf/pokemon-yellow-typescript](https://github.com/gididaf/pokemon-yellow-typescript) |
 | ⭐ Portal | [▶ yikes.pw](https://yikes.pw/portal/) | [📦 weliveinhell/source-engine](https://github.com/weliveinhell/source-engine) |
 | Portal |  | [📦 AlexBoops/portal-1-port](https://github.com/AlexBoops/portal-1-port) |
@@ -935,7 +938,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="s"></a>
 
-## S <sub>· 143</sub>
+## S <sub>· 144</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -945,6 +948,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Samogonki (Moonshine Racers) |  | [📦 KD-lab-Open-Source/Samogonki](https://github.com/KD-lab-Open-Source/Samogonki) |
 | Samokatogeddon (Carmageddon II mod) | [▶ rgc.zone](https://rgc.zone/ports/carma2/index.html) |  |
 | San Francisco Rush 2049 (Recomp) |  | [📦 n64hub/rush-2049-recomp](https://github.com/n64hub/rush-2049-recomp) |
+| Saturday Night Slam Masters (ssm-online) |  | [📦 GinoDaza/ssm-online](https://github.com/GinoDaza/ssm-online) |
 | Scampton The Great | [▶ gn-math.dev](https://gn-math.dev/?id=802) |  |
 | ⭐ Schoolboy Runaway | [▶ gn-math.github.io](https://gn-math.github.io/web-port/schoolboy-runaway/) | [📦 genizy/web-port/tree/main/schoolboy-runaway](https://github.com/genizy/web-port/tree/main/schoolboy-runaway) |
 | Scoutdingo |  | [📦 web-ports/scoutdingo](https://github.com/web-ports/scoutdingo) |
@@ -1185,7 +1189,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="w"></a>
 
-## W <sub>· 34</sub>
+## W <sub>· 35</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -1204,6 +1208,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | while True: learn() |  | [📦 dashiellbenton/ports/tree/main/while-true-learn](https://github.com/dashiellbenton/ports/tree/main/while-true-learn) |
 | ⭐ Who's Your Daddy? | [▶ gn-math.dev](https://gn-math.dev/?id=791) | [📦 Reeyuki/daddygame](https://github.com/Reeyuki/daddygame) |
 | Who's Your Daddy? (2) |  | [📦 web-ports/daddygame](https://github.com/web-ports/daddygame) |
+| Wii Forecast Channel (forecast-channel-web) |  | [📦 ravensclawx/forecast-channel-web](https://github.com/ravensclawx/forecast-channel-web) |
 | William Shatner's TekWar | [▶ rgc.zone](https://rgc.zone/ports/8777-tekwar/run.html) |  |
 | Wine Assembly (Windows games in the browser: RollerCoaster Tycoon, Space Cadet…) |  | [📦 Emupedia/wine-assembly](https://github.com/Emupedia/wine-assembly) |
 | ⭐ WipEout | [▶ phoboslab.org](https://phoboslab.org/wipegame/) | [📦 phoboslab/wipeout-rewrite](https://github.com/phoboslab/wipeout-rewrite) |
