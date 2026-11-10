@@ -6,7 +6,7 @@
 
 **Games you can play right in the browser — WebAssembly, WebGL, Emscripten, Unity, Godot, Flash/Ruffle and pure JavaScript ports.**
 
-![games](https://img.shields.io/badge/games-1009-8A2BE2?style=for-the-badge) ![playable demos](https://img.shields.io/badge/playable%20demos-566-2ea44f?style=for-the-badge) ![with source](https://img.shields.io/badge/with%20source-681-1f6feb?style=for-the-badge) ![demo + source](https://img.shields.io/badge/demo%20+%20source-246-f59e0b?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--11--09-555?style=for-the-badge)
+![games](https://img.shields.io/badge/games-1012-8A2BE2?style=for-the-badge) ![playable demos](https://img.shields.io/badge/playable%20demos-567-2ea44f?style=for-the-badge) ![with source](https://img.shields.io/badge/with%20source-684-1f6feb?style=for-the-badge) ![demo + source](https://img.shields.io/badge/demo%20+%20source-247-f59e0b?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--11--10-555?style=for-the-badge)
 
 </div>
 
@@ -245,7 +245,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="d"></a>
 
-## D <sub>· 82</sub>
+## D <sub>· 84</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -292,6 +292,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Doom (joeheyming, classic and mods) | [▶ joeheyming.github.io](https://joeheyming.github.io/doom/) |  |
 | Doom (wasm-doom) |  | [📦 lazarv/wasm-doom](https://github.com/lazarv/wasm-doom) |
 | Doom (wasmdoom) |  | [📦 theMagicalKarp/wasmdoom](https://github.com/theMagicalKarp/wasmdoom) |
+| ⭐ Doom (wasoom) | [▶ wasoom.pages.dev](https://wasoom.pages.dev/) | [📦 koimilk/wasoom](https://github.com/koimilk/wasoom) |
 | ⭐ Doom (WebDOOM) | [▶ ustymukhman.github.io](https://ustymukhman.github.io/WebDOOM/public/) | [📦 UstymUkhman/WebDOOM](https://github.com/UstymUkhman/WebDOOM) |
 | Doom / Doom II / Heretic (EDGE-classic) |  | [📦 edge-classic/EDGE-classic](https://github.com/edge-classic/EDGE-classic) |
 | ⭐ Doom 3 | [▶ gn-math.dev](https://gn-math.dev/?id=626) | [📦 web-ports/doom-3](https://github.com/web-ports/doom-3) |
@@ -305,6 +306,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Dos.Zone | [▶ dos.zone](https://dos.zone) |  |
 | Downhill Domination | [▶ downhilldomination.online](https://downhilldomination.online/) |  |
 | Downhill Domination (downhill-revived) |  | [📦 skuza-oss/downhill-revived](https://github.com/skuza-oss/downhill-revived) |
+| Downhill Domination (downhill-web) |  | [📦 ekansh28/downhill-web](https://github.com/ekansh28/downhill-web) |
 | Dragon Ball Z: Budokai 2 | [▶ budokai2onlline.cc](https://budokai2onlline.cc/) |  |
 | Dragon Ball Z: Budokai 3 | [▶ dragonballbudokai3.online](https://dragonballbudokai3.online/) |  |
 | Dragon Ball Z: Budokai Tenkaichi 2 | [▶ dragonballbt2.online](https://dragonballbt2.online/) |  |
@@ -730,7 +732,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="n"></a>
 
-## N <sub>· 35</sub>
+## N <sub>· 36</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -749,6 +751,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Need for Speed: Most Wanted (2005) (NFSMW Online web) | [▶ web.nfsmwo.com](https://web.nfsmwo.com/) |  |
 | Need for Speed: Most Wanted (2005) (NFSMW Online) | [▶ nfsmwonline.com](https://nfsmwonline.com) |  |
 | ⭐ Need for Speed: Most Wanted (nfsmw-webport) | [▶ iker3329.github.io](https://iker3329.github.io/nfsmw-webport/) | [📦 Iker3329/nfsmw-webport](https://github.com/Iker3329/nfsmw-webport) |
+| Need for Speed: ProStreet (NFSProStreet_online) |  | [📦 uvindusl/NFSProStreet_online](https://github.com/uvindusl/NFSProStreet_online) |
 | Need for Speed: Underground (nfsu1web) |  | [📦 yurasmetanka/nfsu1web](https://github.com/yurasmetanka/nfsu1web) |
 | Need for Speed: Underground 2 | [▶ nfsu2.xyz](https://nfsu2.xyz/) |  |
 | Need for Speed: Underground 2 (nfsunderground2.site) | [▶ nfsunderground2.site](https://nfsunderground2.site/) |  |
