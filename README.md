@@ -6,7 +6,7 @@
 
 **Games you can play right in the browser — WebAssembly, WebGL, Emscripten, Unity, Godot, Flash/Ruffle and pure JavaScript ports.**
 
-![games](https://img.shields.io/badge/games-1012-8A2BE2?style=for-the-badge) ![playable demos](https://img.shields.io/badge/playable%20demos-567-2ea44f?style=for-the-badge) ![with source](https://img.shields.io/badge/with%20source-684-1f6feb?style=for-the-badge) ![demo + source](https://img.shields.io/badge/demo%20+%20source-247-f59e0b?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--11--10-555?style=for-the-badge)
+![games](https://img.shields.io/badge/games-1013-8A2BE2?style=for-the-badge) ![playable demos](https://img.shields.io/badge/playable%20demos-568-2ea44f?style=for-the-badge) ![with source](https://img.shields.io/badge/with%20source-685-1f6feb?style=for-the-badge) ![demo + source](https://img.shields.io/badge/demo%20+%20source-248-f59e0b?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--11--11-555?style=for-the-badge)
 
 </div>
 
@@ -619,7 +619,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="l"></a>
 
-## L <sub>· 29</sub>
+## L <sub>· 30</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -649,6 +649,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Little Big Adventure 2 |  | [📦 LBALab/lba2remake](https://github.com/LBALab/lba2remake) |
 | ⭐ Lobotomy Corporation | [▶ wasm.rip](https://wasm.rip/files/lob-corp/index.html) | [📦 Reeyuki/lobcorp](https://github.com/Reeyuki/lobcorp) |
 | ⭐ Look Outside | [▶ gn-math.dev](https://gn-math.dev/?id=649) | [📦 web-ports/look-outside](https://github.com/web-ports/look-outside) |
+| ⭐ Lords of the Realm II | [▶ 1lk.github.io](https://1lk.github.io/Lords2web/) | [📦 1lk/Lords2web](https://github.com/1lk/Lords2web) |
 | ⭐ Luanti (Minetest) | [▶ wasmga.me](https://wasmga.me/games/luanti) | [📦 wasmga-me/luanti-wasm](https://github.com/wasmga-me/luanti-wasm) |
 | ⭐ Lugaru | [▶ loganwalkerdev.github.io](https://loganwalkerdev.github.io/lugaru-web/) | [📦 loganwalkerdev/lugaru-web](https://github.com/loganwalkerdev/lugaru-web) |
 | Luigi's Picture Poker | [▶ marcy4000.itch.io](https://marcy4000.itch.io/luigis-picture-poker) |  |
@@ -1236,13 +1237,14 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="x"></a>
 
-## X <sub>· 8</sub>
+## X <sub>· 9</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
 | The X-Files Game (shiloh) |  | [📦 Asterber/shiloh](https://github.com/Asterber/shiloh) |
 | Xash3D |  | [📦 btarg/Xash3D-Emscripten](https://github.com/btarg/Xash3D-Emscripten) |
 | xbattle (xbattle-web) |  | [📦 lab1702/xbattle-web](https://github.com/lab1702/xbattle-web) |
+| XBill |  | [📦 bobeasthope2/xbill-web](https://github.com/bobeasthope2/xbill-web) |
 | XCOM |  | [📦 midzer/OpenXcom](https://github.com/midzer/OpenXcom) |
 | XEvil (xevil-wasm) |  | [📦 CyberspaceVii/xevil-wasm](https://github.com/CyberspaceVii/xevil-wasm) |
 | XGalaga |  | [📦 midzer/xgalaga-sdl](https://github.com/midzer/xgalaga-sdl) |
