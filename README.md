@@ -6,7 +6,7 @@
 
 **Games you can play right in the browser — WebAssembly, WebGL, Emscripten, Unity, Godot, Flash/Ruffle and pure JavaScript ports.**
 
-![games](https://img.shields.io/badge/games-1013-8A2BE2?style=for-the-badge) ![playable demos](https://img.shields.io/badge/playable%20demos-568-2ea44f?style=for-the-badge) ![with source](https://img.shields.io/badge/with%20source-685-1f6feb?style=for-the-badge) ![demo + source](https://img.shields.io/badge/demo%20+%20source-248-f59e0b?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--11--11-555?style=for-the-badge)
+![games](https://img.shields.io/badge/games-1018-8A2BE2?style=for-the-badge) ![playable demos](https://img.shields.io/badge/playable%20demos-571-2ea44f?style=for-the-badge) ![with source](https://img.shields.io/badge/with%20source-690-1f6feb?style=for-the-badge) ![demo + source](https://img.shields.io/badge/demo%20+%20source-251-f59e0b?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--11--12-555?style=for-the-badge)
 
 </div>
 
@@ -431,7 +431,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="g"></a>
 
-## G <sub>· 55</sub>
+## G <sub>· 54</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -587,10 +587,11 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="k"></a>
 
-## K <sub>· 23</sub>
+## K <sub>· 24</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
+| ⭐ Kagetsu Tohya | [▶ kagetsu.pages.dev](https://kagetsu.pages.dev/) | [📦 waifwu/KageTStream](https://github.com/waifwu/KageTStream) |
 | ⭐ Karlson | [▶ gn-math.github.io](https://gn-math.github.io/web-port/karlson/) | [📦 genizy/web-port/tree/main/karlson](https://github.com/genizy/web-port/tree/main/karlson) |
 | Karlson (2) |  | [📦 thecheetoman/KarlsonWebPort](https://github.com/thecheetoman/KarlsonWebPort) |
 | Karlson 2D | [▶ truffled.lol](https://truffled.lol/games/karlson2d/truffledkarlson2d/index.html) |  |
@@ -658,13 +659,14 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="m"></a>
 
-## M <sub>· 66</sub>
+## M <sub>· 67</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
 | Madden NFL 08 | [▶ maddennfl08.online](https://maddennfl08.online/) |  |
 | Magic Sushi |  | [📦 EXL/Magic-Sushi](https://github.com/EXL/Magic-Sushi) |
 | Magic Tower: 50 Floors | [▶ wasmarcade.app](https://wasmarcade.app/play/magic-tower) |  |
+| ⭐ Maisy's Playhouse | [▶ games.nostalgiarealm.com](https://games.nostalgiarealm.com/maisysplayhouse/) | [📦 NostalgiaRealm/Maisys-Playhouse](https://github.com/NostalgiaRealm/Maisys-Playhouse) |
 | ⭐ The Man From the Window | [▶ gn-math.github.io](https://gn-math.github.io/web-port/the-man-in-the-window/) | [📦 genizy/web-port/tree/main/the-man-in-the-window](https://github.com/genizy/web-port/tree/main/the-man-in-the-window) |
 | ⭐ The Man From the Window 2 | [▶ wasm.rip](https://wasm.rip/files/MFDW2/index.html) | [📦 wasm-rip/the-man-from-the-window-2-web](https://github.com/wasm-rip/the-man-from-the-window-2-web) |
 | The Man In The Window | [▶ gn-math.dev](https://gn-math.dev/?id=459) |  |
@@ -803,7 +805,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="p"></a>
 
-## P <sub>· 62</sub>
+## P <sub>· 64</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -822,6 +824,8 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Perfect Dark | [▶ perfectdark.royal-cake-5abc.workers.dev](https://perfectdark.royal-cake-5abc.workers.dev/) |  |
 | Perfect Dark (n64hub recomp) |  | [📦 n64hub/perfect-dark-recomp](https://github.com/n64hub/perfect-dark-recomp) |
 | Perimeter |  | [📦 KD-lab-Open-Source/Perimeter](https://github.com/KD-lab-Open-Source/Perimeter) |
+| Persona 1 |  | [📦 Vixxha/persona1-web](https://github.com/Vixxha/persona1-web) |
+| PetWings |  | [📦 MBaliver/petwings](https://github.com/MBaliver/petwings) |
 | Phantasy Star Online (PSO Reborn) | [▶ recompiledgames.com](https://recompiledgames.com/phantasy-star-online-recompiled) |  |
 | Phantasy Star Online Episode I & II (PSO Reborn) | [▶ psoreborn.com](https://psoreborn.com/) |  |
 | Phineas and Ferb in the Transport-inators of Doooom | [▶ stelight.games](https://stelight.games/play/webports/stellite.games/stellite/doom/index.html) |  |
@@ -942,7 +946,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="s"></a>
 
-## S <sub>· 144</sub>
+## S <sub>· 145</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -1002,6 +1006,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | SM Kart ZX |  | [📦 burnedpopcorn/SM-Kart-ZX-Web-Port](https://github.com/burnedpopcorn/SM-Kart-ZX-Web-Port) |
 | sm64plus webport PoC |  | [📦 burnedpopcorn/sm64plus-webport-PoC](https://github.com/burnedpopcorn/sm64plus-webport-PoC) |
 | SNAPTIC |  | [📦 degloved-net/snaptic-web](https://github.com/degloved-net/snaptic-web) |
+| ⭐ Sobosuba | [▶ kn0tzer.work.gd](https://kn0tzer.work.gd/sobosuba) | [📦 Kn0tzer/sobosuba-web](https://github.com/Kn0tzer/sobosuba-web) |
 | ⭐ SOCOM II: U.S. Navy SEALs (SOCOM Legacy) | [▶ socomlegacy.com](https://socomlegacy.com/) | [📦 Scotho/socom-legacy](https://github.com/Scotho/socom-legacy) |
 | Sokoban |  | [📦 midzer/simple-sokoban](https://github.com/midzer/simple-sokoban) |
 | Something |  | [📦 gays-studio/something-web](https://github.com/gays-studio/something-web) |
