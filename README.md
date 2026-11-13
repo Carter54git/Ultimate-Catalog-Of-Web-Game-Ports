@@ -6,7 +6,7 @@
 
 **Games you can play right in the browser — WebAssembly, WebGL, Emscripten, Unity, Godot, Flash/Ruffle and pure JavaScript ports.**
 
-![games](https://img.shields.io/badge/games-1018-8A2BE2?style=for-the-badge) ![playable demos](https://img.shields.io/badge/playable%20demos-571-2ea44f?style=for-the-badge) ![with source](https://img.shields.io/badge/with%20source-690-1f6feb?style=for-the-badge) ![demo + source](https://img.shields.io/badge/demo%20+%20source-251-f59e0b?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--11--12-555?style=for-the-badge)
+![games](https://img.shields.io/badge/games-1028-8A2BE2?style=for-the-badge) ![playable demos](https://img.shields.io/badge/playable%20demos-577-2ea44f?style=for-the-badge) ![with source](https://img.shields.io/badge/with%20source-700-1f6feb?style=for-the-badge) ![demo + source](https://img.shields.io/badge/demo%20+%20source-257-f59e0b?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--11--13-555?style=for-the-badge)
 
 </div>
 
@@ -87,7 +87,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="b"></a>
 
-## B <sub>· 60</sub>
+## B <sub>· 61</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -133,6 +133,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | ⭐ boil Noodles at Night | [▶ wasm.rip](https://wasm.rip/files/boilnoodles/index.html) | [📦 SomeRandomFella/portsandrips/tree/master/boilnoodles](https://github.com/SomeRandomFella/portsandrips/tree/master/boilnoodles) |
 | Bombermaaan |  | [📦 midzer/Bombermaaan](https://github.com/midzer/Bombermaaan) |
 | BottleShip (NFS Underground 2, XIII, Far Cry, Mafia, The Bard's Tale…) |  | [📦 jenissimo/bottleship](https://github.com/jenissimo/bottleship) |
+| ⭐ Bounce Tales | [▶ prasannaone.github.io](https://prasannaone.github.io/BounceTales/) | [📦 PrasannaOne/BounceTales](https://github.com/PrasannaOne/BounceTales) |
 | Bowerwhelm |  |  |
 | Brawlhalla | [▶ truffled.lol](https://truffled.lol/games/brawlhalla/index.html) |  |
 | breadbb/genizy |  | [📦 genizy](https://github.com/genizy) |
@@ -620,7 +621,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="l"></a>
 
-## L <sub>· 30</sub>
+## L <sub>· 31</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -638,6 +639,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | ⭐ The Legend of Zelda: Twilight Princess (Dusklight) | [▶ dusklight.pages.dev](https://dusklight.pages.dev/) | [📦 caribbeansc/dusklight](https://github.com/caribbeansc/dusklight) |
 | ⭐ LEGO Island | [▶ isle.pizza](https://isle.pizza/) | [📦 isledecomp/isle.pizza](https://github.com/isledecomp/isle.pizza) |
 | LEGO Racers | [▶ steponit.online](https://steponit.online/) |  |
+| ⭐ LEGO Star Wars: The Video Game | [▶ down1oads.github.io](https://down1oads.github.io/LSWWEB/) | [📦 Down1oads/LSWWEB](https://github.com/Down1oads/LSWWEB) |
 | LEGOLAND (1999) |  | [📦 facundosterzerforino/legoland-port](https://github.com/facundosterzerforino/legoland-port) |
 | Lemmings (ohmylemmings) |  | [📦 edwardkim/ohmylemmings](https://github.com/edwardkim/ohmylemmings) |
 | Lenin: First Blood | [▶ rgc.zone](https://rgc.zone/ports/8770-blood-lenin/run.html) |  |
@@ -659,7 +661,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="m"></a>
 
-## M <sub>· 67</sub>
+## M <sub>· 68</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -691,6 +693,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Micro Machines (scale-miniatures) |  | [📦 hivvu/scale-miniatures](https://github.com/hivvu/scale-miniatures) |
 | Midnight Club 3: DUB Edition | [▶ midnighhtclub3.online](https://midnighhtclub3.online/) |  |
 | Midnight Club 3: DUB Edition (mc3-web) |  | [📦 LeandroDettmer/mc3-web](https://github.com/LeandroDettmer/mc3-web) |
+| ⭐ Midnight Club 3: DUB Edition (mc3-web-study) | [▶ dubedition.xyz](https://dubedition.xyz) | [📦 clydejuniorscripts/mc3-web-study](https://github.com/clydejuniorscripts/mc3-web-study) |
 | Midnight Shift | [▶ gn-math.dev](https://gn-math.dev/?id=658) |  |
 | ⭐ Milk inside a bag of milk inside a bag of milk | [▶ gn-math.dev](https://gn-math.dev/?id=650) | [📦 web-ports/milk-bag-games/tree/main/inside](https://github.com/web-ports/milk-bag-games/tree/main/inside) |
 | ⭐ Milk outside a bag of milk outside a bag of milk | [▶ gn-math.dev](https://gn-math.dev/?id=651) | [📦 web-ports/milk-bag-games/tree/main/outside](https://github.com/web-ports/milk-bag-games/tree/main/outside) |
@@ -805,7 +808,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="p"></a>
 
-## P <sub>· 64</sub>
+## P <sub>· 66</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -813,6 +816,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Paint the Town Red |  | [📦 Reeyuki/PttrWebport](https://github.com/Reeyuki/PttrWebport) |
 | Pang (pang-web) |  | [📦 ray77/pang-web](https://github.com/ray77/pang-web) |
 | Paper Mario (n64hub recomp) |  | [📦 n64hub/paper-mario-recomp](https://github.com/n64hub/paper-mario-recomp) |
+| ⭐ Passage | [▶ judooochp.github.io](https://judooochp.github.io/Passage/) | [📦 judooochp/Passage](https://github.com/judooochp/Passage) |
 | Patrick’s Parabox |  | [📦 puffrs/patrickparaboxweb](https://github.com/puffrs/patrickparaboxweb) |
 | ⭐ PEAK (VERY wip) | [▶ wasm.rip](https://wasm.rip/files/peak/PEAK.html) | [📦 wasmdotrip/Peak-Port](https://github.com/wasmdotrip/Peak-Port) |
 | ⭐ Peaks of Yore | [▶ gn-math.dev](https://gn-math.dev/?id=717) | [📦 web-ports/peaks-of-yore](https://github.com/web-ports/peaks-of-yore) |
@@ -842,6 +846,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Plants vs Zombies: GOTY Edition (2) |  | [📦 web-ports/pvz](https://github.com/web-ports/pvz) |
 | Plants vs Zombies: GOTY Edition (3) |  | [📦 ajtabjs/pvzdeploy](https://github.com/ajtabjs/pvzdeploy) |
 | Plants vs. Zombies | [▶ rgc.zone](https://rgc.zone/ports/pvzweb/index.html) |  |
+| Please, Don't Touch Anything 3D |  | [📦 3cfl/pdta3d-webport](https://github.com/3cfl/pdta3d-webport) |
 | Plunder & Pillage | [▶ rgc.zone](https://rgc.zone/ports/8786-plunder/run.html) |  |
 | Pokémon Emerald (pokeemerald-wasm) |  | [📦 tripplyons/pokeemerald-wasm](https://github.com/tripplyons/pokeemerald-wasm) |
 | Pokémon Emerald 3D (pokeemerald-3d) |  | [📦 tripplyons/pokeemerald-3d](https://github.com/tripplyons/pokeemerald-3d) |
@@ -900,7 +905,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="r"></a>
 
-## R <sub>· 37</sub>
+## R <sub>· 38</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -941,12 +946,13 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Rugby 08 (rugby08-web) |  | [📦 IFAKA/rugby08-web](https://github.com/IFAKA/rugby08-web) |
 | RuneScape Classic | [▶ runescapeclassic.gold](https://runescapeclassic.gold/) |  |
 | Running Fred |  | [📦 aukak/running-fred](https://github.com/aukak/running-fred) |
+| Rust Legacy |  | [📦 Complicatons/rust-legacy-browser-open](https://github.com/Complicatons/rust-legacy-browser-open) |
 
 <p align="right"><a href="#jump-to">↑ back to top</a></p>
 
 <a id="s"></a>
 
-## S <sub>· 145</sub>
+## S <sub>· 146</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -1003,6 +1009,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Slime Rancher | [▶ gn-math.dev](https://gn-math.dev/?id=591) |  |
 | Slime Ranchers |  | [📦 web-ports/slime-ranchers](https://github.com/web-ports/slime-ranchers) |
 | Slime Ranchers (2) |  | [📦 Reeyuki/SlimeRanch](https://github.com/Reeyuki/SlimeRanch) |
+| ⭐ Slingshot | [▶ phoenox.github.io](https://phoenox.github.io/Slingshot/) | [📦 PhoeNox/Slingshot](https://github.com/PhoeNox/Slingshot) |
 | SM Kart ZX |  | [📦 burnedpopcorn/SM-Kart-ZX-Web-Port](https://github.com/burnedpopcorn/SM-Kart-ZX-Web-Port) |
 | sm64plus webport PoC |  | [📦 burnedpopcorn/sm64plus-webport-PoC](https://github.com/burnedpopcorn/sm64plus-webport-PoC) |
 | SNAPTIC |  | [📦 degloved-net/snaptic-web](https://github.com/degloved-net/snaptic-web) |
@@ -1100,7 +1107,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="t"></a>
 
-## T <sub>· 39</sub>
+## T <sub>· 40</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -1111,6 +1118,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Tekken 5 | [▶ tekken5.online](https://tekken5.online/) |  |
 | Tekken: Dark Resurrection | [▶ tekkendr.live](https://tekkendr.live/) |  |
 | Tenchu: Shinobi Gaisen |  | [📦 Fuuzetsu/tenchu-shinobi-gaisen-pc](https://github.com/Fuuzetsu/tenchu-shinobi-gaisen-pc) |
+| ⭐ Tennis Game | [▶ kyleschichl0x16.github.io](https://kyleschichl0x16.github.io/tennis-online/) | [📦 KyleSchichl0x16/tennis-online](https://github.com/KyleSchichl0x16/tennis-online) |
 | Terraria (3) | [▶ playterraria.lol](https://playterraria.lol/) |  |
 | Tony Hawk's Pro Skater (thps1-web-port) |  | [📦 nascarfan03/thps1-web-port](https://github.com/nascarfan03/thps1-web-port) |
 | Tony Hawk's Pro Skater 3 | [▶ tonyhawkpro3.online](https://tonyhawkpro3.online/) |  |
@@ -1260,11 +1268,12 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="y"></a>
 
-## Y <sub>· 8</sub>
+## Y <sub>· 9</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
 | ⭐ Yandere Simulator | [▶ gn-math.github.io](https://gn-math.github.io/web-port/yandere-simulator/) | [📦 genizy/web-port/tree/main/yandere-simulator](https://github.com/genizy/web-port/tree/main/yandere-simulator) |
+| Yar Arazi |  | [📦 MooshGF/Yar-Arazi-Web-Port](https://github.com/MooshGF/Yar-Arazi-Web-Port) |
 | Yesterday's Meat |  | [📦 SoupcanUBG/Yesterdays-Meat](https://github.com/SoupcanUBG/Yesterdays-Meat) |
 | yomih hustle |  | [📦 web-ports/yomi-hustle](https://github.com/web-ports/yomi-hustle) |
 | You Want Half a Mounds Bar |  | [📦 wasm-rip/You-Want-Half-A-Mounds-Bar-Web](https://github.com/wasm-rip/You-Want-Half-A-Mounds-Bar-Web) |
@@ -1277,10 +1286,11 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="z"></a>
 
-## Z <sub>· 4</sub>
+## Z <sub>· 5</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
+| Zanac EX |  | [📦 ultimzeus/zanac-ex-webport](https://github.com/ultimzeus/zanac-ex-webport) |
 | Zato |  | [📦 z4laxis/ZatoWebport](https://github.com/z4laxis/ZatoWebport) |
 | Zelda II: The Adventure of Link (z2rs) | [▶ z2rs.com](https://z2rs.com/) |  |
 | Zeliard |  | [📦 nolanvenhola/zeliard](https://github.com/nolanvenhola/zeliard) |
