@@ -6,7 +6,7 @@
 
 **Games you can play right in the browser — WebAssembly, WebGL, Emscripten, Unity, Godot, Flash/Ruffle and pure JavaScript ports.**
 
-![games](https://img.shields.io/badge/games-1028-8A2BE2?style=for-the-badge) ![playable demos](https://img.shields.io/badge/playable%20demos-577-2ea44f?style=for-the-badge) ![with source](https://img.shields.io/badge/with%20source-700-1f6feb?style=for-the-badge) ![demo + source](https://img.shields.io/badge/demo%20+%20source-257-f59e0b?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--11--13-555?style=for-the-badge)
+![games](https://img.shields.io/badge/games-1038-8A2BE2?style=for-the-badge) ![playable demos](https://img.shields.io/badge/playable%20demos-579-2ea44f?style=for-the-badge) ![with source](https://img.shields.io/badge/with%20source-711-1f6feb?style=for-the-badge) ![demo + source](https://img.shields.io/badge/demo%20+%20source-260-f59e0b?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--10--25-555?style=for-the-badge)
 
 </div>
 
@@ -87,7 +87,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="b"></a>
 
-## B <sub>· 61</sub>
+## B <sub>· 62</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -129,6 +129,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Block Blast |  | [📦 SomeRandomFella/portsandrips/tree/master/blockblast-port](https://github.com/SomeRandomFella/portsandrips/tree/master/blockblast-port) |
 | Blood: One Unit Whole Blood (NotBlood-Chosen) |  | [📦 AdrianPol-projects/NotBlood-Chosen](https://github.com/AdrianPol-projects/NotBlood-Chosen) |
 | ⭐ BLOODMONEY! | [▶ gn-math.github.io](https://gn-math.github.io/web-port/bloodmoney/) | [📦 genizy/web-port/tree/main/bloodmoney](https://github.com/genizy/web-port/tree/main/bloodmoney) |
+| Blur (blur-web) |  | [📦 kpihx-labs/blur-web](https://github.com/kpihx-labs/blur-web) |
 | bog/aukak |  | [📦 aukak](https://github.com/aukak) |
 | ⭐ boil Noodles at Night | [▶ wasm.rip](https://wasm.rip/files/boilnoodles/index.html) | [📦 SomeRandomFella/portsandrips/tree/master/boilnoodles](https://github.com/SomeRandomFella/portsandrips/tree/master/boilnoodles) |
 | Bombermaaan |  | [📦 midzer/Bombermaaan](https://github.com/midzer/Bombermaaan) |
@@ -166,7 +167,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Caesar III |  | [📦 bvschaik/julius](https://github.com/bvschaik/julius) |
 | Caesar III (Augustus) |  | [📦 Keriew/augustus](https://github.com/Keriew/augustus) |
 | Call of Duty Web Collection | [▶ cod-webports.pages.dev](https://cod-webports.pages.dev/) |  |
-| Call of Duty: Black Ops Zombies | [▶ vel.gg](http://vel.gg/bo1z) |  |
+| ⭐ Call of Duty: Black Ops Zombies | [▶ vel.gg](http://vel.gg/bo1z) | [📦 MisaDev4/bo1-zombies-decompiled](https://github.com/MisaDev4/bo1-zombies-decompiled) |
 | ⭐ Call of Duty: Black Ops Zombies (2) | [▶ vel.gg](https://vel.gg/bsz) | [📦 AllanLotta/bo1-zombies-coop](https://github.com/AllanLotta/bo1-zombies-coop) |
 | Call of Duty: Modern Warfare 2 | [▶ ovz-game-production.up.railway.app](https://ovz-game-production.up.railway.app) |  |
 | Call of Mini: Dino Hunter (Revival) | [▶ comdh.krig.games](https://comdh.krig.games/) |  |
@@ -432,7 +433,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="g"></a>
 
-## G <sub>· 54</sub>
+## G <sub>· 56</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -469,6 +470,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Grand Theft Auto III (wasm.rip) | [▶ wasm.rip](https://wasm.rip/files/gta3/index.html) |  |
 | Grand Theft Auto III Online (quenq) | [▶ iii.quenq.com](https://iii.quenq.com/) |  |
 | Grand Theft Auto IV (gta4-web) |  | [📦 itzzace/gta4-web](https://github.com/itzzace/gta4-web) |
+| Grand Theft Auto IV (reGRANDIV-v2) |  | [📦 shadany7824/reGRANDIV-v2](https://github.com/shadany7824/reGRANDIV-v2) |
 | ⭐ Grand Theft Auto: Chinatown Wars (PPSSPP Web) | [▶ gta-chinatown-wars.pages.dev](https://gta-chinatown-wars.pages.dev/) | [📦 root-hunter/ppsspp-web](https://github.com/root-hunter/ppsspp-web) |
 | Grand Theft Auto: Vice City (quenq) | [▶ vc.quenq.com](https://vc.quenq.com/) |  |
 | ⭐ Grand Theft Auto: Vice City (revc.wasm.ltd) | [▶ revc.wasm.ltd](https://revc.wasm.ltd/) | [📦 origami-ltd/wasm-revc](https://github.com/origami-ltd/wasm-revc) |
@@ -496,7 +498,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="h"></a>
 
-## H <sub>· 44</sub>
+## H <sub>· 45</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -506,6 +508,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | ⭐ Half-Life and Counter-Strike 1.6 (WebXash) | [▶ x8bitrain.github.io](https://x8bitrain.github.io/webXash/) | [📦 x8bitrain/webXash](https://github.com/x8bitrain/webXash) |
 | ⭐ Halo: Combat Evolved | [▶ mitchellhynes.com](https://mitchellhynes.com/halo/halo.html) | [📦 ecumene/web-halo](https://github.com/ecumene/web-halo) |
 | Halo: Combat Evolved (Combat Lab) | [▶ mitchellhynes.com](https://mitchellhynes.com/combat-lab/) |  |
+| Halo: Combat Evolved (halo-ce-web-multiplayer) |  | [📦 GACWR/halo-ce-web-multiplayer](https://github.com/GACWR/halo-ce-web-multiplayer) |
 | ⭐ Halo: Combat Evolved (OpenCE) | [▶ opencommunityedition.com](https://opencommunityedition.com/) | [📦 OpenCommunityEdition/OpenCE](https://github.com/OpenCommunityEdition/OpenCE) |
 | Halo: Combat Evolved Mobile | [▶ hcemobile.com](https://hcemobile.com/) |  |
 | ⭐ Happy Room | [▶ wasm.rip](https://wasm.rip/files/happy-room/index.html) | [📦 degloved-net/happy-room](https://github.com/degloved-net/happy-room) |
@@ -568,7 +571,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="j"></a>
 
-## J <sub>· 11</sub>
+## J <sub>· 12</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -583,6 +586,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Jumbo Mario | [▶ gn-math.dev](https://gn-math.dev/?id=712) |  |
 | Jump 'n Bump |  | [📦 midzer/jumpnbump](https://github.com/midzer/jumpnbump) |
 | ⭐ Just Shapes & Beats | [▶ gn-math.dev](https://gn-math.dev/?id=826) | [📦 web-ports/jsab](https://github.com/web-ports/jsab) |
+| Just Shapes & Beats (web port) |  | [📦 PaxyHilly/justshapesandbeatswebport](https://github.com/PaxyHilly/justshapesandbeatswebport) |
 
 <p align="right"><a href="#jump-to">↑ back to top</a></p>
 
@@ -621,7 +625,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="l"></a>
 
-## L <sub>· 31</sub>
+## L <sub>· 32</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -636,6 +640,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | The Legend of Zelda - A Link to the Past |  | [📦 midzer/zelda3](https://github.com/midzer/zelda3) |
 | The Legend of Zelda - A Link to the Past (lttp, WebGL remake) |  | [📦 englercj/lttp](https://github.com/englercj/lttp) |
 | The Legend of Zelda: Link's Awakening DX (linksawakening-portable) |  | [📦 sp00nznet/linksawakening-portable](https://github.com/sp00nznet/linksawakening-portable) |
+| ⭐ The Legend of Zelda: Ocarina of Time (oot-cleanroom) | [▶ andrewnakas.github.io](https://andrewnakas.github.io/oot-cleanroom/) | [📦 andrewnakas/oot-cleanroom](https://github.com/andrewnakas/oot-cleanroom) |
 | ⭐ The Legend of Zelda: Twilight Princess (Dusklight) | [▶ dusklight.pages.dev](https://dusklight.pages.dev/) | [📦 caribbeansc/dusklight](https://github.com/caribbeansc/dusklight) |
 | ⭐ LEGO Island | [▶ isle.pizza](https://isle.pizza/) | [📦 isledecomp/isle.pizza](https://github.com/isledecomp/isle.pizza) |
 | LEGO Racers | [▶ steponit.online](https://steponit.online/) |  |
@@ -808,7 +813,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="p"></a>
 
-## P <sub>· 66</sub>
+## P <sub>· 67</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -851,6 +856,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Pokémon Emerald (pokeemerald-wasm) |  | [📦 tripplyons/pokeemerald-wasm](https://github.com/tripplyons/pokeemerald-wasm) |
 | Pokémon Emerald 3D (pokeemerald-3d) |  | [📦 tripplyons/pokeemerald-3d](https://github.com/tripplyons/pokeemerald-3d) |
 | Pokémon Mystery Dungeon (Web Mystery Dungeon) | [▶ frequentgamer.itch.io](https://frequentgamer.itch.io/pmdweb) |  |
+| Pokémon Platinum (open-sinnoh) |  | [📦 DennisSnijder/open-sinnoh](https://github.com/DennisSnijder/open-sinnoh) |
 | Pokémon Snap (pokemonsnap-web) |  | [📦 Sorikairox/pokemonsnap-web](https://github.com/Sorikairox/pokemonsnap-web) |
 | Pokémon Yellow (pokemon-yellow-typescript) |  | [📦 gididaf/pokemon-yellow-typescript](https://github.com/gididaf/pokemon-yellow-typescript) |
 | ⭐ Portal | [▶ yikes.pw](https://yikes.pw/portal/) | [📦 weliveinhell/source-engine](https://github.com/weliveinhell/source-engine) |
@@ -952,7 +958,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="s"></a>
 
-## S <sub>· 146</sub>
+## S <sub>· 147</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -1080,6 +1086,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Super Mario 64 (n64hub recomp) |  | [📦 n64hub/super-mario-64-recomp](https://github.com/n64hub/super-mario-64-recomp) |
 | Super Mario 64 (rgc.zone) | [▶ rgc.zone](https://rgc.zone/ports/sm64-main/index.html) |  |
 | Super Mario 64 (sm3das) | [▶ heyitsheart.github.io](https://heyitsheart.github.io/sm3das/64/) |  |
+| ⭐ Super Mario 64 (sm64-cleanroom) | [▶ andrewnakas.github.io](https://andrewnakas.github.io/sm64-cleanroom/) | [📦 andrewnakas/sm64-cleanroom](https://github.com/andrewnakas/sm64-cleanroom) |
 | ⭐ Super Mario 64 (sm64coopdx in browser) | [▶ b1t64.github.io](https://b1t64.github.io/m64-dl6t2g/) | [📦 B1T64/m64-dl6t2g](https://github.com/B1T64/m64-dl6t2g) |
 | Super Mario 64 (sm64js) |  | [📦 sm64js/sm64js](https://github.com/sm64js/sm64js) |
 | Super Mario 64 DS (Enhanced PC Port) |  | [📦 wigwoo1/Super-Mario-64-DS-Enhanced-PC-Port](https://github.com/wigwoo1/Super-Mario-64-DS-Enhanced-PC-Port) |
@@ -1107,7 +1114,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="t"></a>
 
-## T <sub>· 40</sub>
+## T <sub>· 43</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -1125,6 +1132,9 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Tony Hawk's Underground 2 | [▶ tonyhawksunderground2.online](https://tonyhawksunderground2.online/) |  |
 | Tony Hawk's Underground 2 (thug2-web) |  | [📦 Loosemond/thug2-web](https://github.com/Loosemond/thug2-web) |
 | Total Annihilation: Kingdoms (OpenKingdoms) |  | [📦 OpenKingdoms/OpenKingdoms](https://github.com/OpenKingdoms/OpenKingdoms) |
+| Turok 2: Seeds of Evil (turok-2-recomp) |  | [📦 n64hub/turok-2-recomp](https://github.com/n64hub/turok-2-recomp) |
+| Turok 3: Shadow of Oblivion (turok-3-recomp) |  | [📦 n64hub/turok-3-recomp](https://github.com/n64hub/turok-3-recomp) |
+| Turok: Dinosaur Hunter (turok-recomp) |  | [📦 n64hub/turok-recomp](https://github.com/n64hub/turok-recomp) |
 | t³ (T cubed) | [▶ gn-math.dev](https://gn-math.dev/?id=818) |  |
 | Taiko no Tatsujin | [▶ cjdgrevival.com](https://cjdgrevival.com/) |  |
 | ⭐ Tattletail | [▶ gn-math.github.io](https://gn-math.github.io/web-port/tattletail/) | [📦 genizy/web-port/tree/main/tattletail](https://github.com/genizy/web-port/tree/main/tattletail) |
