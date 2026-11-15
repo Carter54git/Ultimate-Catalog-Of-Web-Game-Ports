@@ -6,7 +6,7 @@
 
 **Games you can play right in the browser — WebAssembly, WebGL, Emscripten, Unity, Godot, Flash/Ruffle and pure JavaScript ports.**
 
-![games](https://img.shields.io/badge/games-1038-8A2BE2?style=for-the-badge) ![playable demos](https://img.shields.io/badge/playable%20demos-579-2ea44f?style=for-the-badge) ![with source](https://img.shields.io/badge/with%20source-711-1f6feb?style=for-the-badge) ![demo + source](https://img.shields.io/badge/demo%20+%20source-260-f59e0b?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--10--25-555?style=for-the-badge)
+![games](https://img.shields.io/badge/games-1044-8A2BE2?style=for-the-badge) ![playable demos](https://img.shields.io/badge/playable%20demos-582-2ea44f?style=for-the-badge) ![with source](https://img.shields.io/badge/with%20source-718-1f6feb?style=for-the-badge) ![demo + source](https://img.shields.io/badge/demo%20+%20source-264-f59e0b?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--11--15-555?style=for-the-badge)
 
 </div>
 
@@ -28,10 +28,11 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="num"></a>
 
-## # <sub>· 6</sub>
+## # <sub>· 7</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
+| 0 A.D. (WebAssembly; experimental) |  | [📦 MatiusRock1/0adwebassembly](https://github.com/MatiusRock1/0adwebassembly) |
 | Девятка (1994) | [▶ rgc.zone](https://rgc.zone/ports/nine-1994/index.html) |  |
 | ⭐ -3 | [▶ gn-math.dev](https://gn-math.dev/?id=816) | [📦 aukak/-3](https://github.com/aukak/-3) |
 | -b |  | [📦 web-ports/baldi-mods/tree/main/-b](https://github.com/web-ports/baldi-mods/tree/main/-b) |
@@ -87,7 +88,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="b"></a>
 
-## B <sub>· 62</sub>
+## B <sub>· 63</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -124,6 +125,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Biolab Disaster |  | [📦 phoboslab/high_biolab](https://github.com/phoboslab/high_biolab) |
 | ⭐ A Bite at Freddy's | [▶ gn-math.dev](https://gn-math.dev/?id=258) | [📦 freebuisness/assets/tree/main/258](https://github.com/freebuisness/assets/tree/main/258) |
 | Black Hole Fishing |  | [📦 mynamescrax/gamesforaetheris/tree/main/blackholefishing](https://github.com/mynamescrax/gamesforaetheris/tree/main/blackholefishing) |
+| ⭐ Blast Corps (DozerEncore) | [▶ doridian.github.io](https://doridian.github.io/DozerEncore/) | [📦 Doridian/DozerEncore](https://github.com/Doridian/DozerEncore) |
 | Blobby Volley 2 |  | [📦 danielknobe/blobbyvolley2](https://github.com/danielknobe/blobbyvolley2) |
 | Bloboats |  | [📦 midzer/bloboats](https://github.com/midzer/bloboats) |
 | Block Blast |  | [📦 SomeRandomFella/portsandrips/tree/master/blockblast-port](https://github.com/SomeRandomFella/portsandrips/tree/master/blockblast-port) |
@@ -520,7 +522,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | HAYAI |  | [📦 degloved-net/HAYAI](https://github.com/degloved-net/HAYAI) |
 | Haze (haze-recomp) |  | [📦 zdiemer/haze-recomp](https://github.com/zdiemer/haze-recomp) |
 | Heart of Darkness |  | [📦 midzer/hode](https://github.com/midzer/hode) |
-| Hedgewars (WebWars) |  | [📦 apmlabs/webwars](https://github.com/apmlabs/webwars) |
+| ⭐ Hedgewars (WebWars) | [▶ webwars.link](https://webwars.link) | [📦 apmlabs/webwars](https://github.com/apmlabs/webwars) |
 | ⭐ Helltaker | [▶ gn-math.dev](https://gn-math.dev/?id=790) | [📦 larpinguser/Helltaker-Web/tree/main/helltakerweb](https://github.com/larpinguser/Helltaker-Web/tree/main/helltakerweb) |
 | ⭐ Helltaker (2) | [▶ wasm.rip](https://wasm.rip/files/Helltaker/helltaker.html) | [📦 reeyuki/Helltaker-Webport](https://github.com/reeyuki/Helltaker-Webport) |
 | Help Hannah's Horse |  | [📦 midzer/hannah](https://github.com/midzer/hannah) |
@@ -666,7 +668,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="m"></a>
 
-## M <sub>· 68</sub>
+## M <sub>· 69</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -679,6 +681,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | The Man In The Window | [▶ gn-math.dev](https://gn-math.dev/?id=459) |  |
 | Marathon 2 / Infinity (AlephWeb) |  | [📦 TotallyGatsby/AlephWeb](https://github.com/TotallyGatsby/AlephWeb) |
 | Marble Blast Gold & Marble Blast Platinum |  | [📦 Vanilagy/MarbleBlast](https://github.com/Vanilagy/MarbleBlast) |
+| Marble Marcher (WebGPU; early development) |  | [📦 grinstead/MarbleMarcherWebGPU](https://github.com/grinstead/MarbleMarcherWebGPU) |
 | Mario Kart Wii (WebCompiled) |  | [📦 dynamiteswag81/webcompiled](https://github.com/dynamiteswag81/webcompiled) |
 | Mario Party (n64hub recomp) |  | [📦 n64hub/mario-party-recomp](https://github.com/n64hub/mario-party-recomp) |
 | Mario Party 2 (n64hub recomp) |  | [📦 n64hub/mario-party-2-recomp](https://github.com/n64hub/mario-party-2-recomp) |
@@ -958,7 +961,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="s"></a>
 
-## S <sub>· 147</sub>
+## S <sub>· 149</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -1033,6 +1036,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | ⭐ Sonic Robo Blast 2 | [▶ afd2025.srb2.org](https://afd2025.srb2.org/) | [📦 chromaticpipe/SRB2-WASM](https://github.com/chromaticpipe/SRB2-WASM) |
 | Sonic Robo Blast 2 (2) |  | [📦 web-ports/srb2](https://github.com/web-ports/srb2) |
 | Sonic Robo Blast 2 Kart | [▶ skyleite.github.io](https://skyleite.github.io/Kart-Public-WASM/) |  |
+| ⭐ Sonic Robo Blast 2 Kart (SRB2KartWeb) | [▶ kartweb.gvbvdxx.me](https://kartweb.gvbvdxx.me) | [📦 gvbvdxxalt2/SRB2KartWeb](https://github.com/gvbvdxxalt2/SRB2KartWeb) |
 | ⭐ Sonic Robo Blast 2 Legacy (SRB2LegacyWeb) | [▶ legacyweb.gvbvdxx.me](http://legacyweb.gvbvdxx.me/) | [📦 gvbvdxxalt2/SRB2LegacyWeb](https://github.com/gvbvdxxalt2/SRB2LegacyWeb) |
 | Sonic the Fighters | [▶ play.sonicthefighte.rs](https://play.sonicthefighte.rs/) |  |
 | ⭐ Sonic the Hedgehog (2013) | [▶ vinmannie.github.io](https://vinmannie.github.io/Sonic-1-WASM/) | [📦 VinMannie/Sonic-1-WASM](https://github.com/VinMannie/Sonic-1-WASM) |
@@ -1107,6 +1111,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Superflight |  | [📦 squidward5/superflight-webport](https://github.com/squidward5/superflight-webport) |
 | SuperTux |  | [📦 SuperTux/supertux](https://github.com/SuperTux/supertux) |
 | SuperTuxKart (browser) |  | [📦 ading2210/stk-code](https://github.com/ading2210/stk-code) |
+| SuperTuxKart (WebAssembly; experimental) |  | [📦 MatiusRock1/stkwebassembly](https://github.com/MatiusRock1/stkwebassembly) |
 | Swabs Expedition |  | [📦 burnedpopcorn/Swabs-Expedition-Web-Port](https://github.com/burnedpopcorn/Swabs-Expedition-Web-Port) |
 | ⭐ Syndicate | [▶ rgc.zone](https://rgc.zone/ports/syndweb/index.html) | [📦 midzer/freesynd](https://github.com/midzer/freesynd) |
 
@@ -1302,7 +1307,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | --- | --- | --- |
 | Zanac EX |  | [📦 ultimzeus/zanac-ex-webport](https://github.com/ultimzeus/zanac-ex-webport) |
 | Zato |  | [📦 z4laxis/ZatoWebport](https://github.com/z4laxis/ZatoWebport) |
-| Zelda II: The Adventure of Link (z2rs) | [▶ z2rs.com](https://z2rs.com/) |  |
+| ⭐ Zelda II: The Adventure of Link (z2rs) | [▶ z2rs.com](https://z2rs.com/) | [📦 troyedwardsjr/z2rs](https://github.com/troyedwardsjr/z2rs) |
 | Zeliard |  | [📦 nolanvenhola/zeliard](https://github.com/nolanvenhola/zeliard) |
 | Zuma Deluxe (ZumaTAS) |  | [📦 9933fa/Zuma-Deluxe-TAS](https://github.com/9933fa/Zuma-Deluxe-TAS) |
 
