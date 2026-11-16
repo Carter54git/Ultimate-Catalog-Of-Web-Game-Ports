@@ -6,7 +6,7 @@
 
 **Games you can play right in the browser — WebAssembly, WebGL, Emscripten, Unity, Godot, Flash/Ruffle and pure JavaScript ports.**
 
-![games](https://img.shields.io/badge/games-1044-8A2BE2?style=for-the-badge) ![playable demos](https://img.shields.io/badge/playable%20demos-582-2ea44f?style=for-the-badge) ![with source](https://img.shields.io/badge/with%20source-718-1f6feb?style=for-the-badge) ![demo + source](https://img.shields.io/badge/demo%20+%20source-264-f59e0b?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--11--15-555?style=for-the-badge)
+![games](https://img.shields.io/badge/games-1048-8A2BE2?style=for-the-badge) ![playable demos](https://img.shields.io/badge/playable%20demos-585-2ea44f?style=for-the-badge) ![with source](https://img.shields.io/badge/with%20source-723-1f6feb?style=for-the-badge) ![demo + source](https://img.shields.io/badge/demo%20+%20source-267-f59e0b?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--11--16-555?style=for-the-badge)
 
 </div>
 
@@ -160,7 +160,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="c"></a>
 
-## C <sub>· 80</sub>
+## C <sub>· 81</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -226,6 +226,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Counter-Strike: Source Surf | [▶ surfd.net](http://surfd.net) |  |
 | Crash Bash Online | [▶ crashbash.app](https://crashbash.app/) |  |
 | Crash Nitro Kart | [▶ crashnitrokart.online](https://crashnitrokart.online/) |  |
+| Crash of the Titans (Crash-OTT-web; WebGPU) |  | [📦 costa961/Crash-OTT-web](https://github.com/costa961/Crash-OTT-web) |
 | Crash Team Racing (High Octane) | [▶ rinnegatamante.github.io](https://rinnegatamante.github.io/Crash-Team-Racing-High-Octane/) |  |
 | Crash Team Racing Turbocharged | [▶ ctr.cmzi.uk](https://ctr.cmzi.uk/) |  |
 | Crashout Crew | [▶ wasm.rip](https://wasm.rip/files/cc/index.html) |  |
@@ -435,7 +436,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="g"></a>
 
-## G <sub>· 56</sub>
+## G <sub>· 57</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -450,6 +451,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | gays dot' studio |  | [📦 gays-studio](https://github.com/gays-studio) |
 | Genital Jousting |  | [📦 degloved-net/genital-jousting](https://github.com/degloved-net/genital-jousting) |
 | ⭐ Geometry Dash | [▶ gn-math.dev](https://gn-math.dev/?id=785) | [📦 AlexBoops/geometry-dash-webport](https://github.com/AlexBoops/geometry-dash-webport) |
+| ⭐ Geometry Dash (Ale7208) | [▶ gd-webport.pages.dev](https://gd-webport.pages.dev/) | [📦 Ale7208/Geometry-Dash-webport](https://github.com/Ale7208/Geometry-Dash-webport) |
 | ⭐ Geometry Dash (Web Dashers) | [▶ web-dashers.github.io](https://web-dashers.github.io/) | [📦 web-dashers/web-dashers.github.io](https://github.com/web-dashers/web-dashers.github.io) |
 | ⭐ Getting Over It | [▶ gn-math.github.io](https://gn-math.github.io/web-port/getting-over-it/) | [📦 genizy/web-port/tree/main/getting-over-it](https://github.com/genizy/web-port/tree/main/getting-over-it) |
 | Getting Over It with Bennett Foddy | [▶ gn-math.dev](https://gn-math.dev/?id=557) |  |
@@ -500,7 +502,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="h"></a>
 
-## H <sub>· 45</sub>
+## H <sub>· 46</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -522,6 +524,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | HAYAI |  | [📦 degloved-net/HAYAI](https://github.com/degloved-net/HAYAI) |
 | Haze (haze-recomp) |  | [📦 zdiemer/haze-recomp](https://github.com/zdiemer/haze-recomp) |
 | Heart of Darkness |  | [📦 midzer/hode](https://github.com/midzer/hode) |
+| ⭐ Heaven for Death | [▶ ymdryo.github.io](https://ymdryo.github.io/heavenfordeath/) | [📦 YmdRyo/heavenfordeath](https://github.com/YmdRyo/heavenfordeath) |
 | ⭐ Hedgewars (WebWars) | [▶ webwars.link](https://webwars.link) | [📦 apmlabs/webwars](https://github.com/apmlabs/webwars) |
 | ⭐ Helltaker | [▶ gn-math.dev](https://gn-math.dev/?id=790) | [📦 larpinguser/Helltaker-Web/tree/main/helltakerweb](https://github.com/larpinguser/Helltaker-Web/tree/main/helltakerweb) |
 | ⭐ Helltaker (2) | [▶ wasm.rip](https://wasm.rip/files/Helltaker/helltaker.html) | [📦 reeyuki/Helltaker-Webport](https://github.com/reeyuki/Helltaker-Webport) |
@@ -878,7 +881,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Pro Evolution Soccer 2014 (PSP) | [▶ pes14.online](https://pes14.online/) |  |
 | Pro Evolution Soccer 6 | [▶ pes6.optijuegos.net](http://pes6.optijuegos.net) |  |
 | Project I.G.I.: I'm Going In | [▶ playigi.com](https://playigi.com/game/) |  |
-| Project Zomboid |  |  |
+| Project Zomboid (Public Tech Demo; JavaScript JVM runtime) |  | [📦 mtnskye/ProjectZomboidTechDemoPort](https://github.com/mtnskye/ProjectZomboidTechDemoPort) |
 | Promises to Keep | [▶ gitea.mcalec.dev](https://gitea.mcalec.dev/mcalec/ptk) |  |
 | Prototype |  | [📦 midzer/prototype](https://github.com/midzer/prototype) |
 | Proxified Ports |  | [📦 burnedpopcorn/Proxified-Ports](https://github.com/burnedpopcorn/Proxified-Ports) |
@@ -961,7 +964,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="s"></a>
 
-## S <sub>· 149</sub>
+## S <sub>· 150</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -1049,6 +1052,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Sonic2 Community Cut WebPort |  | [📦 burnedpopcorn/Sonic2-Community-Cut-WebPort](https://github.com/burnedpopcorn/Sonic2-Community-Cut-WebPort) |
 | sonic3air webport |  | [📦 burnedpopcorn/sonic3air-webport](https://github.com/burnedpopcorn/sonic3air-webport) |
 | SonicManiaPlusWebPort |  | [📦 burnedpopcorn/SonicManiaPlusWebPort](https://github.com/burnedpopcorn/SonicManiaPlusWebPort) |
+| ⭐ Soul of Darkness | [▶ jubayer-cmd.github.io](https://jubayer-cmd.github.io/sod-web-port/play/) | [📦 Jubayer-cmd/sod-web-port](https://github.com/Jubayer-cmd/sod-web-port) |
 | Space Cadet |  | [📦 k4zmu2a/SpaceCadetPinball](https://github.com/k4zmu2a/SpaceCadetPinball) |
 | Space Rangers: Quests | [▶ spacerangers.gitlab.io](https://spacerangers.gitlab.io/) |  |
 | ⭐ Space Station 13 (ss13.live) | [▶ ss13.live](https://ss13.live) | [📦 Greytide-inc/ss13.live](https://github.com/Greytide-inc/ss13.live) |
