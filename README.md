@@ -6,7 +6,7 @@
 
 **Games you can play right in the browser — WebAssembly, WebGL, Emscripten, Unity, Godot, Flash/Ruffle and pure JavaScript ports.**
 
-![games](https://img.shields.io/badge/games-1048-8A2BE2?style=for-the-badge) ![playable demos](https://img.shields.io/badge/playable%20demos-585-2ea44f?style=for-the-badge) ![with source](https://img.shields.io/badge/with%20source-723-1f6feb?style=for-the-badge) ![demo + source](https://img.shields.io/badge/demo%20+%20source-267-f59e0b?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--11--16-555?style=for-the-badge)
+![games](https://img.shields.io/badge/games-1051-8A2BE2?style=for-the-badge) ![playable demos](https://img.shields.io/badge/playable%20demos-586-2ea44f?style=for-the-badge) ![with source](https://img.shields.io/badge/with%20source-726-1f6feb?style=for-the-badge) ![demo + source](https://img.shields.io/badge/demo%20+%20source-268-f59e0b?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--11--17-555?style=for-the-badge)
 
 </div>
 
@@ -160,7 +160,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="c"></a>
 
-## C <sub>· 81</sub>
+## C <sub>· 82</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -234,6 +234,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Createrria | [▶ nomadic-ua.itch.io](https://nomadic-ua.itch.io/createrria) |  |
 | Crisis Core: Final Fantasy VII | [▶ crisiscorefinalfantasy7.online](https://crisiscorefinalfantasy7.online/) |  |
 | ⭐ Cro-Mag Rally | [▶ midzer.de](https://midzer.de/wasm/cromagrally/) | [📦 midzer/CroMagRally](https://github.com/midzer/CroMagRally) |
+| Cross Hermit: Welcome to the Farthest (OpenCrossHermit) |  | [📦 freeze-man-1/OpenCrossHermit](https://github.com/freeze-man-1/OpenCrossHermit) |
 | ⭐ Cruelty Squad | [▶ gn-math.dev](https://gn-math.dev/?id=825) | [📦 imt00dizzy/cruelty-squad](https://github.com/imt00dizzy/cruelty-squad) |
 | Cruelty Squad (2) |  | [📦 web-ports/cruelty-squad](https://github.com/web-ports/cruelty-squad) |
 | Cultures: 8th Wonder of the World / Northland (cultures-saga-wasm) |  | [📦 cyberneticangel/cultures-saga-wasm](https://github.com/cyberneticangel/cultures-saga-wasm) |
@@ -895,7 +896,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="q"></a>
 
-## Q <sub>· 13</sub>
+## Q <sub>· 14</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -905,6 +906,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Quake II | [▶ rgc.zone](https://rgc.zone/ports/Q2web/index.html) |  |
 | Quake II (q2.pieter.com) | [▶ q2.pieter.com](http://q2.pieter.com) |  |
 | Quake II (Quake WASM2) | [▶ qwasm2.m-h.org.uk](https://qwasm2.m-h.org.uk/) |  |
+| Quake II (qwasm2-rs; alpha) |  | [📦 athola/qwasm2-rs](https://github.com/athola/qwasm2-rs) |
 | Quake III Arena | [▶ gn-math.dev](https://gn-math.dev/?id=263) |  |
 | Quake III Arena (q3.pieter.com) | [▶ q3.pieter.com](https://q3.pieter.com) |  |
 | ⭐ Quake III Arena (q3js) | [▶ q3js.com](https://q3js.com/) | [📦 lklacar/q3js](https://github.com/lklacar/q3js) |
@@ -1175,12 +1177,13 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="u"></a>
 
-## U <sub>· 23</sub>
+## U <sub>· 24</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
 | UFC 2009 Undisputed / Throwdown | [▶ ufc2.online](https://ufc2.online/) |  |
 | UFC Throwdown | [▶ ufc2.online](https://ufc2.online/) |  |
+| ⭐ Ultima V: Warriors of Destiny (ultima5) | [▶ synthwave-pixel.github.io](https://synthwave-pixel.github.io/ultima5/) | [📦 synthwave-pixel/ultima5](https://github.com/synthwave-pixel/ultima5) |
 | Ultima VI (Rust/wasm) |  | [📦 2lab-ai/ultima6](https://github.com/2lab-ai/ultima6) |
 | ULTRAKILL | [▶ gn-math.dev](https://gn-math.dev/?id=196) |  |
 | ULTRAKILL | [▶ monoxide.dev](https://monoxide.dev/ultrakill) |  |
