@@ -6,7 +6,7 @@
 
 **Games you can play right in the browser — WebAssembly, WebGL, Emscripten, Unity, Godot, Flash/Ruffle and pure JavaScript ports.**
 
-![games](https://img.shields.io/badge/games-1065-8A2BE2?style=for-the-badge) ![playable demos](https://img.shields.io/badge/playable%20demos-596-2ea44f?style=for-the-badge) ![with source](https://img.shields.io/badge/with%20source-733-1f6feb?style=for-the-badge) ![demo + source](https://img.shields.io/badge/demo%20+%20source-271-f59e0b?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--11--20-555?style=for-the-badge)
+![games](https://img.shields.io/badge/games-1067-8A2BE2?style=for-the-badge) ![playable demos](https://img.shields.io/badge/playable%20demos-599-2ea44f?style=for-the-badge) ![with source](https://img.shields.io/badge/with%20source-735-1f6feb?style=for-the-badge) ![demo + source](https://img.shields.io/badge/demo%20+%20source-274-f59e0b?style=for-the-badge) ![updated](https://img.shields.io/badge/updated-2026--11--21-555?style=for-the-badge)
 
 </div>
 
@@ -28,11 +28,12 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="num"></a>
 
-## # <sub>· 7</sub>
+## # <sub>· 8</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
 | 0 A.D. (WebAssembly; experimental) |  | [📦 MatiusRock1/0adwebassembly](https://github.com/MatiusRock1/0adwebassembly) |
+| ⭐ 4th & Fury | [▶ nearbycoder.github.io](https://nearbycoder.github.io/4th-and-fury/play/) | [📦 nearbycoder/4th-and-fury](https://github.com/nearbycoder/4th-and-fury) |
 | Девятка (1994) | [▶ rgc.zone](https://rgc.zone/ports/nine-1994/index.html) |  |
 | ⭐ -3 | [▶ gn-math.dev](https://gn-math.dev/?id=816) | [📦 aukak/-3](https://github.com/aukak/-3) |
 | -b |  | [📦 web-ports/baldi-mods/tree/main/-b](https://github.com/web-ports/baldi-mods/tree/main/-b) |
@@ -162,7 +163,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 <a id="c"></a>
 
-## C <sub>· 82</sub>
+## C <sub>· 83</sub>
 
 | Game | Play | Source |
 | --- | --- | --- |
@@ -239,6 +240,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 | Cross Hermit: Welcome to the Farthest (OpenCrossHermit) |  | [📦 freeze-man-1/OpenCrossHermit](https://github.com/freeze-man-1/OpenCrossHermit) |
 | ⭐ Cruelty Squad | [▶ gn-math.dev](https://gn-math.dev/?id=825) | [📦 imt00dizzy/cruelty-squad](https://github.com/imt00dizzy/cruelty-squad) |
 | Cruelty Squad (2) |  | [📦 web-ports/cruelty-squad](https://github.com/web-ports/cruelty-squad) |
+| ⭐ Cube 2: Sauerbraten (BananaBread demo) | [▶ kripken.github.io](https://kripken.github.io/BananaBread/cube2/bb.html) | [📦 kripken/BananaBread](https://github.com/kripken/BananaBread) |
 | Cultures: 8th Wonder of the World / Northland (cultures-saga-wasm) |  | [📦 cyberneticangel/cultures-saga-wasm](https://github.com/cyberneticangel/cultures-saga-wasm) |
 | ⭐ Cuphead | [▶ gn-math.github.io](https://gn-math.github.io/web-port/cuphead/) | [📦 genizy/web-port/tree/main/cuphead](https://github.com/genizy/web-port/tree/main/cuphead) |
 | Cuphead (2) |  | [📦 woahhcrackers/CupheadWeb](https://github.com/woahhcrackers/CupheadWeb) |
@@ -806,7 +808,7 @@ Many ports need your own game files (they ask you to upload the original data). 
 
 | Game | Play | Source |
 | --- | --- | --- |
-| Ogre Battle 64: Person of Lordly Caliber (recomp) |  | [📦 lfarroco/ogre-battle-64-recomp](https://github.com/lfarroco/ogre-battle-64-recomp) |
+| ⭐ Ogre Battle 64: Person of Lordly Caliber (experimental web build) | [▶ lfarroco.github.io](https://lfarroco.github.io/ogre-battle-64-recomp/) | [📦 lfarroco/ogre-battle-64-recomp](https://github.com/lfarroco/ogre-battle-64-recomp) |
 | OLD CheesedUP |  | [📦 burnedpopcorn/OLD-CheesedUP-Web-Port](https://github.com/burnedpopcorn/OLD-CheesedUP-Web-Port) |
 | ⭐ OMORI | [▶ gn-math.github.io](https://gn-math.github.io/web-port/omori-fixed/) | [📦 genizy/web-port/tree/main/omori-fixed](https://github.com/genizy/web-port/tree/main/omori-fixed) |
 | OMORI (openomori) |  | [📦 dazacode/openomori](https://github.com/dazacode/openomori) |
